@@ -1,0 +1,350 @@
+[
+  {
+    "target": "pelomundo",
+    "url": "https://azulpelomundo.voeazul.com.br/",
+    "status": "SEARCH_FORM",
+    "inventory": [
+      {
+        "tag": "BUTTON",
+        "text": "Comprar Passagens",
+        "id": "menu-comprar-passagens"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Minhas Viagens",
+        "id": "consultar-pnr"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "ida e volta",
+        "id": "btnRoundTrip"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "somente ida ou volta",
+        "id": "btnOneWay"
+      },
+      {
+        "tag": "INPUT",
+        "text": "Selecione a origem",
+        "id": "autocompleteFlightOrigin"
+      },
+      {
+        "tag": "INPUT",
+        "text": "Selecione o destino",
+        "id": "autocompleteFlightDestination"
+      }
+    ],
+    "miles_links": [
+      {
+        "text": "",
+        "href": "https://azulpelomundo.voeazul.com.br/"
+      },
+      {
+        "text": "Parcerias",
+        "href": "https://azul-prod65.adobecqms.net/br/pt/programa-fidelidade/acumulo-de-pontos/companhias-parceiras"
+      },
+      {
+        "text": "Azul e United",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/parceiros/cias-aereas/united"
+      },
+      {
+        "text": "Conheça o Programa",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/conheca-o-programa"
+      },
+      {
+        "text": "Categorias",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/categorias"
+      },
+      {
+        "text": "Cadastre-se",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade"
+      },
+      {
+        "text": "Parcerias",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/parceiros"
+      },
+      {
+        "text": "Clube Azul",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/clube-azul"
+      },
+      {
+        "text": "Cartão Azul Itaú",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/azul-itau"
+      },
+      {
+        "text": "Comprar Pontos",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/comprar-pontos"
+      },
+      {
+        "text": "Shopping Azul Fidelidade",
+        "href": "https://shopping.tudoazul.com/"
+      },
+      {
+        "text": "Renovar Pontos",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/renovar-pontos"
+      },
+      {
+        "text": "Regulamentos",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/regulamento"
+      }
+    ]
+  },
+  {
+    "target": "voeazul",
+    "url": "https://www.voeazul.com.br/br/pt/home",
+    "status": "PORTAL_OK",
+    "inventory": [
+      {
+        "tag": "BUTTON",
+        "text": "PT | BRL",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Minhas reservas",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Menu",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Fechar menu principal",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Categoria Mais procurados",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Categoria Passagens aéreas",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Categoria Azul Fidelidade",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Categoria Viagem completa",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Categoria Envio e encomendas",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Fazer check-in na categoria Mais",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Ofertas na categoria Mais procur",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Azul | CBF na categoria Mais pro",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Alteração e cancelamento na cate",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Azul Fidelidade na categoria Mai",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Confirme sua reserva na categori",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Promoções Azul Fidelidade na cat",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Azul pelo Mundo na categoria Mai",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Minhas reservas na categoria Mai",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessar Stopover na categoria Mais procu",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Login",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Acessibilidade - Clique para ver opções",
+        "id": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Voos",
+        "id": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Hotéis",
+        "id": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Ingressos e Passeios",
+        "id": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Carros",
+        "id": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "20% OFF\n\nVoos + Hotel",
+        "id": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Cruzeiro",
+        "id": ""
+      },
+      {
+        "tag": "INPUT",
+        "text": "",
+        "id": ""
+      },
+      {
+        "tag": "INPUT",
+        "text": "Digite",
+        "id": ":r4:"
+      },
+      {
+        "tag": "INPUT",
+        "text": "",
+        "id": ""
+      },
+      {
+        "tag": "INPUT",
+        "text": "Digite",
+        "id": ":r5:"
+      },
+      {
+        "tag": "INPUT",
+        "text": "Selecione",
+        "id": ":r6:"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Passagens\nEm até 12x sem juros",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Inter Loop + Azul\nAté 110% de bônus!",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Congele sua tarifa\n50% OFF nas taxas",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Passagens nacionais\nCom 5% OFF no Pix",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Anterior",
+        "id": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Próximo",
+        "id": ""
+      },
+      {
+        "tag": "DIV",
+        "text": "Azul Itaú Mastercard Skyline / Visa Infi",
+        "id": "acc-heading-azul-itaú-mastercard-skyline-/-visa-infinite"
+      },
+      {
+        "tag": "DIV",
+        "text": "Azul Itaú Platinum\n\nAté 2,6 pontos\n\nA ca",
+        "id": "acc-heading-azul-itaú-platinum"
+      }
+    ],
+    "miles_links": [
+      {
+        "text": "Azul Fidelidade",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/conheca-o-programa.html"
+      },
+      {
+        "text": "Azul Fidelidade",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/conheca-o-programa.html"
+      },
+      {
+        "text": "Azul pelo mundo",
+        "href": "https://azulpelomundo.voeazul.com.br/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/azul-itau"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/clube-azul#planos"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/niveis.html"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/niveis.html"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/niveis.html"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/niveis.html"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/niveis.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/taxa-resgate-pontos"
+      },
+      {
+        "text": "Voeazulvoeazul.com.br/br/pt/programa-fidelidade...",
+        "href": "https://www.voeazul.com.br/br/pt/programa-fidelidade/taxa-resgate-pontos"
+      }
+    ]
+  }
+]

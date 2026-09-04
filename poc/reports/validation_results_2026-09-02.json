@@ -1,0 +1,465 @@
+[
+  {
+    "label": "E1_2027",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2027-07-28",
+    "return": "2027-08-05",
+    "status": "NO_RESULTS",
+    "prices": [],
+    "network_price_count": 0,
+    "listitem_count": 0,
+    "sample_options": [],
+    "execution_time": 59.9,
+    "timestamp": "2026-09-02T09:33:57.267025",
+    "evidence": {
+      "screenshot": "validation_E1_2027_GRU.png",
+      "html": "validation_E1_2027_GRU.html"
+    }
+  },
+  {
+    "label": "E2_controle",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "NO_RESULTS",
+    "prices": [],
+    "network_price_count": 9,
+    "listitem_count": 0,
+    "sample_options": [],
+    "execution_time": 61.4,
+    "timestamp": "2026-09-02T09:35:06.529977",
+    "evidence": {
+      "screenshot": "validation_E2_controle_GRU.png",
+      "html": "validation_E2_controle_GRU.html"
+    }
+  },
+  {
+    "label": "E1_2027",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2027-07-28",
+    "return": "2027-08-05",
+    "status": "THIN_RESULTS",
+    "prices": [
+      8786,
+      10663
+    ],
+    "network_price_count": 0,
+    "li_with_price_count": 3,
+    "sample_options": [
+      "qua., 28 de jul. — qui., 29 de jul.\nVoltar 1 dia depois\na partir de R$ 8.786\nPesquisar",
+      "ter., 27 de jul. — qua., 28 de jul.\nPartir 1 dia antes\na partir de R$ 10.663\nPesquisar",
+      "seg., 26 de jul. — ter., 27 de jul.\nPartir 2 dias antes · Voltar 1 dia antes\na partir de R$ 10.663\nPesquisar"
+    ],
+    "execution_time": 54.1,
+    "timestamp": "2026-09-02T09:38:45.149088",
+    "evidence": {
+      "screenshot": "validation_E1_2027_GRU.png",
+      "html": "validation_E1_2027_GRU.html"
+    }
+  },
+  {
+    "label": "E2_controle",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      8092,
+      8193,
+      8323,
+      9071,
+      9922,
+      10559,
+      12069,
+      13908,
+      23793
+    ],
+    "network_price_count": 12,
+    "li_with_price_count": 28,
+    "sample_options": [
+      "11:00\n – \n23:10+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n26h 10 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.316 kg CO2e\n13% mais emissões\nR$ 7.799\nida e volta",
+      "23:40\n – \n14:50+2\nLATAM, LufthansaOperado por Latam Airlines Brasil\n29h 10 min\nGRU–BKK\n2 paradas\nLHR, MUC\n1.268 kg CO2e\n9% mais emissões\nR$ 8.092\nida e volta",
+      "11:00\n – \n19:25+1\nQatar AirwaysLATAM\n22h 25 min\nGRU–BKK\n1 parada\n2h 40 min DOH\n1.215 kg CO2e\nMédia de emissões\nR$ 8.323\nida e volta",
+      "01:30\n – \n12:05+1\nEmirates\n24h 35 min\nGRU–BKK\n1 parada\n4h 30 min DXB\n1.246 kg CO2e\n7% mais emissões\nR$ 9.922\nida e volta",
+      "02:10\n – \n17:40+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n29h 30 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.243 kg CO2e\n7% mais emissões\nR$ 7.799\nida e volta"
+    ],
+    "execution_time": 12.2,
+    "timestamp": "2026-09-02T09:39:46.676815",
+    "evidence": {
+      "screenshot": "validation_E2_controle_GRU.png",
+      "html": "validation_E2_controle_GRU.html"
+    }
+  },
+  {
+    "label": "E1_2027",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2027-07-28",
+    "return": "2027-08-05",
+    "status": "CALENDAR_NOT_OPEN",
+    "prices": [],
+    "network_price_count": 0,
+    "li_with_price_count": 0,
+    "suggestion_prices": [],
+    "sample_options": [],
+    "execution_time": 53.8,
+    "timestamp": "2026-09-02T09:41:11.122631",
+    "evidence": {
+      "screenshot": "validation_E1_2027_GRU.png",
+      "html": "validation_E1_2027_GRU.html"
+    }
+  },
+  {
+    "label": "E2_controle",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      8092,
+      8193,
+      8323,
+      9071,
+      9922,
+      10559,
+      12069,
+      13908,
+      23793
+    ],
+    "network_price_count": 10,
+    "li_with_price_count": 28,
+    "suggestion_prices": [],
+    "sample_options": [
+      "11:00\n – \n23:10+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n26h 10 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.316 kg CO2e\n13% mais emissões\nR$ 7.799\nida e volta",
+      "23:40\n – \n14:50+2\nLATAM, LufthansaOperado por Latam Airlines Brasil\n29h 10 min\nGRU–BKK\n2 paradas\nLHR, MUC\n1.268 kg CO2e\n9% mais emissões\nR$ 8.092\nida e volta",
+      "11:00\n – \n19:25+1\nQatar AirwaysLATAM\n22h 25 min\nGRU–BKK\n1 parada\n2h 40 min DOH\n1.215 kg CO2e\nMédia de emissões\nR$ 8.323\nida e volta",
+      "01:30\n – \n12:05+1\nEmirates\n24h 35 min\nGRU–BKK\n1 parada\n4h 30 min DXB\n1.246 kg CO2e\n7% mais emissões\nR$ 9.922\nida e volta",
+      "02:10\n – \n17:40+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n29h 30 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.243 kg CO2e\n7% mais emissões\nR$ 7.799\nida e volta"
+    ],
+    "execution_time": 13.0,
+    "timestamp": "2026-09-02T09:42:14.958257",
+    "evidence": {
+      "screenshot": "validation_E2_controle_GRU.png",
+      "html": "validation_E2_controle_GRU.html"
+    }
+  },
+  {
+    "label": "gate_r1",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      8092,
+      8193,
+      8323,
+      9071,
+      9922,
+      10559,
+      12069,
+      13908,
+      23793
+    ],
+    "network_price_count": 9,
+    "li_with_price_count": 28,
+    "suggestion_prices": [],
+    "sample_options": [
+      "11:00\n – \n23:10+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n26h 10 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.316 kg CO2e\n13% mais emissões\nR$ 7.799\nida e volta",
+      "23:40\n – \n14:50+2\nLATAM, LufthansaOperado por Latam Airlines Brasil\n29h 10 min\nGRU–BKK\n2 paradas\nLHR, MUC\n1.268 kg CO2e\n9% mais emissões\nR$ 8.092\nida e volta",
+      "11:00\n – \n19:25+1\nQatar AirwaysLATAM\n22h 25 min\nGRU–BKK\n1 parada\n2h 40 min DOH\n1.215 kg CO2e\nMédia de emissões\nR$ 8.323\nida e volta",
+      "01:30\n – \n12:05+1\nEmirates\n24h 35 min\nGRU–BKK\n1 parada\n4h 30 min DXB\n1.246 kg CO2e\n7% mais emissões\nR$ 9.922\nida e volta",
+      "02:10\n – \n17:40+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n29h 30 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.243 kg CO2e\n7% mais emissões\nR$ 7.799\nida e volta"
+    ],
+    "execution_time": 12.1,
+    "timestamp": "2026-09-02T09:42:55.995028",
+    "evidence": {
+      "screenshot": "validation_gate_r1_GRU.png",
+      "html": "validation_gate_r1_GRU.html"
+    }
+  },
+  {
+    "label": "gate_r2",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      8092,
+      8193,
+      8323,
+      9071,
+      9922,
+      10559,
+      12069,
+      13908,
+      23793
+    ],
+    "network_price_count": 10,
+    "li_with_price_count": 28,
+    "suggestion_prices": [],
+    "sample_options": [
+      "11:00\n – \n23:10+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n26h 10 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.316 kg CO2e\n13% mais emissões\nR$ 7.799\nida e volta",
+      "23:40\n – \n14:50+2\nLATAM, LufthansaOperado por Latam Airlines Brasil\n29h 10 min\nGRU–BKK\n2 paradas\nLHR, MUC\n1.268 kg CO2e\n9% mais emissões\nR$ 8.092\nida e volta",
+      "11:00\n – \n19:25+1\nQatar AirwaysLATAM\n22h 25 min\nGRU–BKK\n1 parada\n2h 40 min DOH\n1.215 kg CO2e\nMédia de emissões\nR$ 8.323\nida e volta",
+      "01:30\n – \n12:05+1\nEmirates\n24h 35 min\nGRU–BKK\n1 parada\n4h 30 min DXB\n1.246 kg CO2e\n7% mais emissões\nR$ 9.922\nida e volta",
+      "02:10\n – \n17:40+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n29h 30 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.243 kg CO2e\n7% mais emissões\nR$ 7.799\nida e volta"
+    ],
+    "execution_time": 12.2,
+    "timestamp": "2026-09-02T09:43:18.521800",
+    "evidence": {
+      "screenshot": "validation_gate_r2_GRU.png",
+      "html": "validation_gate_r2_GRU.html"
+    }
+  },
+  {
+    "label": "gate_r3",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      8092,
+      8193,
+      8323,
+      9071,
+      9922,
+      10559,
+      12069,
+      13908,
+      23793
+    ],
+    "network_price_count": 9,
+    "li_with_price_count": 28,
+    "suggestion_prices": [],
+    "sample_options": [
+      "11:00\n – \n23:10+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n26h 10 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.316 kg CO2e\n13% mais emissões\nR$ 7.799\nida e volta",
+      "23:40\n – \n14:50+2\nLATAM, LufthansaOperado por Latam Airlines Brasil\n29h 10 min\nGRU–BKK\n2 paradas\nLHR, MUC\n1.268 kg CO2e\n9% mais emissões\nR$ 8.092\nida e volta",
+      "11:00\n – \n19:25+1\nQatar AirwaysLATAM\n22h 25 min\nGRU–BKK\n1 parada\n2h 40 min DOH\n1.215 kg CO2e\nMédia de emissões\nR$ 8.323\nida e volta",
+      "01:30\n – \n12:05+1\nEmirates\n24h 35 min\nGRU–BKK\n1 parada\n4h 30 min DXB\n1.246 kg CO2e\n7% mais emissões\nR$ 9.922\nida e volta",
+      "02:10\n – \n17:40+1\nQatar Airways, Malaysia AirlinesLATAMOperado por Qatar Airways for Latam Airlines Group\n29h 30 min\nGRU–BKK\n2 paradas\nDOH, KUL\n1.243 kg CO2e\n7% mais emissões\nR$ 7.799\nida e volta"
+    ],
+    "execution_time": 12.2,
+    "timestamp": "2026-09-02T09:43:38.101578",
+    "evidence": {
+      "screenshot": "validation_gate_r3_GRU.png",
+      "html": "validation_gate_r3_GRU.html"
+    }
+  },
+  {
+    "label": "gate_r1",
+    "origin": "CGH",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      3843,
+      7799,
+      10849,
+      16368,
+      43472,
+      46015,
+      54460,
+      55051
+    ],
+    "network_price_count": 3,
+    "li_with_price_count": 12,
+    "suggestion_prices": [],
+    "sample_options": [
+      "18:45\n – \n12:05+2\nGol, EmiratesQantas\n31h 20 min\nCGH–BKK\n2 paradas\nGIG, DXB\n1.237 kg CO2e\n7% mais emissões\nR$ 10.849\nida e volta",
+      "22:15\n – \n18:40+2\nLATAM, EmiratesOperado por Latam Airlines Brasil, Latam Airlines Brasil\n34h 25 min\nCGH–BKK\n3 paradas\nFOR, LIS, DXB\n1.336 kg CO2e\n15% mais emissões\nR$ 16.368\nida e volta",
+      "20:00\n – \n12:05+2\nAzul, EmiratesCOPA\n30h 5 min\nCGH–BKK\n3 paradas\nCNF, GIG, DXB\n1.311 kg CO2e\n13% mais emissões\nR$ 43.472\nida e volta",
+      "20:25\n – \n12:05+2\nGol, Tap Air Portugal, Emirates\n29h 40 min\nCGH–BKK\n3 paradas\nSSA, LIS, DXB\n1.284 kg CO2e\n11% mais emissões\nR$ 46.015\nida e volta",
+      "20:25\n – \n10:45+2\nGol, Tap Air Portugal, SWISS\n28h 20 min\nCGH–BKK\n3 paradas\nSSA, LIS, ZRH\n1.247 kg CO2e\n7% mais emissões\nR$ 54.460\nida e volta"
+    ],
+    "execution_time": 11.0,
+    "timestamp": "2026-09-02T09:43:59.050178",
+    "evidence": {
+      "screenshot": "validation_gate_r1_CGH.png",
+      "html": "validation_gate_r1_CGH.html"
+    }
+  },
+  {
+    "label": "gate_r2",
+    "origin": "CGH",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      3843,
+      7799,
+      10849,
+      16368,
+      43472,
+      46015,
+      54460,
+      55051
+    ],
+    "network_price_count": 3,
+    "li_with_price_count": 12,
+    "suggestion_prices": [],
+    "sample_options": [
+      "18:45\n – \n12:05+2\nGol, EmiratesQantas\n31h 20 min\nCGH–BKK\n2 paradas\nGIG, DXB\n1.237 kg CO2e\n7% mais emissões\nR$ 10.849\nida e volta",
+      "22:15\n – \n18:40+2\nLATAM, EmiratesOperado por Latam Airlines Brasil, Latam Airlines Brasil\n34h 25 min\nCGH–BKK\n3 paradas\nFOR, LIS, DXB\n1.336 kg CO2e\n15% mais emissões\nR$ 16.368\nida e volta",
+      "20:00\n – \n12:05+2\nAzul, EmiratesCOPA\n30h 5 min\nCGH–BKK\n3 paradas\nCNF, GIG, DXB\n1.311 kg CO2e\n13% mais emissões\nR$ 43.472\nida e volta",
+      "20:25\n – \n12:05+2\nGol, Tap Air Portugal, Emirates\n29h 40 min\nCGH–BKK\n3 paradas\nSSA, LIS, DXB\n1.284 kg CO2e\n11% mais emissões\nR$ 46.015\nida e volta",
+      "20:25\n – \n10:45+2\nGol, Tap Air Portugal, SWISS\n28h 20 min\nCGH–BKK\n3 paradas\nSSA, LIS, ZRH\n1.247 kg CO2e\n7% mais emissões\nR$ 54.460\nida e volta"
+    ],
+    "execution_time": 11.2,
+    "timestamp": "2026-09-02T09:44:20.238412",
+    "evidence": {
+      "screenshot": "validation_gate_r2_CGH.png",
+      "html": "validation_gate_r2_CGH.html"
+    }
+  },
+  {
+    "label": "gate_r3",
+    "origin": "CGH",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      3843,
+      7799,
+      10849,
+      16368,
+      43472,
+      46015,
+      54460,
+      55051
+    ],
+    "network_price_count": 3,
+    "li_with_price_count": 12,
+    "suggestion_prices": [],
+    "sample_options": [
+      "18:45\n – \n12:05+2\nGol, EmiratesQantas\n31h 20 min\nCGH–BKK\n2 paradas\nGIG, DXB\n1.237 kg CO2e\n7% mais emissões\nR$ 10.849\nida e volta",
+      "22:15\n – \n18:40+2\nLATAM, EmiratesOperado por Latam Airlines Brasil, Latam Airlines Brasil\n34h 25 min\nCGH–BKK\n3 paradas\nFOR, LIS, DXB\n1.336 kg CO2e\n15% mais emissões\nR$ 16.368\nida e volta",
+      "20:00\n – \n12:05+2\nAzul, EmiratesCOPA\n30h 5 min\nCGH–BKK\n3 paradas\nCNF, GIG, DXB\n1.311 kg CO2e\n13% mais emissões\nR$ 43.472\nida e volta",
+      "20:25\n – \n12:05+2\nGol, Tap Air Portugal, Emirates\n29h 40 min\nCGH–BKK\n3 paradas\nSSA, LIS, DXB\n1.284 kg CO2e\n11% mais emissões\nR$ 46.015\nida e volta",
+      "20:25\n – \n10:45+2\nGol, Tap Air Portugal, SWISS\n28h 20 min\nCGH–BKK\n3 paradas\nSSA, LIS, ZRH\n1.247 kg CO2e\n7% mais emissões\nR$ 54.460\nida e volta"
+    ],
+    "execution_time": 11.1,
+    "timestamp": "2026-09-02T09:44:39.315570",
+    "evidence": {
+      "screenshot": "validation_gate_r3_CGH.png",
+      "html": "validation_gate_r3_CGH.html"
+    }
+  },
+  {
+    "label": "gate_r1",
+    "origin": "VCP",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      11037,
+      12411,
+      14406,
+      14903,
+      31093,
+      31095,
+      42949
+    ],
+    "network_price_count": 5,
+    "li_with_price_count": 16,
+    "suggestion_prices": [],
+    "sample_options": [
+      "17:45\n – \n12:05+2\nLATAM, EmiratesOperado por Latam Airlines Brasil, Latam Airlines Brasil\n32h 20 min\nVCP–BKK\n3 paradas\nBSB, GIG, DXB\n1.358 kg CO2e\n17% mais emissões\nR$ 11.037\nida e volta",
+      "10:35\n – \n18:05+2\nGol, Emirates\n45h 30 min\nVCP–BKK\n2 paradas\nGIG, DXB\n1.235 kg CO2e\n6% mais emissões\nR$ 12.411\nida e volta",
+      "10:35\n – \n12:05+2\nGol, EmiratesQantas\n39h 30 min\nVCP–BKK\n2 paradas\nGIG, DXB\n1.241 kg CO2e\n7% mais emissões\nR$ 14.406\nida e volta",
+      "15:15\n – \n22:50+2\nAzul, United, ANA\n45h 35 min\nVCP–BKK\n3 paradas\nGIG, IAH, NRT\n1.410 kg CO2e\n21% mais emissões\nR$ 14.903\nida e volta",
+      "09:45\n – \n11:30+2\nAzul, United\n39h 45 min\nVCP–BKK\n3 paradas\nMCO, LAX, HKG\n1.382 kg CO2e\n19% mais emissões\nR$ 31.093\nida e volta"
+    ],
+    "execution_time": 12.0,
+    "timestamp": "2026-09-02T09:44:58.946035",
+    "evidence": {
+      "screenshot": "validation_gate_r1_VCP.png",
+      "html": "validation_gate_r1_VCP.html"
+    }
+  },
+  {
+    "label": "gate_r2",
+    "origin": "VCP",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      11037,
+      12411,
+      14406,
+      14903,
+      31093,
+      31095,
+      42949
+    ],
+    "network_price_count": 5,
+    "li_with_price_count": 16,
+    "suggestion_prices": [],
+    "sample_options": [
+      "17:45\n – \n12:05+2\nLATAM, EmiratesOperado por Latam Airlines Brasil, Latam Airlines Brasil\n32h 20 min\nVCP–BKK\n3 paradas\nBSB, GIG, DXB\n1.358 kg CO2e\n17% mais emissões\nR$ 11.037\nida e volta",
+      "10:35\n – \n18:05+2\nGol, Emirates\n45h 30 min\nVCP–BKK\n2 paradas\nGIG, DXB\n1.235 kg CO2e\n6% mais emissões\nR$ 12.411\nida e volta",
+      "10:35\n – \n12:05+2\nGol, EmiratesQantas\n39h 30 min\nVCP–BKK\n2 paradas\nGIG, DXB\n1.241 kg CO2e\n7% mais emissões\nR$ 14.406\nida e volta",
+      "15:15\n – \n22:50+2\nAzul, United, ANA\n45h 35 min\nVCP–BKK\n3 paradas\nGIG, IAH, NRT\n1.410 kg CO2e\n21% mais emissões\nR$ 14.903\nida e volta",
+      "09:45\n – \n11:30+2\nAzul, United\n39h 45 min\nVCP–BKK\n3 paradas\nMCO, LAX, HKG\n1.382 kg CO2e\n19% mais emissões\nR$ 31.093\nida e volta"
+    ],
+    "execution_time": 13.4,
+    "timestamp": "2026-09-02T09:45:19.332662",
+    "evidence": {
+      "screenshot": "validation_gate_r2_VCP.png",
+      "html": "validation_gate_r2_VCP.html"
+    }
+  },
+  {
+    "label": "gate_r3",
+    "origin": "VCP",
+    "destination": "BKK",
+    "departure": "2026-12-08",
+    "return": "2026-12-16",
+    "status": "RESULTS",
+    "prices": [
+      7799,
+      11037,
+      12411,
+      14406,
+      14903,
+      31093,
+      31095,
+      42949
+    ],
+    "network_price_count": 5,
+    "li_with_price_count": 16,
+    "suggestion_prices": [],
+    "sample_options": [
+      "17:45\n – \n12:05+2\nLATAM, EmiratesOperado por Latam Airlines Brasil, Latam Airlines Brasil\n32h 20 min\nVCP–BKK\n3 paradas\nBSB, GIG, DXB\n1.358 kg CO2e\n17% mais emissões\nR$ 11.037\nida e volta",
+      "10:35\n – \n18:05+2\nGol, Emirates\n45h 30 min\nVCP–BKK\n2 paradas\nGIG, DXB\n1.235 kg CO2e\n6% mais emissões\nR$ 12.411\nida e volta",
+      "10:35\n – \n12:05+2\nGol, EmiratesQantas\n39h 30 min\nVCP–BKK\n2 paradas\nGIG, DXB\n1.241 kg CO2e\n7% mais emissões\nR$ 14.406\nida e volta",
+      "15:15\n – \n22:50+2\nAzul, United, ANA\n45h 35 min\nVCP–BKK\n3 paradas\nGIG, IAH, NRT\n1.410 kg CO2e\n21% mais emissões\nR$ 14.903\nida e volta",
+      "09:45\n – \n11:30+2\nAzul, United\n39h 45 min\nVCP–BKK\n3 paradas\nMCO, LAX, HKG\n1.382 kg CO2e\n19% mais emissões\nR$ 31.093\nida e volta"
+    ],
+    "execution_time": 11.9,
+    "timestamp": "2026-09-02T09:45:40.390658",
+    "evidence": {
+      "screenshot": "validation_gate_r3_VCP.png",
+      "html": "validation_gate_r3_VCP.html"
+    }
+  }
+]

@@ -1,0 +1,1762 @@
+[
+  {
+    "url": "https://www.smiles.com.br/",
+    "status": 302,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/home",
+    "status": 200,
+    "len": 441515
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/css/theme/modules//alert-liferay.css",
+    "status": 200,
+    "len": 45
+  },
+  {
+    "url": "https://www.smiles.com.br/o/commerce-frontend-js/styles/main.css",
+    "status": 200,
+    "len": 26632
+  },
+  {
+    "url": "https://www.smiles.com.br/o/layout-common-styles/main.css?plid=53&segmentsExperienceId=14091711&t=1782267267228",
+    "status": 200,
+    "len": 1518
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/js/jquery-min.js",
+    "status": 200,
+    "len": 87532
+  },
+  {
+    "url": "https://www.smiles.com.br/dd/rum-init-smiles-async.js?v=1787065262000",
+    "status": 200,
+    "len": 12930
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14058546/AER1483_V7_TVFLASH_DESKTOP.jpg/86af8356-706d-a76e-f517-2c3f24e9d18b?t=1781121282170",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//combo?browserId=chrome&minifierType=js&themeId=smilesliferay7theme_WAR_smilesliferay7theme&languageId=pt_BR&smilesliferayreactappsportlet_WAR_smilesliferayreactappsportlet_INSTANCE_Chatbot:%2Fo%2Fsmiles-liferay-react-apps-portlet%2Fjs%2Freact-16.14.0.min.js&smilesliferayreactappsportlet_WAR_smilesliferayreactappsportlet_INSTANCE_Chatbot:%2Fo%2Fsmiles-liferay-react-apps-portlet%2Fjs%2Freact-dom-16.14.0.min.js&smilesliferayreactappsportlet_WAR_smilesliferayreactappsportlet_INSTANCE_Chatbot:%2Fo%2Fsmiles-liferay-react-apps-portlet%2Fjs%2FremoteComponent.js&t=1787065262000",
+    "status": 200,
+    "len": 314176
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14355119/VIA713_TVFLASH_DESKTOP.jpg/1b24b120-fdcc-ef81-ab68-d54e40e34ca8?t=1787768184320",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14337636/CLU943_TVFLASH_DESKTOP.png/169e07ad-27d2-c267-d93d-912e146ddfbf?t=1787663369949",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14355524/B2C803_TVFLASH_DESKTOP.jpg/5c9e6f4a-fe73-ce8f-ba27-3b14710e039c?t=1787771813187",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14251598/COB303_TVFLASH_DESKTOP.jpg/44b567ec-640d-4ef9-e5ac-e0a444cef529?t=1785958586884",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835357/star.png/eabbd8a6-1d35-7fa0-a5c8-15441cec3351?t=1633973959497",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835357/gift.png/ff1c01fa-077f-b08c-8712-c8f253e56dc6?t=1633973959297",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835357/credit-card.png/11c3876a-dc75-9258-cd10-07e1d1797629?t=1633973959063",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835357/people.png/a2df113d-3b95-ea7a-9567-db6a3484ffd2?t=1633973958490",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835357/refresh.png/409aded2-c082-013c-9d38-3e3612d01756?t=1633973958831",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/smls_clear_button",
+    "status": 200,
+    "len": 654
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/close_mobile_feedback_shopping",
+    "status": 200,
+    "len": 632
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/shopping_bag",
+    "status": 200,
+    "len": 851
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835357/money.png/1766c6c5-4ed2-bc86-fccb-8a2236888fbf?t=1633973959709",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/SEGURO+VIAGEM_168x168.png/deb71469-3884-7a94-89ed-db352738425d?t=1677173508061",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/UBER_168x168.png/ddac9867-32c2-ba8e-7faa-409bc4af9a7d?t=1677172702481",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/SHOPPING_168x168.png/7ccbfcd4-afd0-ab09-6022-dc58ae13db01?t=1677172910880",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14303759/CLU941_INDICADOR_CARROSSEL_DESK.png/046a05ce-f681-9b83-9221-d66d6592a330?t=1786566563709",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14303759/CLU941_INDICADOR_CARROSSEL_MOBILE.png/83195da3-e6b0-8afe-0332-f1e49dcec6d5?t=1786566564212",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14257814/B2C785_CARROSSEL_DESK.jpg/e15b3a40-8806-7093-d7d8-92a330de0b15?t=1783446186974",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://static.smiler.com.br/hf/SmilesSearch.js?v=1787065262000",
+    "status": 200,
+    "len": 35181
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//o/smiles-liferay7-theme/js/main.js?browserId=chrome&minifierType=js&languageId=pt_BR&t=1787065262000",
+    "status": 200,
+    "len": 1154
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14357940/AER1498_2708_CARROSSEL_MOBILE.jpg/ac784af5-7e76-a31a-2082-6b22757d8c18?t=1787839197558",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/js/ls.unveilhooks.min.js",
+    "status": 200,
+    "len": 1699
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14324756/BAN671_CARROSSEL_DESK.jpg/64d8e1c7-8e1c-27b1-62f7-52f036243fdc?t=1786487172072",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14324756/BAN671_CARROSSEL_MOBILE.jpg/cafcefe4-d383-8ceb-4aa8-1046517e12f6?t=1786487171661",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/13868604/AER1482_CARROSSEL_DESK_V2.jpg/45a03e8b-c6f4-f5ec-a2fe-700acfb322d4?t=1777580298771",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/HOTEIS_168x168.png/789bdf76-667d-d929-a0ba-c0e31a2fac03?t=1677172893762",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/CARROS_168x168.png/302087ab-a502-553e-a8e5-1ca5cbc8e1a5?t=1677173487103",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/SHELL_168x168.png/aef76df8-e4e4-9d13-d015-97b7e85fde83?t=1677172881202",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14357940/AER1498_2708_CARROSSEL_DESKTOP.jpg/5f1da6c8-c7a5-32a7-a030-812f549fea26?t=1787839197157",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/13868604/AER1482_CARROSSEL_MOBILE_V2.jpg/a5f82df9-081e-9776-79ec-f5395e5c5fc8?t=1777580298351",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/logos/smiles/lg-smiles-orange.svg",
+    "status": 200,
+    "len": 4872
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14257814/B2C785_CARROSSEL_MOBILE.jpg/463c0474-8c3f-0add-9a04-c3670c6811c4?t=1783446187403",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 200,
+    "len": 545463
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/js/lazysizes.min.js",
+    "status": 200,
+    "len": 7889
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/JVAPV/Ex1X0UZ?v=152e7c03-0dcb-b305-97bf-674fcbdd0215",
+    "status": 200,
+    "len": 523633
+  },
+  {
+    "url": "https://www.smiles.com.br/dd/rum-init-core.js",
+    "status": 200,
+    "len": 8357
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/close_icon",
+    "status": 200,
+    "len": 1028
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/magnfying-glass-grey",
+    "status": 200,
+    "len": 1244
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14058546/AER1483_V7_TVFLASH_DESKTOP.jpg/86af8356-706d-a76e-f517-2c3f24e9d18b?t=1781121282170",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-web/__liferay__/index.js",
+    "status": 200,
+    "len": 86931
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 201,
+    "len": 0
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//o/smiles-liferay7-theme/images/clay/icons.svg",
+    "status": 200,
+    "len": 268422
+  },
+  {
+    "url": "https://smiles-mkt.s3.amazonaws.com/mkt-projetos/popup/popup_smiles_universal_2007.png",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14355119/VIA713_TVFLASH_DESKTOP.jpg/1b24b120-fdcc-ef81-ab68-d54e40e34ca8?t=1787768184320",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/HOTEIS_168x168.png/789bdf76-667d-d929-a0ba-c0e31a2fac03?t=1677172893762",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/CARROS_168x168.png/302087ab-a502-553e-a8e5-1ca5cbc8e1a5?t=1677173487103",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/SEGURO+VIAGEM_168x168.png/deb71469-3884-7a94-89ed-db352738425d?t=1677173508061",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/UBER_168x168.png/ddac9867-32c2-ba8e-7faa-409bc4af9a7d?t=1677172702481",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/SHELL_168x168.png/aef76df8-e4e4-9d13-d015-97b7e85fde83?t=1677172881202",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/835303/SHOPPING_168x168.png/7ccbfcd4-afd0-ab09-6022-dc58ae13db01?t=1677172910880",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/o/accessibility-settings-state-web/__liferay__/index.js",
+    "status": 200,
+    "len": 843
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/classnames.js",
+    "status": 200,
+    "len": 1502
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react.js",
+    "status": 200,
+    "len": 9513
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/index.js",
+    "status": 200,
+    "len": 28985
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-state-web/__liferay__/index.js",
+    "status": 200,
+    "len": 5277
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$alert.js",
+    "status": 200,
+    "len": 6972
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$button.js",
+    "status": 200,
+    "len": 6211
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$icon.js",
+    "status": 200,
+    "len": 1989
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$loading-indicator.js",
+    "status": 200,
+    "len": 2209
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$form.js",
+    "status": 200,
+    "len": 32838
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$modal.js",
+    "status": 200,
+    "len": 25900
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react-dom.js",
+    "status": 200,
+    "len": 124538
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/prop-types.js",
+    "status": 200,
+    "len": 2555
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "len": 2473
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-node-shims/__liferay__/exports/process.js",
+    "status": 200,
+    "len": 2119
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$core.js",
+    "status": 200,
+    "len": 215627
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$shared.js",
+    "status": 200,
+    "len": 55505
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$layout.js",
+    "status": 200,
+    "len": 14372
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-web/liferay/modal/Modal.css",
+    "status": 200,
+    "len": 1804
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-web/css/notification.css",
+    "status": 200,
+    "len": 203
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-banks-components/0.2.36/smiles-react-banks-components.js",
+    "status": 200,
+    "len": 2061630
+  },
+  {
+    "url": "https://c.go-mpulse.net/api/config.json?key=VKHNQ-4R7CE-B546X-STSHF-KSTXB&d=www.smiles.com.br&t=5961186&v=1.792.0&sl=0&si=dd0cea08-5fc8-46ff-a04e-4354b3d9a14c-tkqo1w&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,BFCache,LOGN&acao=&ak.ai=1039706",
+    "status": 200,
+    "len": 52
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-dependencies-web/__liferay__/exports/fuzzy.js",
+    "status": 200,
+    "len": 1734
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-dependencies-web/__liferay__/exports/react-transition-group.js",
+    "status": 200,
+    "len": 15854
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react-dnd-html5-backend.js",
+    "status": 200,
+    "len": 19926
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$link.js",
+    "status": 200,
+    "len": 3775
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$table.js",
+    "status": 200,
+    "len": 8591
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-dependencies-web/__liferay__/exports/dom-align.js",
+    "status": 200,
+    "len": 15740
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react-dnd.js",
+    "status": 200,
+    "len": 87259
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-chatbot/0.15.9/smiles-react-chatbot.js",
+    "status": 200,
+    "len": 1126401
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-ffp-optin/0.5.21/smiles-react-ffp-optin.js",
+    "status": 200,
+    "len": 1017050
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-update-club/0.10.3/smiles-react-update-club.js",
+    "status": 200,
+    "len": 1027952
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-lightbox/0.14.7/smiles-react-lightbox.js",
+    "status": 200,
+    "len": 2387275
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-b2c-modals/0.4.75/smiles-react-b2c-modals.js",
+    "status": 200,
+    "len": 1069383
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-bank-card-modals/0.1.2/smiles-react-bank-card-modals.js",
+    "status": 200,
+    "len": 1013960
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090213",
+    "status": 200,
+    "len": 1734
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090213",
+    "status": 200,
+    "len": 1720
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090213",
+    "status": 200,
+    "len": 2140
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090213",
+    "status": 200,
+    "len": 2095
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090213",
+    "status": 200,
+    "len": 1734
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090213",
+    "status": 200,
+    "len": 1720
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090213",
+    "status": 200,
+    "len": 2140
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090213",
+    "status": 200,
+    "len": 2095
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://api-cms-portal-prd.smiles.com.br/o/headless-delivery/v1.0/sites/20124/structured-contents?flatten=true&filter=(friendlyUrlPath+eq+%27popup_cobranded_content%27)",
+    "status": 200,
+    "len": 9623
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355655813",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355655814",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090213",
+    "status": 200,
+    "len": 2421
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090213",
+    "status": 200,
+    "len": 2610
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-package1.json?v=2026090213",
+    "status": 200,
+    "len": 2209
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-package2.json?v=2026090213",
+    "status": 200,
+    "len": 1680
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090213",
+    "status": 200,
+    "len": 2421
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090213",
+    "status": 200,
+    "len": 2610
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355656270",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 201,
+    "len": 0
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "len": 1675
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "len": 2
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "len": 1675
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "len": 2
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "len": 2
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "len": 1675
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "len": 2
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "len": 1675
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355657864",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-packages-search/0.0.90/smiles-react-packages-search.js",
+    "status": 200,
+    "len": 1017558
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355658532",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "len": 11158
+  },
+  {
+    "url": "https://apigw-blue.smiles.com.br/atd/chatbot/appid/v1",
+    "status": 200,
+    "len": 45
+  },
+  {
+    "url": "https://api-cms-prd.smiles.com.br/api/v1.0/delivery/contents/30ab00ae-26e6-479d-9f78-6abddc45a356",
+    "status": 200,
+    "len": 1875
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-flight-search/0.30.203/smiles-react-flight-search.js",
+    "status": 200,
+    "len": 4145569
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://product-config-service-blue.smiles.com.br/getProdConfig?ProductConfigId=club-agent-zd-conf",
+    "status": 200,
+    "len": 451
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14303759/CLU941_INDICADOR_CARROSSEL_DESK.png/046a05ce-f681-9b83-9221-d66d6592a330?t=1786566563709",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14257814/B2C785_CARROSSEL_DESK.jpg/e15b3a40-8806-7093-d7d8-92a330de0b15?t=1783446186974",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355660241",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-hotels-search/0.0.225/smiles-react-hotels-search.js",
+    "status": 200,
+    "len": 3751299
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-car-search-ut/0.0.76/smiles-react-car-search-ut.js",
+    "status": 200,
+    "len": 2159357
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/2f980304-3780-4365-af8e-169de13b4d42/019eda85-8618-7d94-9750-f5f3a9897653/1a31e559-3fc6-47e7-8ccc-24150f20a7ac/smiles-logo.png",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-recsys-templates/0.24.516/smiles-react-recsys-templates.js",
+    "status": 200,
+    "len": 9944304
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-search/round-trip-orange-icon.svg",
+    "status": 200,
+    "len": 918
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-search/round-trip-gray-icon.svg",
+    "status": 200,
+    "len": 918
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355662039",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://product-config-service-blue.smiles.com.br/getProdConfig?ProductConfigId=hotels-checkin-antecedence",
+    "status": 404,
+    "len": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6910h2v9187883301z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EA&are=1&cid=1993400470.1788355665&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=7&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423&uid=&sid=1788355665&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&en=page_view&_fv=1&_nsi=1&_ss=2&tfd=13829",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://members-blue.smiles.com.br/v1/members",
+    "status": 452,
+    "len": 0
+  },
+  {
+    "url": "https://members-blue.smiles.com.br/v1/members",
+    "status": 452,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355666018&cv=11&tid=G-L25DPPG37X&fst=1788355666018&fmt=8&en=session_start&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 302,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGAC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=1&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&en=page_view&_fv=1&_ss=2&ep.user_id_dimension=&ep.prod_type=&tfd=14448",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=2&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=14824",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=3&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=14934",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=4&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15018",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=5&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15113",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=6&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15189",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=7&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15251",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=8&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15399",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=9&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15483",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=10&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15587",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6910h2v9187883301z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAAQ&are=1&cid=1993400470.1788355665&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=7&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423&uid=&sid=1788355665&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&_s=2&tfd=15641",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&_prs=ok&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=11&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=15681",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355662526",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://airports-blue.smiles.com.br/v1/airports?q=airport&size=50",
+    "status": 200,
+    "len": 21065
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation/priority?place=home_0&channel=web&request_id=b7a3d465-5315-4815-a6b5-890604ec2d0c",
+    "status": 200,
+    "len": 549
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/JVAPV/Ex1X0UZ",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://apigw-blue.smiles.com.br/b2b/partner/oauth/token/",
+    "status": 200,
+    "len": 1208
+  },
+  {
+    "url": "https://apigw-blue.smiles.com.br/b2b/partner/oauth/token/",
+    "status": 200,
+    "len": 1208
+  },
+  {
+    "url": "https://www.smiles.com.br/smiles-theme/images/smiles192.png",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/smiles-theme/images/smooch/smooch-icon.png",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation?place=home_0&channel=web&id=2a48f8c2-247d-4f4a-8466-848a1809b437&trace_id=b7a3d465-5315-4815-a6b5-890604ec2d0c&request_id=7b640079-edce-484d-a9f9-64ab31c6f46f",
+    "status": 200,
+    "len": 9758
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/itau_logo2.png/b673c279-0d83-58bc-ba67-2513bb3fe836?t=1729109014972",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/unicred.png/837fb13b-9902-d2b4-3b69-b25476eda482?t=1681223981549",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/coopera.png/01e78394-661c-0b3c-7bbb-5d64458adaea?t=1681223945852",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation?place=home_0&channel=web&id=dd55b8f4-862f-4aed-9d8c-f2ef4a680375&trace_id=b7a3d465-5315-4815-a6b5-890604ec2d0c&request_id=adab0460-a3be-4dbf-9069-b5788da23c7e",
+    "status": 200,
+    "len": 15147
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/scotia-bank.png/abba86b9-51aa-185a-eb6f-a78f65f34d27?t=1681223974902",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/sicredi.png/640d48f6-0bb0-8b9c-2937-3bdbdc5910bd?t=1681223977275",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/banestes.png/3fe0c0d9-f613-c393-ca11-de55895d1b53?t=1681223929850",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/c6-bank.png/6fc5bc9c-1520-cef8-e218-27dfbbbf83d9?t=1681223943285",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/bradesco.png/2925b224-b59e-0c8d-5804-deb7166b7c15?t=1681223936795",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/banpara.png/013fd323-127f-e2f2-9b9d-b4af53c92cef?t=1681223932225",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/esfera.png/aec469c5-7e34-60ff-7cb3-b486004ca527?t=1681223950452",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/santander.png/c8d7bf31-42f8-4f55-be23-97c60166c47f?t=1681223972845",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/sonda-supermercados.png/55301d72-5791-d043-61d9-08ffff8fe417?t=1681223979288",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/brv-banco.png/32beba91-6057-2f60-9fe7-e3a5dc0d677e?t=1681223941268",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/caixa.png/7899afce-2b60-d4d1-107d-3cb712893bba?t=1684767083809",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/zaffari-card.png/99e36ae0-0a6b-6729-9f94-f049bdf37e8c?t=1681223983516",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/banco-pan.png/110fcce6-d13a-1d0d-ad57-955bb62afbfe?t=1681223927565",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/livelo_novo.png/146c4f99-10e8-b7a2-1e06-635b205e747e?t=1724445426025",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/banco-do-nordeste.png/9b208984-ec3b-014d-2920-f6f5ec81b48d?t=1681223925587",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/mercantil-brasil.png/f7cde1b9-9fdb-9a9d-0b87-5cc3ec320c12?t=1681223959567",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/icon-plus.png/f4748668-6b87-8081-4cb2-a88b20e58589?t=1683298006170",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/pagol.png/41ac70ff-f3f7-1587-18e6-0ec64e7303a6?t=1681223966365",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/logo_inter_carrossel",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/nubank.png/47d14483-9622-acaf-cbc2-63b9f27a3f5a?t=1681223963951",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/brb.png/d08e2cdb-e7f3-3af1-9875-8c8e6e7235f4?t=1681223938779",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/porto-bank.png/21b5360a-5fb0-a752-bbd6-48a870fb3eae?t=1681223968308",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/4610380/modal-mais.png/c8755035-795d-aef3-9dbe-6db3c3bc1f5e?t=1681223961936",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation?place=home_0&channel=web&id=b293f2a4-bb7f-4342-9699-03ace621ee66&trace_id=b7a3d465-5315-4815-a6b5-890604ec2d0c&request_id=3795d454-9c7b-4ed3-bcf7-bd172507971f",
+    "status": 200,
+    "len": 12087
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/10941617/RESERVAR.png/525c17fc-c053-f931-5161-3becfc937de2?t=1727958340316",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9680303/ALUGUEL_CARROS.png/99bd2409-107d-9dcb-faf3-8d802216aba0?t=1720123017977",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9680303/ALUGUEL_DE_CARROS.png/b9be2ecb-bc65-5990-3020-5c1bcd3c5ed8?t=1730991466529",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9684087/CREDITOS_UBER.png/83ac2d14-0949-043d-21d8-8bbde6a8a759?t=1724862505072",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/10941617/INGRESSOS_ATRACOES.png/500de3f8-9648-5cc7-8c60-a020a7bd706b?t=1727958379052",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/10941617/SEGURO_VIAGEM.png/3282de7b-8a26-859f-39f8-65e44c23d32f?t=1727958344396",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/10941617/ONIBUS.png/a57e488e-15c3-f05e-61ef-a1c967ac2627?t=1727958327872",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9680303/Acomodacoes+%281%29.png/1498977e-c399-0a69-72a9-ebf08d4e96e5?t=1733323469591",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9729523/Clube+Roxo.png/353e85bc-c8d9-bcf3-9b68-e2a840989e2d?t=1721671484000",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9680303/PACOTES_SMILES.png/b8dc982f-79cd-f1e2-55fd-141284719ed3?t=1721160600256",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/10941617/ESTACIONAMENTO.png/4bbd55c2-4787-242e-dc4a-2c25ed301bfe?t=1727958360653",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9680303/CRUZEIROS_PELO_MUNDO.png/3ff785c0-80ed-8c80-7724-735c8cc8284f?t=1724079728021",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/10941617/VIAGEM.png/b6ecc78b-dd95-ff0b-653f-158dd918f01b?t=1727958348479",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9434285/BUSCAR_VOOS_S_SORRISO.png/0ef6f539-a314-9528-61c8-e08ff6cc5465?t=1720122721371",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/9729523/Transferir_Milhas_V2.png/ee2016df-9318-1f33-03f6-65222bac07d3?t=1721832699131",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355666468&cv=11&tid=G-L25DPPG37X&fst=1788355666468&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355666593&cv=11&tid=G-L25DPPG37X&fst=1788355666593&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355666675&cv=11&tid=G-L25DPPG37X&fst=1788355666675&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355666762&cv=11&tid=G-L25DPPG37X&fst=1788355666762&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355666846&cv=11&tid=G-L25DPPG37X&fst=1788355666846&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355666915&cv=11&tid=G-L25DPPG37X&fst=1788355666915&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355667043&cv=11&tid=G-L25DPPG37X&fst=1788355667043&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355667141&cv=11&tid=G-L25DPPG37X&fst=1788355667141&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/1p-conversion/?random=759704947&cv=11&tid=G-L25DPPG37X&fst=1788355666018&fmt=8&en=session_start&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgji6rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgix4bECCLPhsQIIpt2xAgiw3rECCIDbsQI&cerd=CgTo1b4t&fsk=ChEI8JLf1AYQ1unz9Yfv2umrARIsAElOIdla2WmNU6nuVSMzyvPZ15e0AToJoSLIRk3ZZCq605AYwLuwqnD1L_kaAk20&pscrd=IhMI38COgoDQlgMVEE-4BB1nTBADOhpodHRwczovL3d3dy5zbWlsZXMuY29tLmJyL0JYQ2hFSThKTGYxQVlRa01ESXZwYjM4XzZQQVJJdEFLSkl2Qkp2TVhtdnVQY2QzeGFJWk1Vakt5UTN5c2I0OHdsRFlSb0FfcnZRYU1ZMDRqZWJpYXBrYlZhM3oMCAliCAgAEAAYACAA",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355667239&cv=11&tid=G-L25DPPG37X&fst=1788355667239&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788355667329&cv=11&tid=G-L25DPPG37X&fst=1788355667329&fmt=8&en=view_item_list&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1993400470.1788355665&frm=0&tiba=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&npa=0&pscdl=noapi&auid=804477784.1788355666&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&rcb=13",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://us01campaign.zoom.us/v1/zcc/campaign/styleByApiKey?url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&mode=campaign&apiKeyType2=JfpAW4M4QeOlk4JVuajQfg",
+    "status": 200,
+    "len": 8460
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/JVAPV/Ex1X0UZ",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "blob:https://www.smiles.com.br/19a929a9-4e16-49f3-a475-e32b7251c232",
+    "status": 200,
+    "len": 1357
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6910h2v9187883301z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAAQ&are=1&cid=1993400470.1788355665&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=7&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&_s=3&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423&uid=&sid=1788355665&sct=1&seg=0&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&tfd=20687",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14337636/CLU943_TVFLASH_DESKTOP.png/169e07ad-27d2-c267-d93d-912e146ddfbf?t=1787663369949",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 201,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 201,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/20124/14355524/B2C803_TVFLASH_DESKTOP.jpg/5c9e6f4a-fe73-ce8f-ba27-3b14710e039c?t=1787771813187",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 201,
+    "len": 0
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/logos/smiles/lg-smiles-symbol-orange.svg",
+    "status": 200,
+    "len": 688
+  },
+  {
+    "url": "https://airports-blue.smiles.com.br/v1/airports?q=(description:*GRU*)&size=50",
+    "status": 200,
+    "len": 412
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/JVAPV/Ex1X0UZ",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6910h2v9187883301z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAAQ&are=1&cid=1993400470.1788355665&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=7&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&_s=4&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423&uid=&sid=1788355665&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&en=OneTrust%20Cookie%20Consent&ep.button_click=Reject%20All&ep.cookies_acepted=C0001&_et=22406&tfd=42809",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 201,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6910h2v886685129z871476682za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&are=1&cid=1993400470.1788355665&frm=0&ir=1&pscdl=noapi&rcb=13&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=12&tag_exp=115938465~115938469~118131810~118897920~118897930~119404698~120213116~120385422&uid=&sid=1788355666&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&en=OneTrust%20Cookie%20Consent&ep.user_id_dimension=&ep.prod_type=&ep.button_click=Reject%20All&ep.cookies_acepted=C0001&_et=22378&tfd=43069",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 201,
+    "len": 0
+  },
+  {
+    "url": "https://airports-blue.smiles.com.br/v1/airports?q=(description:*BKK*)&size=50",
+    "status": 200,
+    "len": 410
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6910h2v9187883301za20gzb71476682zd71476682&_p=1788355660699&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEEAAAQ&ae=a&are=1&cid=1993400470.1788355665&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=7&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&_s=5&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423&uid=&sid=1788355665&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Milhas%20para%20quem%20%C3%A9%20feito%20de%20viagens%20-%20Smiles&en=form_start&ep.form_id=DesktopFlightSearch-form-click&ep.form_destination=https%3A%2F%2Fwww.smiles.com.br%2Fhome&epn.form_length=25&ep.first_field_id=inp_flightOrigin_1&ep.first_field_type=text&epn.first_field_position=1&_et=4755&tfd=47821",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1796698800000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=1797433200000&searchType=congenere&segments=1&tripType=1&originAirport=GRU&originCity=&originCountry=&originAirportIsAny=false&destinationAirport=BKK&destinCity=&destinCountry=&destinAirportIsAny=false",
+    "status": 200,
+    "len": 8189
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/import-files.js?v=0.95.2400",
+    "status": 200,
+    "len": 7092
+  },
+  {
+    "url": "https://www.smiles.com.br/dd/rum-init-smiles-async.js?v=0.95.2400",
+    "status": 200,
+    "len": 12930
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/regenerator-runtime@0.13.5/runtime.min.js",
+    "status": 200,
+    "len": 6609
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/systemjs@6.4.0/dist/system.min.js",
+    "status": 200,
+    "len": 10587
+  },
+  {
+    "url": "https://static.smiler.com.br/hf/SmilesSearch.js?v=0.95.2400",
+    "status": 200,
+    "len": 35181
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/systemjs@6.4.0/dist/extras/amd.min.js",
+    "status": 200,
+    "len": 1639
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/import.map-libs.json?v=0.95.2400",
+    "status": 200,
+    "len": 831
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/systemjs@6.4.0/dist/extras/named-exports.min.js",
+    "status": 200,
+    "len": 662
+  },
+  {
+    "url": "https://www.smiles.com.br/dd/rum-init-core.js",
+    "status": 200,
+    "len": 8357
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/import.map-mfe.json?v=0.95.2400",
+    "status": 200,
+    "len": 2779
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/jquery@3.5.1/jquery.min.js",
+    "status": 200,
+    "len": 89476
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/import.map-mfe.json?v=0.95.2400",
+    "status": 200,
+    "len": 2779
+  },
+  {
+    "url": "https://www.smiles.com.br/dd/rum-init-smiles.js",
+    "status": 200,
+    "len": 12930
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/smiles-root-config.js?v=0.95.2400",
+    "status": 200,
+    "len": 33449
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/0.smiles-root-config.js",
+    "status": 200,
+    "len": 134912
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 200,
+    "len": 545463
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/10.smiles-root-config.js",
+    "status": 200,
+    "len": 5292
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/8.smiles-root-config.js",
+    "status": 200,
+    "len": 2206
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/9.smiles-root-config.js",
+    "status": 200,
+    "len": 5285
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/1.smiles-root-config.js",
+    "status": 200,
+    "len": 262979
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/JVAPV/Ex1X0UZ?v=152e7c03-0dcb-b305-97bf-674fcbdd0215",
+    "status": 200,
+    "len": 523633
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/2f980304-3780-4365-af8e-169de13b4d42/019eda85-8618-7d94-9750-f5f3a9897653/1a31e559-3fc6-47e7-8ccc-24150f20a7ac/smiles-logo.png",
+    "status": 200,
+    "len": 15
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/smiles-flight-availability.js",
+    "status": 200,
+    "len": 13160454
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je68v1v886685129z871476682za20gzb71476682zd71476682&_p=1788355703694&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=0&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=1&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423&uid=&sid=1788355666&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fmfe%2Femissao-passagem%2F%3Fadults%3D1%26cabin%3DALL%26children%3D0%26departureDate%3D1796698800000%26infants%3D0%26isElegible%3Dfalse%26isFlexibleDateChecked%3Dfalse%26returnDate%3D1797433200000%26searchType%3Dcongenere%26segments%3D1%26tripType%3D1%26originAirport%3DGRU%26originCity%3D%26originCountry%3D%26originAirportIsAny%3Dfalse%26destinationAirport%3DBKK%26destinCity%3D%26destinCountry%3D%26destinAirportIsAny%3Dfalse&dr=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Viver%20o%20mundo%20come%C3%A7a%20aqui&en=page_view&ep.user_id_dimension=&ep.prod_type=&tfd=4690",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je68v1v9187883301z871476682za20gzb71476682zd71476682&_p=1788355703694&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAAQ&are=1&cid=1993400470.1788355665&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=7&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&_s=1&tag_exp=115938465~115938468~118897920~118897930~119793973~120213116~120385422&uid=&sid=1788355665&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fmfe%2Femissao-passagem%2F%3Fadults%3D1%26cabin%3DALL%26children%3D0%26departureDate%3D1796698800000%26infants%3D0%26isElegible%3Dfalse%26isFlexibleDateChecked%3Dfalse%26returnDate%3D1797433200000%26searchType%3Dcongenere%26segments%3D1%26tripType%3D1%26originAirport%3DGRU%26originCity%3D%26originCountry%3D%26originAirportIsAny%3Dfalse%26destinationAirport%3DBKK%26destinCity%3D%26destinCountry%3D%26destinAirportIsAny%3Dfalse&dr=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Viver%20o%20mundo%20come%C3%A7a%20aqui&en=page_view&tfd=5096",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.29518378.woff",
+    "status": 404,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.c94f7671.ttf",
+    "status": 404,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je68v1v886685129za20gzb71476682zd71476682&_p=1788355703694&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EEAAAGQC&ae=a&are=1&cid=1993400470.1788355665&frm=0&ir=1&pscdl=noapi&rcb=0&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=2&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423&uid=&sid=1788355666&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fmfe%2Femissao-passagem%2F%3Fadults%3D1%26cabin%3DALL%26children%3D0%26departureDate%3D1796698800000%26infants%3D0%26isElegible%3Dfalse%26isFlexibleDateChecked%3Dfalse%26returnDate%3D1797433200000%26searchType%3Dcongenere%26segments%3D1%26tripType%3D1%26originAirport%3DGRU%26originCity%3D%26originCountry%3D%26originAirportIsAny%3Dfalse%26destinationAirport%3DBKK%26destinCity%3D%26destinCountry%3D%26destinAirportIsAny%3Dfalse&dr=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Viver%20o%20mundo%20come%C3%A7a%20aqui&en=scroll&ep.user_id_dimension=&ep.prod_type=&epn.percent_scrolled=90&_et=422&tfd=5778",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/lottie-web@5.7.4/lottie.min.js",
+    "status": 200,
+    "len": 262029
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/react@16.13.0/react.production.min.js",
+    "status": 200,
+    "len": 12463
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/axios@0.19.2/axios.min.js",
+    "status": 200,
+    "len": 13993
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/react-router-dom@5.2.0/react-router-dom.min.js",
+    "status": 200,
+    "len": 29925
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/react-dom@16.13.0/react-dom.production.min.js",
+    "status": 200,
+    "len": 118656
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-portal/static/libs/reactstrap@8.7.1/reactstrap.full.min.js",
+    "status": 200,
+    "len": 153296
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788355705940",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/icon-date-range.svg",
+    "status": 200,
+    "len": 728
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight-select.svg?v=2",
+    "status": 200,
+    "len": 4312
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/add.svg",
+    "status": 200,
+    "len": 491
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight.svg",
+    "status": 200,
+    "len": 602
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/arrow-date-prev.svg",
+    "status": 200,
+    "len": 439
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/arrow-date-next.svg",
+    "status": 200,
+    "len": 454
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://airports-blue.smiles.com.br/v1/airports?q=airport&size=50",
+    "status": 200,
+    "len": 21065
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/magnfying-glass-grey",
+    "status": 200,
+    "len": 1244
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/logos/smiles/lg-smiles-orange.svg",
+    "status": 200,
+    "len": 4872
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/close_icon",
+    "status": 200,
+    "len": 1028
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/goals/635fd4e0a51b7a0bf4d700d8",
+    "status": 200,
+    "len": 2
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/goals/6914ec0a1036cf09b60f9da7",
+    "status": 200,
+    "len": 2
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/6914ec0a1036cf09b60f9da7/users/eyJraW5kIjoidXNlcnMiLCJrZXkiOiJleUpyWlhraU9pSmtaWFkySW4wPSJ9",
+    "status": 200,
+    "len": 1790
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/635fd4e0a51b7a0bf4d700d8/users/eyJraW5kIjoidXNlcnMiLCJrZXkiOiJleUpyWlhraU9pSmtaWFkySW4wPSJ9",
+    "status": 200,
+    "len": 1746
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090213",
+    "status": 200,
+    "len": 1720
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090213",
+    "status": 200,
+    "len": 1720
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090213",
+    "status": 200,
+    "len": 1734
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090213",
+    "status": 200,
+    "len": 2140
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090213",
+    "status": 200,
+    "len": 2095
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090213",
+    "status": 200,
+    "len": 2421
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090213",
+    "status": 200,
+    "len": 2610
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-package1.json?v=2026090213",
+    "status": 200,
+    "len": 2209
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-package2.json?v=2026090213",
+    "status": 200,
+    "len": 1680
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090213",
+    "status": 200,
+    "len": 1734
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090213",
+    "status": 200,
+    "len": 2140
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090213",
+    "status": 200,
+    "len": 2095
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090213",
+    "status": 200,
+    "len": 2421
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090213",
+    "status": 200,
+    "len": 2610
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "len": 4
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "len": 13237
+  },
+  {
+    "url": "https://apigw-blue.smiles.com.br/b2b/partner/oauth/token/",
+    "status": 200,
+    "len": 1208
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je68v1v886685129za20gzb71476682zd71476682&_p=1788355703694&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EEAAAGQC&ae=a&are=1&cid=1993400470.1788355665&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=0&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=4&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423&uid=&dl=https%3A%2F%2Fwww.smiles.com.br%2Fmfe%2Femissao-passagem%2F%3Fadults%3D1%26cabin%3DALL%26children%3D0%26departureDate%3D1796698800000%26infants%3D0%26isElegible%3Dfalse%26isFlexibleDateChecked%3Dfalse%26returnDate%3D1797433200000%26searchType%3Dcongenere%26segments%3D1%26tripType%3D1%26originAirport%3DGRU%26originCity%3D%26originCountry%3D%26originAirportIsAny%3Dfalse%26destinationAirport%3DBKK%26destinCity%3D%26destinCountry%3D%26destinAirportIsAny%3Dfalse%26novo-resultado-voos%3Dtrue&dr=https%3A%2F%2Fwww.smiles.com.br%2Fmfe%2Femissao-passagem%2F%3Fadults%3D1%26cabin%3DALL%26children%3D0%26departureDate%3D1796698800000%26infants%3D0%26isElegible%3Dfalse%26isFlexibleDateChecked%3Dfalse%26returnDate%3D1797433200000%26searchType%3Dcongenere%26segments%3D1%26tripType%3D1%26originAirport%3DGRU%26originCity%3D%26originCountry%3D%26originAirportIsAny%3Dfalse%26destinationAirport%3DBKK%26destinCity%3D%26destinCountry%3D%26destinAirportIsAny%3Dfalse&sid=1788355666&sct=1&seg=1&dt=Viver%20o%20mundo%20come%C3%A7a%20aqui&en=page_view&ep.user_id_dimension=&ep.prod_type=&_et=1406&tfd=7197",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je68v1v886685129z871476682za20gzb71476682zd71476682&_p=1788355703694&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1557986674&_eu=EAAAAGQC&are=1&cid=1993400470.1788355665&frm=0&ir=1&pscdl=noapi&rcb=0&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&gaf=2&_s=3&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423&uid=&sid=1788355666&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fmfe%2Femissao-passagem%2F%3Fadults%3D1%26cabin%3DALL%26children%3D0%26departureDate%3D1796698800000%26infants%3D0%26isElegible%3Dfalse%26isFlexibleDateChecked%3Dfalse%26returnDate%3D1797433200000%26searchType%3Dcongenere%26segments%3D1%26tripType%3D1%26originAirport%3DGRU%26originCity%3D%26originCountry%3D%26originAirportIsAny%3Dfalse%26destinationAirport%3DBKK%26destinCity%3D%26destinCountry%3D%26destinAirportIsAny%3Dfalse&dr=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Viver%20o%20mundo%20come%C3%A7a%20aqui&en=scroll&ep.user_id_dimension=&ep.prod_type=&epn.percent_scrolled=25&_et=645&tfd=7196",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/JVAPV/Ex1X0UZ",
+    "status": 200,
+    "len": 0
+  },
+  {
+    "url": "https://members-blue.smiles.com.br/v1/members",
+    "status": 452,
+    "len": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je68v1v9187883301za20gzb71476682zd71476682&_p=1788355703694&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEAAAAQ&ae=a&are=1&cid=1993400470.1788355665&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=7&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=pt-br&tag_exp=115938465~115938468~118897920~118897930~119793973~120213116~120385422&uid=&sid=1788355665&sct=1&seg=1&dl=https%3A%2F%2Fwww.smiles.com.br%2Fmfe%2Femissao-passagem%2F%3Fadults%3D1%26cabin%3DALL%26children%3D0%26departureDate%3D1796698800000%26infants%3D0%26isElegible%3Dfalse%26isFlexibleDateChecked%3Dfalse%26returnDate%3D1797433200000%26searchType%3Dcongenere%26segments%3D1%26tripType%3D1%26originAirport%3DGRU%26originCity%3D%26originCountry%3D%26originAirportIsAny%3Dfalse%26destinationAirport%3DBKK%26destinCity%3D%26destinCountry%3D%26destinAirportIsAny%3Dfalse&dr=https%3A%2F%2Fwww.smiles.com.br%2Fhome&dt=Viver%20o%20mundo%20come%C3%A7a%20aqui&_s=2&tfd=10106",
+    "status": 204,
+    "len": 0
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight-right.svg",
+    "status": 200,
+    "len": 588
+  },
+  {
+    "url": "https://www.smiles.com.br/_sec/cpr/params",
+    "status": 200,
+    "len": 113
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/JVAPV/Ex1X0UZ",
+    "status": 200,
+    "len": 0
+  }
+]

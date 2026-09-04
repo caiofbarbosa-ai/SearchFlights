@@ -1,0 +1,33 @@
+{
+  "targets": [
+    {
+      "target": "voeazul",
+      "url": "https://www.voeazul.com.br/br/pt/home",
+      "final_url": "https://www.voeazul.com.br/br/pt/home",
+      "status": "PORTAL_OK_SEM_FORM",
+      "inventory": {
+        "inputs": [],
+        "buttons": [],
+        "miles_links": []
+      },
+      "steps": [
+        {
+          "step": "home",
+          "url": "https://www.voeazul.com.br/br/pt/home",
+          "screenshot": "azul_recon_voeazul.png"
+        }
+      ]
+    },
+    {
+      "target": "fidelidade",
+      "url": "https://www.azulfidelidade.com.br/",
+      "final_url": null,
+      "status": "ERROR",
+      "inventory": {},
+      "steps": [],
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.azulfidelidade.com.br/\nCall log:\n  - navigating to \"https://www.azulfidelidade.com.br/\", waiting until \"load\"\n"
+    }
+  ],
+  "network": [],
+  "execution_time": 24.8
+}

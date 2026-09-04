@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/v1/airlines/search?cabin=ALL&originAirportCode=GRU&destinationAirportCode=BKK&departureDate=1796698800000&returnDate=1797433200000&adults=1&children=0&infants=0&tripType=1",
+    "status": 406,
+    "body": "{\n    \"message\": \"Something went wrong\",\n    \"referenceId\": \"0.c3601702.1788357271.d9ba8d\",\n    \"clientIP\": \"45.173.96.225\"\n}"
+  },
+  {
+    "path": "/v1/airlines/search?cabin=ALL&originAirportCode=GRU&destinationAirportCode=BKK&departureDate=1796698800000&returnDate=1797433200000&adults=1&tripType=1&searchType=congenere",
+    "status": 406,
+    "body": "{\n    \"message\": \"Something went wrong\",\n    \"referenceId\": \"0.c3601702.1788357271.d9bb9f\",\n    \"clientIP\": \"45.173.96.225\"\n}"
+  },
+  {
+    "path": "/v1/flights/search?cabin=ALL&originAirportCode=GRU&destinationAirportCode=BKK&departureDate=1796698800000&returnDate=1797433200000&adults=1&tripType=1",
+    "status": 403,
+    "body": "{\"message\":\"Invalid key=value pair (missing equal-sign) in Authorization header (hashed with SHA-256 and encoded with Base64): 'q8GsxalJCyXIKfpkXO99TLtZ4dSImpw347hr0joO7vE='.\"}\n"
+  }
+]

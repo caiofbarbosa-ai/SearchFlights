@@ -1,0 +1,35 @@
+[
+  {
+    "status": "NO_PRICES",
+    "origin": "GRU",
+    "destination": "BKK",
+    "departure": "2027-07-28",
+    "return": "2027-08-05",
+    "prices_found": 0,
+    "prices": [],
+    "execution_time": "84.6s",
+    "timestamp": "2026-08-16T14:01:00.996812"
+  },
+  {
+    "status": "NO_PRICES",
+    "origin": "CGH",
+    "destination": "BKK",
+    "departure": "2027-07-28",
+    "return": "2027-08-05",
+    "prices_found": 0,
+    "prices": [],
+    "execution_time": "83.8s",
+    "timestamp": "2026-08-16T14:02:40.574095"
+  },
+  {
+    "status": "NO_PRICES",
+    "origin": "VCP",
+    "destination": "BKK",
+    "departure": "2027-07-28",
+    "return": "2027-08-05",
+    "prices_found": 0,
+    "prices": [],
+    "execution_time": "87.2s",
+    "timestamp": "2026-08-16T14:04:23.555220"
+  }
+]

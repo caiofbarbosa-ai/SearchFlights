@@ -1,0 +1,8 @@
+# POC Requirements - Flight Monitoring MVP
+# Minimal dependencies for Proof of Concept phase
+
+playwright>=1.40.0
+playwright-stealth>=1.0.0
+
+# For data extraction and validation
+python-dotenv>=1.0.0

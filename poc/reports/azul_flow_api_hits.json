@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://azulpelomundo.voeazul.com.br/api/airport?searchAirport=GRU",
+    "status": 200,
+    "bytes": 105
+  },
+  {
+    "url": "https://azulpelomundo.voeazul.com.br/api/airport?searchAirport=BKK&ignoreAirport=GRU",
+    "status": 200,
+    "bytes": 131
+  },
+  {
+    "url": "https://azulpelomundo.voeazul.com.br/api/availability?tripType=ROUND_TRIP&origin=GRU&destination=BKK&adult=1&child=0&infant=0&typeOfFlight=ALL&companiesIdentity=-&cabinCategory=ECONOMY&departureDateTime=2026-09-06T12:00:00.000Z&returnDateTime=2026-12",
+    "status": 200,
+    "bytes": 72268
+  }
+]

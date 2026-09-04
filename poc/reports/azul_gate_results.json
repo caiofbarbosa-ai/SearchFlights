@@ -1,0 +1,114 @@
+[
+  {
+    "label": "gate_r1",
+    "origin": "GRU",
+    "status": "UNKNOWN_PAGE",
+    "points": [],
+    "execution_time": 134.6,
+    "timestamp": "2026-09-02T13:33:36.197899",
+    "url": "https://azulpelomundo.voeazul.com.br/"
+  },
+  {
+    "label": "gate_r2",
+    "origin": "CGH",
+    "status": "UNKNOWN_PAGE",
+    "points": [],
+    "execution_time": 133.7,
+    "timestamp": "2026-09-02T13:37:20.940647",
+    "url": "https://azulpelomundo.voeazul.com.br/"
+  },
+  {
+    "label": "gate_r3",
+    "origin": "VCP",
+    "status": "UNKNOWN_PAGE",
+    "points": [],
+    "execution_time": 133.9,
+    "timestamp": "2026-09-02T13:41:04.983647",
+    "url": "https://azulpelomundo.voeazul.com.br/"
+  },
+  {
+    "label": "gate_r1",
+    "origin": "GRU",
+    "status": "UNKNOWN_PAGE",
+    "points": [],
+    "execution_time": 109.1,
+    "timestamp": "2026-09-02T13:44:49.302009",
+    "url": "https://azulpelomundo.voeazul.com.br/"
+  },
+  {
+    "label": "gate_r2",
+    "origin": "CGH",
+    "status": "UNKNOWN_PAGE",
+    "points": [],
+    "execution_time": 108.4,
+    "timestamp": "2026-09-02T13:48:08.828707",
+    "url": "https://azulpelomundo.voeazul.com.br/"
+  },
+  {
+    "label": "gate_r3",
+    "origin": "VCP",
+    "status": "UNKNOWN_PAGE",
+    "points": [],
+    "execution_time": 107.0,
+    "timestamp": "2026-09-02T13:51:27.570260",
+    "url": "https://azulpelomundo.voeazul.com.br/"
+  },
+  {
+    "label": "gate_r1",
+    "origin": "GRU",
+    "status": "RESULTS",
+    "points": [
+      156000,
+      195000,
+      221000,
+      239000,
+      248000,
+      256000,
+      259000,
+      276000,
+      292000,
+      298500,
+      310000,
+      317500,
+      319500,
+      323500,
+      365000,
+      396500,
+      432000,
+      539500
+    ],
+    "execution_time": 105.9,
+    "timestamp": "2026-09-02T13:56:01.025783",
+    "url": "https://azulpelomundo.voeazul.com.br/flights/RT/GRU/BKK/-/-/2026-12-08/2026-12-16/1/0/0/0/0/ALL/F/ECONOMY/-/-/-/-/A/-"
+  },
+  {
+    "label": "gate_r2",
+    "origin": "CGH",
+    "status": "ERROR",
+    "points": [],
+    "execution_time": 43.7,
+    "timestamp": "2026-09-02T13:59:17.321167",
+    "error": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[placeholder='DD/MM/YYYY']\").first\n"
+  },
+  {
+    "label": "gate_r3",
+    "origin": "VCP",
+    "status": "UNKNOWN_PAGE",
+    "points": [
+      286000,
+      357000
+    ],
+    "execution_time": 106.4,
+    "timestamp": "2026-09-02T14:01:31.238095",
+    "url": "https://azulpelomundo.voeazul.com.br/flights/RT/VCP/BKK/-/-/2026-12-08/2026-12-16/1/0/0/0/0/ALL/F/ECONOMY/-/-/-/-/A/-"
+  },
+  {
+    "label": "gate_cgh_retry2",
+    "origin": "CGH",
+    "status": "UNKNOWN_PAGE",
+    "points": [],
+    "execution_time": 104.7,
+    "timestamp": "2026-09-02T14:06:02.879157",
+    "url": "https://azulpelomundo.voeazul.com.br/flights/RT/CGH/BKK/-/-/2026-12-08/2026-12-16/1/0/0/0/0/ALL/F/ECONOMY/-/-/-/-/A/-"
+  }
+]

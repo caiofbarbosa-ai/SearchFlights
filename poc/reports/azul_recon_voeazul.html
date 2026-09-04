@@ -1,0 +1,36 @@
+<!DOCTYPE html><html lang="pt"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root{--az:#041e42;--cz:#606060;--bd:#e0e0e0}*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}body{font-family:sans-serif;color:var(--az);display:flex;flex-direction:column;-webkit-font-smoothing:antialiased}
+.nav{background:var(--az);height:56px;display:flex;justify-content:center;align-items:center;flex-shrink:0}
+.nav img{height:30px;width:120px}.cnt{max-width:1100px;margin:0 auto;padding:60px 24px;flex:1 0 auto}
+.hero{display:flex;align-items:center;gap:60px;margin-bottom:60px;flex-wrap:wrap}
+.hero-g{flex:1.5;min-width:320px;position:relative;display:flex;justify-content:center;align-items:center}
+.img-c{width:100%;max-width:450px;height:300px;z-index:2;position:relative;object-fit:contain}
+.hero-t{flex:1;min-width:320px}h1{font-size:32px;font-weight:300;margin-bottom:20px}
+.msg{font-size:19px;color:var(--cz);line-height:1.5}.info{display:grid;grid-template-columns:1fr 1.6fr;gap:40px;border-top:1px solid var(--bd);padding-top:40px}
+h2{font-size:22px;font-weight:400;margin-bottom:15px}.info p{font-size:14px;color:#333}.info a{color:#026cb6;font-weight:500}
+.phs{display:flex;gap:25px;flex-wrap:wrap}.phb b{font-size:19px;display:block}.phb span{font-size:12px;color:var(--cz);display:block}
+.ft{flex-shrink:0;border-top:1px solid var(--bd);padding:30px 0;width:100%}
+.ft-c{max-width:1100px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:center;gap:40px}
+.ft img{height:30px;width:120px}.ft-i{font-size:12px;color:var(--cz)}
+@media(max-width:850px){.hero,.info,.ft-c{flex-direction:column;text-align:center}.info{grid-template-columns:1fr}.phs{justify-content:center}.ft-i{text-align:center}}
+</style>
+</head>
+<body>
+<nav class="nav"><img src="https://cybersecurity.voeazul.com.br/assets/d3fdc81f8673b21d06b7cd3c93e26a9a6d9c3176.svg"></nav>
+<main class="cnt">
+<div class="hero">
+<div class="hero-g"><img src="https://cybersecurity.voeazul.com.br/assets/b0b915539931a2faf6556047b3c0173235a54052.svg" class="img-c"></div>
+<div class="hero-t"><h1 id="t1">Ops! Só um momento.</h1>
+<div class="msg"><p id="t2">Identificamos um comportamento incomum vindo do seu IP. O acesso foi limitado momentaneamente.</p>
+<p id="t3" style="margin-top:15px">Tente desativar sua VPN, limpar cookies ou aguarde um instante.</p>
+<p style="margin-top:20px;font-size:14px;opacity:0.8">IP: 45.173.96.225 | Ref: 0.b6c1002.1788366213.63983f10</p>
+</div></div></div>
+</main>
+<footer class="ft"><div class="ft-c"><img src="https://cybersecurity.voeazul.com.br/assets/757f1e3728dfdd6c709392b24f917c6e098b1a9f.svg"><div class="ft-i"><p>Av. Marcos P. de U. Rodrigues, 939 - Torre Jatobá, 11º andar</p><p>CNPJ: 09.296.295/0001-60 | © 2022 Azul Linhas Aéreas</p></div></div></footer>
+<script>
+if(navigator.language.startsWith('en')){const d={t1:"Oops! Just a moment.",t2:"We detected unusual activity from your IP. Access is temporarily limited.",t3:"Please try disabling VPN, clearing cookies, or wait a moment.",t4:"Contact us?",t5:"Reach us via email at:<br><a href='mailto:contato.site@voeazul.com.br'>contato.site@voeazul.com.br</a>",t6:"Phone support:",t7:"Capitals & Metro areas",t8:"Other locations"};for(let k in d)document.getElementById(k).innerHTML=d[k];}
+</script>
+</body></html>

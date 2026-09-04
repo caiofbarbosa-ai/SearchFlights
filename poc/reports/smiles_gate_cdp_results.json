@@ -1,0 +1,79 @@
+[
+  {
+    "label": "pre2027",
+    "origin": "GRU",
+    "departure": "28/07/2027",
+    "status": "STILL_LOADING",
+    "miles_values": [],
+    "cards": [],
+    "execution_time": 319.3,
+    "timestamp": "2026-09-02T11:43:51.394765",
+    "page_text_head": "Smiles\nGRU\nBKK\nTer, 27 jul\nBKK\nGRU\nQua, 04 ago\n2 pessoas adultas\nAlterar busca\nAcesse ou crie a sua conta\n\nJunte milhas e comece a viajar\n\nAcessar conta\nCriar conta\nEscolha sua passagem de volta\nBKK\nGRU\nQua, 04 ago\nTaxas da viagem\nVocê vai visualizar as taxas de viagem depois de escolher os voos.\nAg"
+  },
+  {
+    "label": "gate_r1",
+    "origin": "GRU",
+    "departure": "08/12/2026",
+    "status": "UNKNOWN_PAGE",
+    "miles_values": [],
+    "cards": [],
+    "execution_time": 324.0,
+    "timestamp": "2026-09-02T11:49:16.338031",
+    "page_text_head": "Smiles\nGRU\nBKK\nSeg, 07 dez\nBKK\nGRU\nTer, 15 dez\n2 pessoas adultas\nAlterar busca\nAcesse ou crie a sua conta\n\nJunte milhas e comece a viajar\n\nAcessar conta\nCriar conta\nEscolha sua passagem de ida\nO valor das passagens é cobrado por viajante.\nConferir cupom de desconto\n Previous\nDom, 30 ago\nSeg, 31 ago\n"
+  },
+  {
+    "label": "gate_r2",
+    "origin": "GRU",
+    "departure": "08/12/2026",
+    "status": "UNKNOWN_PAGE",
+    "miles_values": [],
+    "cards": [],
+    "execution_time": 319.2,
+    "timestamp": "2026-09-02T11:54:45.738633",
+    "page_text_head": "Smiles\nGRU\nBKK\nSeg, 07 dez\nBKK\nGRU\nTer, 15 dez\n2 pessoas adultas\nAlterar busca\nAcesse ou crie a sua conta\n\nJunte milhas e comece a viajar\n\nAcessar conta\nCriar conta\nEscolha sua passagem de ida\nO valor das passagens é cobrado por viajante.\nConferir cupom de desconto\n Previous\nDom, 30 ago\nSeg, 31 ago\n"
+  },
+  {
+    "label": "pre2027",
+    "origin": "GRU",
+    "departure": "28/07/2027",
+    "status": "CALENDAR_NOT_OPEN",
+    "miles_values": [],
+    "cards": [],
+    "execution_time": 313.7,
+    "timestamp": "2026-09-02T12:07:26.283297",
+    "page_text_head": "Smiles\nGRU\nBKK\nQua, 28 jul\nBKK\nGRU\nQui, 05 ago\n2 pessoas adultas\nAlterar busca\nAcesse ou crie a sua conta\n\nJunte milhas e comece a viajar\n\nAcessar conta\nCriar conta\nEscolha sua passagem de volta\nBKK\nGRU\nQui, 05 ago\nTaxas da viagem\nVocê vai visualizar as taxas de viagem depois de escolher os voos.\nAg"
+  },
+  {
+    "label": "gate_r1",
+    "origin": "GRU",
+    "departure": "08/12/2026",
+    "status": "UNKNOWN_PAGE",
+    "miles_values": [],
+    "cards": [],
+    "execution_time": 317.7,
+    "timestamp": "2026-09-02T12:12:55.422117",
+    "page_text_head": "Smiles\nGRU\nBKK\nTer, 08 dez\nBKK\nGRU\nQua, 16 dez\n2 pessoas adultas\nAlterar busca\nAcesse ou crie a sua conta\n\nJunte milhas e comece a viajar\n\nAcessar conta\nCriar conta\nEscolha sua passagem de ida\nO valor das passagens é cobrado por viajante.\nConferir cupom de desconto\n Previous\nDom, 30 ago\nSeg, 31 ago\n"
+  },
+  {
+    "label": "gate_r2",
+    "origin": "GRU",
+    "departure": "08/12/2026",
+    "status": "UNKNOWN_PAGE",
+    "miles_values": [],
+    "cards": [],
+    "execution_time": 319.3,
+    "timestamp": "2026-09-02T12:18:33.465424",
+    "page_text_head": "Smiles\nGRU\nBKK\nTer, 08 dez\nBKK\nGRU\nQua, 16 dez\n2 pessoas adultas\nAlterar busca\nAcesse ou crie a sua conta\n\nJunte milhas e comece a viajar\n\nAcessar conta\nCriar conta\nEscolha sua passagem de ida\nO valor das passagens é cobrado por viajante.\nConferir cupom de desconto\n Previous\nDom, 30 ago\nSeg, 31 ago\n"
+  },
+  {
+    "label": "gate_r1",
+    "origin": "GRU",
+    "departure": "08/12/2026",
+    "status": "UNKNOWN_PAGE",
+    "miles_values": [],
+    "cards": [],
+    "execution_time": 318.0,
+    "timestamp": "2026-09-02T12:29:57.778195",
+    "page_text_head": "Smiles\nGRU\nBKK\nTer, 08 dez\nBKK\nGRU\nQua, 16 dez\n2 pessoas adultas\nAlterar busca\nAcesse ou crie a sua conta\n\nJunte milhas e comece a viajar\n\nAcessar conta\nCriar conta\nEscolha sua passagem de ida\nO valor das passagens é cobrado por viajante.\nConferir cupom de desconto\n Previous\nDom, 30 ago\nSeg, 31 ago\n"
+  }
+]

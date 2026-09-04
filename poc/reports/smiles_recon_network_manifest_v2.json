@@ -1,0 +1,1682 @@
+[
+  {
+    "url": "https://www.smiles.com.br/home",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 435197,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.863034"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/css/theme/modules//alert-liferay.css",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 45,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.930969"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/commerce-frontend-js/styles/main.css",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 26632,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.933165"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/layout-common-styles/main.css?plid=53&segmentsExperienceId=14091711&t=1782267267228",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 1518,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.933879"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/css/smls-flight-search.min.css?v=1787065264000",
+    "status": 200,
+    "content_type": "text/css",
+    "bytes": 32887,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.947925"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/css/smls-flight-search-lf-home.min.css?v=1787065264000",
+    "status": 200,
+    "content_type": "text/css",
+    "bytes": 2270,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.949765"
+  },
+  {
+    "url": "https://www.smiles.com.br/dd/rum-init-smiles-async.js?v=1787065264000",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "bytes": 12930,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.955551"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/js/jquery-min.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 87532,
+    "snippet": "",
+    "time": "2026-09-02T09:56:16.963679"
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//combo?browserId=chrome&minifierType=css&themeId=smilesliferay7theme_WAR_smilesliferay7theme&languageId=pt_BR&com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cmuh:%2Fo%2Fasset-publisher-web%2Fcss%2Fmain.css&com_liferay_journal_content_web_portlet_JournalContentPortlet:%2Fo%2Fjournal-content-web%2Fcss%2Fmain.css&com_liferay_portal_search_web_",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 18485,
+    "snippet": "",
+    "time": "2026-09-02T09:56:17.023536"
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//o/smiles-liferay7-theme/css/main.css?browserId=chrome&themeId=smilesliferay7theme_WAR_smilesliferay7theme&minifierType=css&languageId=pt_BR&t=1787065264000",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 173403,
+    "snippet": "",
+    "time": "2026-09-02T09:56:17.062668"
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//o/smiles-liferay7-theme/css/clay.css?browserId=chrome&themeId=smilesliferay7theme_WAR_smilesliferay7theme&minifierType=css&languageId=pt_BR&t=1787065264000",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 688392,
+    "snippet": "",
+    "time": "2026-09-02T09:56:17.119854"
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//combo?browserId=chrome&minifierType=js&themeId=smilesliferay7theme_WAR_smilesliferay7theme&languageId=pt_BR&smilesliferayreactappsportlet_WAR_smilesliferayreactappsportlet_INSTANCE_Chatbot:%2Fo%2Fsmiles-liferay-react-apps-portlet%2Fjs%2Freact-16.14.0.min.js&smilesliferayreactappsportlet_WAR_smilesliferayreactappsportlet_INSTANCE_Chatbot:%2Fo%2Fsmiles-liferay-reac",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 314176,
+    "snippet": "",
+    "time": "2026-09-02T09:56:17.204088"
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/smls_clear_button",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 654,
+    "snippet": "",
+    "time": "2026-09-02T09:56:18.908295"
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/close_mobile_feedback_shopping",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 632,
+    "snippet": "",
+    "time": "2026-09-02T09:56:18.908886"
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/shopping_bag",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 851,
+    "snippet": "",
+    "time": "2026-09-02T09:56:18.938772"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/logos/smiles/lg-smiles-orange.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 4872,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.867491"
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/iwiQVmJcNcNLDL5c/JhFjQxRXaw/U0otE/AhedhAB",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 582360,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.934315"
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//o/smiles-liferay7-theme/js/main.js?browserId=chrome&minifierType=js&languageId=pt_BR&t=1787065264000",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 1154,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.938568"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf/SmilesSearch.js?v=1787065264000",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 35181,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.938941"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/js/lazysizes.min.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 7889,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.939114"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/smiles-liferay7-theme/js/ls.unveilhooks.min.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1699,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.939249"
+  },
+  {
+    "url": "https://www.smiles.com.br/dd/rum-init-core.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "bytes": 8357,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.939354"
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/IjtPa/WE1SkIZ?v=490b9f34-1f31-3b80-1703-b89a82da0215",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 512438,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.979203"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.982083"
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/close_icon",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 1028,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.982245"
+  },
+  {
+    "url": "https://www.smiles.com.br/documents/d/guest/magnfying-glass-grey",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 1244,
+    "snippet": "",
+    "time": "2026-09-02T09:56:19.982335"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-web/__liferay__/index.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 86931,
+    "snippet": "",
+    "time": "2026-09-02T09:56:20.439530"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:20.440152"
+  },
+  {
+    "url": "https://assets-blue.smiler.com.br//o/smiles-liferay7-theme/images/clay/icons.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 268422,
+    "snippet": "",
+    "time": "2026-09-02T09:56:20.456873"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/2122d8e9-b592-4e4a-adaa-910a6ab9bccd/2122d8e9-b592-4e4a-adaa-910a6ab9bccd.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 4629,
+    "snippet": "{\"CookieSPAEnabled\":false,\"CookieSameSiteNoneEnabled\":false,\"CookieV2CSPEnabled\":false,\"MultiVariantTestingEnabled\":false,\"UseV2\":true,\"MobileSDK\":false,\"SkipGeolocation\":false,\"ScriptType\":\"PRODUCTION\",\"Version\":\"202606.1.0\",\"OptanonDataJSON\":\"2122d8e9-b592-4e4a-adaa-910a6ab9bccd\",\"GeolocationUrl\":\"https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location\",\"BulkDomainCheckUrl\":\"https://cookies-data.onetrust.io/bannersdk/v1/domaingroupcheck\",\"RuleSet\":[{\"Id\":\"019eda87-fcec-7152-8aff-73eb186a36b1\",\"Name\":\"Global\",\"Countries\":[\"pr\",\"ps\",\"pw\",\"py\",\"qa\",\"ad\",\"ae\",\"af\",\"ag\",\"ai\",\"al\",\"am\",\"ao\",\"aq\",\"ar\",\"as\",\"au\",\"aw\",\"az\",\"ba\",\"bb\",\"rs\",\"bd\",\"ru\",\"bf\",\"rw\",\"bh\",\"bi\",\"bj\",\"bl\",\"bm\",\"bn\",\"bo\",\"sa\",\"bq\",\"sb\",\"sc\",\"br\",\"bs\",\"sd\",\"bt\",\"sg\",\"bv\",\"bw\",\"sh\",\"by\",\"sj\",\"bz\",\"sl\",\"sn\",\"so\",\"ca\",\"",
+    "time": "2026-09-02T09:56:21.310189"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.310440"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.310698"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.310874"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.311109"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.311436"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.311756"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.312089"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.312693"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react-dom.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 124538,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.716037"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/accessibility-settings-state-web/__liferay__/index.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 843,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.716521"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/classnames.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1502,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.716769"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/prop-types.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 2555,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.717001"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 9513,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.717519"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/index.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 28985,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.718272"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-state-web/__liferay__/index.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 5277,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.720495"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$alert.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 6972,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.720885"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$loading-indicator.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 2209,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.721238"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$form.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 32838,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.721923"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$icon.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1989,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.722597"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$button.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 6211,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.722811"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$modal.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 25900,
+    "snippet": "",
+    "time": "2026-09-02T09:56:21.724068"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:21.724602"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.659528"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.659735"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.659909"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.660080"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.660272"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.660450"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.660609"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.660820"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/new-react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2473,
+    "snippet": "{\n    \"smiles-react-poc-devops\": {\n        \"components\": [\n            \"SearchContent\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-poc-devops/0.0.31/smiles-react-poc-devops.js\"\n    },\n    \"smiles-react-club-cobranded\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-react-club-cobranded/0.1.25/smiles-react-club-cobranded.js\"\n    },\n    \"smiles-devops-react-components-template\": {\n        \"components\": [\n            \"ClubCobrandedBanner\"\n        ],\n        \"css\": [],\n        \"js\": \"/mfe-apps/components/smiles-devops-react-components-template/0.1.47/smiles-devops-react-components-template.js\"\n    },\n    \"smiles-react-mktpl-fuel\": {\n        \"components\": [\n            \"FuelA",
+    "time": "2026-09-02T09:56:22.661052"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:22.661183"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-node-shims/__liferay__/exports/process.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 2119,
+    "snippet": "",
+    "time": "2026-09-02T09:56:22.916217"
+  },
+  {
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 70,
+    "snippet": "",
+    "time": "2026-09-02T09:56:22.923539"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$layout.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 14372,
+    "snippet": "",
+    "time": "2026-09-02T09:56:22.925426"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$shared.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 55505,
+    "snippet": "",
+    "time": "2026-09-02T09:56:22.933727"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$core.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 215627,
+    "snippet": "",
+    "time": "2026-09-02T09:56:22.990422"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:23.218776"
+  },
+  {
+    "url": "https://c.go-mpulse.net/api/config.json?key=VKHNQ-4R7CE-B546X-STSHF-KSTXB&d=www.smiles.com.br&t=5961179&v=1.792.0&sl=0&si=63444603-5b29-402d-bc25-979fb7973e2f-tkqmls&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventT",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 52,
+    "snippet": "",
+    "time": "2026-09-02T09:56:23.842134"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:25.073635"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-dependencies-web/__liferay__/exports/dom-align.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 15740,
+    "snippet": "",
+    "time": "2026-09-02T09:56:26.782193"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$link.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 3775,
+    "snippet": "",
+    "time": "2026-09-02T09:56:26.783161"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-banks-components/0.2.36/smiles-react-banks-components.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 2061630,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.345759"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react-dnd-html5-backend.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 19926,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.364421"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-taglib-clay/__liferay__/exports/@clayui$table.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 8591,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.364640"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-dependencies-web/__liferay__/exports/fuzzy.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1734,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.364797"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-dependencies-web/__liferay__/exports/react-transition-group.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 15854,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.365027"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-react-web/__liferay__/exports/react-dnd.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 87259,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.366164"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-chatbot/0.15.9/smiles-react-chatbot.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1126401,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.528015"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-ffp-optin/0.5.21/smiles-react-ffp-optin.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1017050,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.635853"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-update-club/0.10.3/smiles-react-update-club.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1027952,
+    "snippet": "",
+    "time": "2026-09-02T09:56:27.747088"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-lightbox/0.14.7/smiles-react-lightbox.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 2387275,
+    "snippet": "",
+    "time": "2026-09-02T09:56:28.251859"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-b2c-modals/0.4.75/smiles-react-b2c-modals.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1069383,
+    "snippet": "",
+    "time": "2026-09-02T09:56:28.779469"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-bank-card-modals/0.1.2/smiles-react-bank-card-modals.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1013960,
+    "snippet": "",
+    "time": "2026-09-02T09:56:28.873722"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-web/liferay/modal/Modal.css",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 1804,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.466207"
+  },
+  {
+    "url": "https://www.smiles.com.br/o/frontend-js-web/css/notification.css",
+    "status": 200,
+    "content_type": "text/css;charset=UTF-8",
+    "bytes": 203,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.468060"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:29.468240"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/css/smls-new-hotels-search.min.css",
+    "status": 200,
+    "content_type": "text/css",
+    "bytes": 1258976,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.728626"
+  },
+  {
+    "url": "https://api-cms-portal-prd.smiles.com.br/o/headless-delivery/v1.0/sites/20124/structured-contents?flatten=true&filter=(friendlyUrlPath+eq+%27popup_cobranded_content%27)",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 9623,
+    "snippet": "{\"actions\":{\"updateBatch\":{\"method\":\"PUT\",\"href\":\"https://portal-blue-svc.smiles.com.br:80/o/headless-delivery/v1.0/structured-contents/batch\"},\"get\":{\"method\":\"GET\",\"href\":\"https://portal-blue-svc.smiles.com.br:80/o/headless-delivery/v1.0/sites/20124/structured-contents\"},\"deleteBatch\":{\"method\":\"DELETE\",\"href\":\"https://portal-blue-svc.smiles.com.br:80/o/headless-delivery/v1.0/structured-contents/batch\"}},\"facets\":[],\"items\":[{\"actions\":{\"get-rendered-content\":{\"method\":\"GET\",\"href\":\"https://portal-blue-svc.smiles.com.br:80/o/headless-delivery/v1.0/structured-contents/11160702/rendered-content/{contentTemplateId}\"},\"get-rendered-content-by-display-page\":{\"method\":\"GET\",\"href\":\"https://portal-blue-svc.smiles.com.br:80/o/headless-delivery/v1.0/structured-contents/11160702/rendered-content-b",
+    "time": "2026-09-02T09:56:29.731198"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353783736",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.733786"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353784163",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.734795"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353784164",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.736147"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 1675,
+    "snippet": "{\"api-data\":{\"value\":{\"API_CAR_AVAILABILITY\":\"https://caravailability-prd.smiles.com.br\",\"API_CHECKOUT\":\"https://api-prd-ckt-checkout.smiles.com.br\",\"API_CLUBE_SMILES\":\"https://club-smiles-prd.smiles.com.br\",\"API_CLUB_SMILES\":\"https://clube-smiles-prd.smiles.com.br\",\"API_MEMBERS\":\"https://members-prd.smiles.com.br\",\"API_MY_TRAVELS\":\"https://api-prd-tu-mytravel.smiles.com.br\",\"API_OAG\":\"https://api.smiles.com.br\",\"API_PARTNER_TOKEN\":\"https://partner-token-green.smiles.com.br\",\"API_PRODUCT_CONFIG\":\"https://product-config-service-prd.smiles.com.br\",\"API_RECSYS_ENGINE\":\"https://recsys-engine-prd.smiles.com.br/v1\",\"APP_CONFIG_URL\":\"https://appconfig.smiles.com.br\",\"ASSETS_BOOTSTRAP\":[\"https://smiler.com.br/bs-theme/css/smls-car-rental.min.css?v=lazaro01\"],\"BASE_URL\":\"https://apigw.smiles.com.br",
+    "time": "2026-09-02T09:56:29.736905"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.737548"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 1675,
+    "snippet": "{\"api-data\":{\"value\":{\"API_CAR_AVAILABILITY\":\"https://caravailability-prd.smiles.com.br\",\"API_CHECKOUT\":\"https://api-prd-ckt-checkout.smiles.com.br\",\"API_CLUBE_SMILES\":\"https://club-smiles-prd.smiles.com.br\",\"API_CLUB_SMILES\":\"https://clube-smiles-prd.smiles.com.br\",\"API_MEMBERS\":\"https://members-prd.smiles.com.br\",\"API_MY_TRAVELS\":\"https://api-prd-tu-mytravel.smiles.com.br\",\"API_OAG\":\"https://api.smiles.com.br\",\"API_PARTNER_TOKEN\":\"https://partner-token-green.smiles.com.br\",\"API_PRODUCT_CONFIG\":\"https://product-config-service-prd.smiles.com.br\",\"API_RECSYS_ENGINE\":\"https://recsys-engine-prd.smiles.com.br/v1\",\"APP_CONFIG_URL\":\"https://appconfig.smiles.com.br\",\"ASSETS_BOOTSTRAP\":[\"https://smiler.com.br/bs-theme/css/smls-car-rental.min.css?v=lazaro01\"],\"BASE_URL\":\"https://apigw.smiles.com.br",
+    "time": "2026-09-02T09:56:29.744631"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.744902"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-packages-search/0.0.90/smiles-react-packages-search.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1017558,
+    "snippet": "",
+    "time": "2026-09-02T09:56:29.999135"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2,
+    "snippet": "",
+    "time": "2026-09-02T09:56:30.018980"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 1675,
+    "snippet": "{\"api-data\":{\"value\":{\"API_CAR_AVAILABILITY\":\"https://caravailability-prd.smiles.com.br\",\"API_CHECKOUT\":\"https://api-prd-ckt-checkout.smiles.com.br\",\"API_CLUBE_SMILES\":\"https://club-smiles-prd.smiles.com.br\",\"API_CLUB_SMILES\":\"https://clube-smiles-prd.smiles.com.br\",\"API_MEMBERS\":\"https://members-prd.smiles.com.br\",\"API_MY_TRAVELS\":\"https://api-prd-tu-mytravel.smiles.com.br\",\"API_OAG\":\"https://api.smiles.com.br\",\"API_PARTNER_TOKEN\":\"https://partner-token-green.smiles.com.br\",\"API_PRODUCT_CONFIG\":\"https://product-config-service-prd.smiles.com.br\",\"API_RECSYS_ENGINE\":\"https://recsys-engine-prd.smiles.com.br/v1\",\"APP_CONFIG_URL\":\"https://appconfig.smiles.com.br\",\"ASSETS_BOOTSTRAP\":[\"https://smiler.com.br/bs-theme/css/smls-car-rental.min.css?v=lazaro01\"],\"BASE_URL\":\"https://apigw.smiles.com.br",
+    "time": "2026-09-02T09:56:30.019392"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/evalx/5dc03c40125008088b5cf13e/users/eyJrZXkiOiJodHRwczovL3d3dy5zbWlsZXMuY29tLmJyIn0",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 1675,
+    "snippet": "{\"api-data\":{\"value\":{\"API_CAR_AVAILABILITY\":\"https://caravailability-prd.smiles.com.br\",\"API_CHECKOUT\":\"https://api-prd-ckt-checkout.smiles.com.br\",\"API_CLUBE_SMILES\":\"https://club-smiles-prd.smiles.com.br\",\"API_CLUB_SMILES\":\"https://clube-smiles-prd.smiles.com.br\",\"API_MEMBERS\":\"https://members-prd.smiles.com.br\",\"API_MY_TRAVELS\":\"https://api-prd-tu-mytravel.smiles.com.br\",\"API_OAG\":\"https://api.smiles.com.br\",\"API_PARTNER_TOKEN\":\"https://partner-token-green.smiles.com.br\",\"API_PRODUCT_CONFIG\":\"https://product-config-service-prd.smiles.com.br\",\"API_RECSYS_ENGINE\":\"https://recsys-engine-prd.smiles.com.br/v1\",\"APP_CONFIG_URL\":\"https://appconfig.smiles.com.br\",\"ASSETS_BOOTSTRAP\":[\"https://smiler.com.br/bs-theme/css/smls-car-rental.min.css?v=lazaro01\"],\"BASE_URL\":\"https://apigw.smiles.com.br",
+    "time": "2026-09-02T09:56:30.049061"
+  },
+  {
+    "url": "https://ldrelay.smiles.com.br/sdk/goals/5dc03c40125008088b5cf13e",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2,
+    "snippet": "",
+    "time": "2026-09-02T09:56:30.051728"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/react-components.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11158,
+    "snippet": "{\n    \"smiles-react-retro-credit\": {\n        \"components\": [\n            \"CreditRequest\",\n            \"CreditRequestHistory\",\n            \"AskedQuestions\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n            \"/bs-theme/css/smls-components-ds-lf.min.css\",\n            \"/bs-theme/css/smls-ui-kit.min.css\"\n        ],\n        \"js\": \"/mfe-apps/components/smiles-react-retro-credit/0.0.302/smiles-react-retro-credit.js\"\n    },\n    \"smiles-react-favorite-passanger\": {\n        \"components\": [\n            \"FavoritePassangerForm\",\n            \"SpecialFareNotification\"\n        ],\n        \"css\": [\n            \"/bs-theme/css/smls-base-theme-lf.min.css\",\n            \"/bs-theme/css/smls-components-lf.min.css\",\n",
+    "time": "2026-09-02T09:56:30.152500"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:30.153183"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:30.154020"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:30.167865"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353787362",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:30.168496"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/2122d8e9-b592-4e4a-adaa-910a6ab9bccd/019eda87-fcec-7152-8aff-73eb186a36b1/en.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 228923,
+    "snippet": "{\"DomainData\":{\"pclifeSpanYr\":\"Year\",\"pclifeSpanYrs\":\"Years\",\"pclifeSpanSecs\":\"A few seconds\",\"pclifeSpanWk\":\"Week\",\"pclifeSpanWks\":\"Weeks\",\"pccontinueWithoutAcceptText\":\"Continue without Accepting\",\"pccloseButtonType\":\"Icon\",\"MainText\":\"Privacy Preference Center\",\"MainInfoText\":\"When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site work as you expect. The information does not usually identify you directly, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to learn more and change our defa",
+    "time": "2026-09-02T09:56:31.807431"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/css/smls-car-search.min.css?v=1784734108",
+    "status": 200,
+    "content_type": "text/css",
+    "bytes": 446075,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.840965"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 1734,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.843792"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2140,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.844338"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2095,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.844629"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2421,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.844938"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 1734,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.845202"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2140,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.845615"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2095,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.845827"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2421,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.845973"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-package1.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2209,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.846115"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-package2.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 1680,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.846277"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2610,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.846373"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 1720,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.851510"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 2610,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.851636"
+  },
+  {
+    "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090212",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 1720,
+    "snippet": "",
+    "time": "2026-09-02T09:56:31.851794"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:32.679601"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-flight-search/0.30.203/smiles-react-flight-search.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 4145569,
+    "snippet": "",
+    "time": "2026-09-02T09:56:34.009643"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353789556",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:34.019839"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-car-search-ut/0.0.76/smiles-react-car-search-ut.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 2159357,
+    "snippet": "",
+    "time": "2026-09-02T09:56:34.889391"
+  },
+  {
+    "url": "https://api-cms-prd.smiles.com.br/api/v1.0/delivery/contents/30ab00ae-26e6-479d-9f78-6abddc45a356",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 1875,
+    "snippet": "{\"childs\":[{\"id\":\"bb\",\"type\":\"panel\",\"childs\":[{\"id\":\"bb-telefone\",\"type\":\"title\",\"text\":\"\",\"loaded\":true,\"locked\":false,\"fontSize\":12},{\"id\":\"bb-link\",\"type\":\"title\",\"text\":\"https://www.smiles.com.br/restrito/cobranded/cbb/begin\",\"loaded\":true,\"locked\":false,\"fontSize\":12},{\"id\":\"bb-link-external\",\"type\":\"title\",\"text\":\"https://www.bb.com.br/smiles\",\"loaded\":true,\"locked\":false,\"fontSize\":12},{\"id\":\"bb-is-logged-user\",\"type\":\"title\",\"text\":\"true\",\"loaded\":true,\"locked\":false,\"fontSize\":12}]},{\"id\":\"bradesco\",\"type\":\"panel\",\"childs\":[{\"id\":\"bradesco-telefone\",\"type\":\"title\",\"text\":\"\",\"loaded\":true,\"locked\":false,\"fontSize\":12},{\"id\":\"bradesco-link\",\"type\":\"title\",\"text\":\"https://www.smiles.com.br/restrito/cobranded/bradesco/begin\",\"loaded\":true,\"locked\":false,\"fontSize\":12},{\"id\":\"bradesco",
+    "time": "2026-09-02T09:56:34.890865"
+  },
+  {
+    "url": "https://apigw-blue.smiles.com.br/atd/chatbot/appid/v1",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 45,
+    "snippet": "",
+    "time": "2026-09-02T09:56:34.891129"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-hotels-search/0.0.225/smiles-react-hotels-search.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 3751299,
+    "snippet": "",
+    "time": "2026-09-02T09:56:36.234763"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:36.250850"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFloatingRounded.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 11091,
+    "snippet": "\n            {\n                \"name\": \"otFloatingRounded\",\n                \"html\": \"PGRpdiBpZD0ib25ldHJ1c3QtYmFubmVyLXNkayIgY2xhc3M9Im90RmxvYXRpbmdSb3VuZGVkIj48ZGl2IGNsYXNzPSJvdC1zZGstY29udGFpbmVyIiByb2xlPSJkaWFsb2ciPjxkaXYgY2xhc3M9Im90LXNkay1yb3ciPjxkaXYgaWQ9Im9uZXRydXN0LWdyb3VwLWNvbnRhaW5lciIgY2xhc3M9Im90LXNkay10d2VsdmUgb3Qtc2RrLWNvbHVtbnMiPjxkaXYgY2xhc3M9ImJhbm5lcl9sb2dvIj48L2Rpdj48ZGl2IGlkPSJvbmV0cnVzdC1wb2xpY3kiPjxoMiBpZD0ib25ldHJ1c3QtcG9saWN5LXRpdGxlIj50aXRsZTwvaDI+PGRpdiBpZD0ib25ldHJ1c3QtcG9saWN5LXRleHQiPnRleHQ8YSBocmVmPSIjIj5wb2xpY3k8L2E+PC9kaXY+PGRpdiBjbGFzcz0ib3QtZHBkLWNvbnRhaW5lciI+PGgzIGNsYXNzPSJvdC1kcGQtdGl0bGUiPjwvaDM+PGRpdiBjbGFzcz0ib3QtZHBkLWNvbnRlbnQiPjxwIGNsYXNzPSJvdC1kcGQtZGVzYyI+PC9wPjwvZGl2PjwvZGl2PjwvZGl2PjxkaXYgaWQ9ImJhbm5lci1vcHRpb25zIj48ZGl2IGNsYXNzPSJiYW5uZXItb3B",
+    "time": "2026-09-02T09:56:36.287076"
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcPanel.json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 71300,
+    "snippet": "\n        {\n            \"name\": \"otPcPanel\",\n            \"html\": \"PGRpdiBpZD0ib25ldHJ1c3QtcGMtc2RrIiBjbGFzcz0ib3RQY1BhbmVsIG90LWhpZGUgb3QtZmFkZS1pbiI+PGRpdiByb2xlPSJkaWFsb2ciIGFyaWEtbW9kYWw9InRydWUiPjwhLS0gUEMgSGVhZGVyIC0tPjxkaXYgY2xhc3M9Im90LXBjLWhlYWRlciI+PGRpdiBjbGFzcz0ib3QtcGMtbG9nbyI+PC9kaXY+PGJ1dHRvbiBpZD0iY2xvc2UtcGMtYnRuLWhhbmRsZXIiIGNsYXNzPSJvdC1jbG9zZS1pY29uIiBhcmlhLWxhYmVsPSJDbG9zZSI+PC9idXR0b24+PC9kaXY+PGRpdiBpZD0ib3QtcGMtY29udGVudCIgY2xhc3M9Im90LXBjLXNjcm9sbGJhciI+PGgyIGlkPSJvdC1wYy10aXRsZSI+WW91ciBQcml2YWN5PC9oMj48ZGl2IGlkPSJvdC1wYy1kZXNjIj48L2Rpdj48YnV0dG9uIGlkPSJhY2NlcHQtcmVjb21tZW5kZWQtYnRuLWhhbmRsZXIiIG90LWJ1dHRvbi1vcmRlcj0iMCI+QWNjZXB0IEFsbDwvYnV0dG9uPjxzZWN0aW9uIGNsYXNzPSJvdC1zZGstcm93IG90LWNhdC1ncnAiPjxoMyBpZD0ib3QtY2F0ZWdvcnktdGl0bGUiPk1hbmFnZSBDb29raWUgUHJlZmVyZW5jZXM",
+    "time": "2026-09-02T09:56:36.288486"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353792594",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:36.297858"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353792595",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:36.298092"
+  },
+  {
+    "url": "https://product-config-service-blue.smiles.com.br/getProdConfig?ProductConfigId=club-agent-zd-conf",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 451,
+    "snippet": "{\"ProductConfigId\":\"club-agent-zd-conf\",\"nameConfig\":\"Configurações Agent Workspace Zendesk\",\"attendantWorktimeStart\":\"9\",\"attendantWorktimeEnd\":\"23\",\"isActive\":\"false\",\"configList\":[{\"contexts\":[{\"name\":\"proactive_club_sale\",\"expire\":\"24\",\"pageList\":[{\"page\":\"/clube-smiles\",\"timeout\":\"10\"}],\"blocked_pages\":[\"/bancos/*\",\"/minha-conta/*\"]}]}],\"TemplateId\":\"agent-workspace-zendesk\",\"id_user\":\"smiles.bmenezes\",\"draft_json_data\":null,\"is_active\":null}",
+    "time": "2026-09-02T09:56:36.298342"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:37.239250"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:37.316928"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788353794204",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:37.317723"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-search/round-trip-orange-icon.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 918,
+    "snippet": "",
+    "time": "2026-09-02T09:56:37.318577"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/flight-search/round-trip-gray-icon.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 918,
+    "snippet": "",
+    "time": "2026-09-02T09:56:37.323770"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:37.324031"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/components/smiles-react-recsys-templates/0.24.516/smiles-react-recsys-templates.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 9944304,
+    "snippet": "",
+    "time": "2026-09-02T09:56:44.696693"
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/IjtPa/WE1SkIZ",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:44.699019"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:44.699387"
+  },
+  {
+    "url": "https://airports-blue.smiles.com.br/v1/airports?q=airport&size=50",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 21065,
+    "snippet": "[{\"country\":\"Brasil\",\"altitude\":\"35\",\"code\":\"JJG\",\"city\":\"Jaguaruna Airport\",\"congenere\":\"true\",\"timezone\":\"America/Santa Catarina\",\"latitude\":\"-28.67\",\"active\":\"true\",\"description\":\"Jaguaruna Airport, Brasil (JJG) [Jaguaruna Airport] \",\"g3\":\"true\",\"iata\":\"Brasil\",\"zone\":\"América do Sul\",\"name\":\"Jaguaruna Airport\",\"location\":{\"lon\":\"-49.06\",\"lat\":\"-28.67\"},\"state\":\"Santa Catarina\",\"international\":\"false\",\"longitude\":\"-49.06\"},{\"country\":\"Brasil\",\"altitude\":\"880\",\"code\":\"EEA\",\"city\":\"Planalto Serrano Airport\",\"congenere\":\"false\",\"timezone\":\"America/Sao_Paulo\",\"latitude\":\"-27.62861\",\"active\":\"true\",\"description\":\"Planalto Serrano Airport, Brasil (EEA) [Planalto Serrano Airport] \",\"g3\":\"true\",\"iata\":\"Brasil\",\"zone\":\"América do Sul\",\"name\":\"Planalto Serrano Airport\",\"location\":{\"lon\":\"-50.3508",
+    "time": "2026-09-02T09:56:44.701045"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:44.701553"
+  },
+  {
+    "url": "https://5d963ea1bdaf7400109e319b.config.smooch.io/sdk/apps/5d963ea1bdaf7400109e319b/config",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 1283,
+    "snippet": "{\"config\":{\"app\":{\"_id\":\"5d963ea1bdaf7400109e319b\",\"status\":\"active\",\"name\":\"IA - Atendimento (PRD)\",\"iconUrl\":\"https://media.smooch.io/5d963ea1bdaf7400109e319b/icons/f6e26d5474c8479a2f8ef5660b9dda59.jpg\",\"settings\":{\"multiConvoEnabled\":false,\"endSessionEnabled\":false,\"disableConversationReopen\":false,\"brandFilteringEnabled\":false}},\"baseUrl\":{\"ios\":\"https://api.smooch.io/sdk\",\"android\":\"https://api.smooch.io/sdk\",\"web\":\"https://api.smooch.io/sdk\",\"unity\":\"https://api.smooch.io/sdk\"},\"integration\":{\"_id\":\"5daf447966ed95001007d19f\",\"type\":\"web\",\"waitConfig\":{\"waitTimeEnabled\":false,\"queuePositionEnabled\":false,\"onlyDecreasingQueue\":false},\"canUserCreateMoreConversations\":true,\"canUserSeeConversationList\":true,\"showAIDisclaimer\":true},\"restRetryPolicy\":{\"maxRetries\":5,\"intervals\":{\"regular\":",
+    "time": "2026-09-02T09:56:46.174929"
+  },
+  {
+    "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+    "status": 200,
+    "content_type": "text/plain",
+    "bytes": 4,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.176579"
+  },
+  {
+    "url": "https://apigw-blue.smiles.com.br/b2b/partner/oauth/token/",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 1208,
+    "snippet": "{\"access_token\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRES1VSRVN4NkdHRjA2ejBfbUNuUCJ9.eyJpc3MiOiJodHRwczovL2xvZ2luLnNtaWxlcy5jb20uYnIvIiwic3ViIjoiMmdwUlVXVE9CRmdpMnV5cG90UjNnQlVoQ3RWdVlzMkdAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vc21pbGVzLmFwaSIsImlhdCI6MTc4ODM1MDQzNiwiZXhwIjoxNzg4MzU3NjM2LCJzY29wZSI6InJlYWQ6cmVkaXJlY3RQYXJ0bmVyIHJlYWQ6bGVnYWxSZXNwIHJlYWQ6dG9rZW4gcmVhZDp1dGlscyByZWFkOm1lbWJlcnMgY3JlYXRlOm1lbWJlcnMgdXBkYXRlOm1lbWJlcnMgcmVzZXQ6bWVtYmVycyBjcmVhdGU6c2VydmljZVJlcXVlc3QgcmVhZDpzZXJ2aWNlUmVxdWVzdCB1cGRhdGU6c2VydmljZVJlcXVlc3QiLCJndHkiOiJjbGllbnQtY3JlZGVudGlhbHMiLCJhenAiOiIyZ3BSVVdUT0JGZ2kydXlwb3RSM2dCVWhDdFZ1WXMyRyJ9.HIOh4AJ9kAx7AvDr_pyA6geTDoSCPEcaedErJIrzo2z8QUQjEQnBGlJlcXmyWg8vzx6g5MeeSwZyx06UsAoqL4ejrl5O16NRwOjQU5MKZdoocs3jsj_V91dMjOt_fn1QjwLKH3DklRrjA2PxaM_j0QU2pyrGVSpJyyGv8",
+    "time": "2026-09-02T09:56:46.176802"
+  },
+  {
+    "url": "https://apigw-blue.smiles.com.br/b2b/partner/oauth/token/",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 1208,
+    "snippet": "{\"access_token\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRES1VSRVN4NkdHRjA2ejBfbUNuUCJ9.eyJpc3MiOiJodHRwczovL2xvZ2luLnNtaWxlcy5jb20uYnIvIiwic3ViIjoiMmdwUlVXVE9CRmdpMnV5cG90UjNnQlVoQ3RWdVlzMkdAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vc21pbGVzLmFwaSIsImlhdCI6MTc4ODM1MDQzNiwiZXhwIjoxNzg4MzU3NjM2LCJzY29wZSI6InJlYWQ6cmVkaXJlY3RQYXJ0bmVyIHJlYWQ6bGVnYWxSZXNwIHJlYWQ6dG9rZW4gcmVhZDp1dGlscyByZWFkOm1lbWJlcnMgY3JlYXRlOm1lbWJlcnMgdXBkYXRlOm1lbWJlcnMgcmVzZXQ6bWVtYmVycyBjcmVhdGU6c2VydmljZVJlcXVlc3QgcmVhZDpzZXJ2aWNlUmVxdWVzdCB1cGRhdGU6c2VydmljZVJlcXVlc3QiLCJndHkiOiJjbGllbnQtY3JlZGVudGlhbHMiLCJhenAiOiIyZ3BSVVdUT0JGZ2kydXlwb3RSM2dCVWhDdFZ1WXMyRyJ9.HIOh4AJ9kAx7AvDr_pyA6geTDoSCPEcaedErJIrzo2z8QUQjEQnBGlJlcXmyWg8vzx6g5MeeSwZyx06UsAoqL4ejrl5O16NRwOjQU5MKZdoocs3jsj_V91dMjOt_fn1QjwLKH3DklRrjA2PxaM_j0QU2pyrGVSpJyyGv8",
+    "time": "2026-09-02T09:56:46.176896"
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation/priority?place=home_0&channel=web&request_id=3a17b1be-a665-4d56-863a-1dc2403ffba4",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 549,
+    "snippet": "[{\"id\":\"ff0ded69-aa09-4ed1-ab20-a71785f18728\",\"template\":2,\"layout\":1,\"support_geolocation\":true,\"recommendation_type\":\"VENDA_AEREO\"},{\"id\":\"dd55b8f4-862f-4aed-9d8c-f2ef4a680375\",\"template\":2,\"layout\":1,\"support_geolocation\":false,\"recommendation_type\":\"VENDA_SHOPPING_GOP\"},{\"id\":\"2a48f8c2-247d-4f4a-8466-848a1809b437\",\"template\":3,\"layout\":1,\"support_geolocation\":false,\"recommendation_type\":\"PROMO_BANCOS\"},{\"id\":\"b293f2a4-bb7f-4342-9699-03ace621ee66\",\"template\":7,\"layout\":1,\"support_geolocation\":false,\"recommendation_type\":\"PROMOCOES_SMILES\"}]",
+    "time": "2026-09-02T09:56:46.224467"
+  },
+  {
+    "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13237,
+    "snippet": "{\"api-data\":{\"value\":{\"constants\":{\"APP\":{\"API_OAG_VERSION\":2,\"ENABLE_BIOMETRICS\":false,\"ENABLE_NEW_HOTEL\":false,\"OagApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"UberApiKey\":\"p6QLrMhjOu3erSfHtFbRK8C1zC1VxIV85OTfEBJK\",\"apiGoogleMaps\":\"\",\"auth0\":{\"client_id\":\"jpA12rkcvMZHep6ur1F7c1sHyARSFMa9\",\"domain\":\"login.smiles.com.br\"},\"auth0MtoM\":{\"audience\":\"https://smiles.api\",\"client_id\":\"2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G\",\"client_secret\":\"U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e\",\"grant_type\":\"client_credentials\"},\"cancel_account_client_id\":\"XLm07fiE17eWVVY0gupW4wm0CIvG47Iv\",\"cmsDeliveryIds\":{\"ABOUT_FAVORITE_ROUTE\":\"e204d023-bcdf-4881-ae1c-c91d7b3ae649\",\"AIR_TRANSPORT_CONTRACT\":\"dbe3b1a4-6f69-48af-93e9-a9fd7bae0e93\",\"BIOMETRICS_SECURITY\":\"108cea0c-786d-4d75-a17f-17c9b3",
+    "time": "2026-09-02T09:56:46.225549"
+  },
+  {
+    "url": "https://api.lab.amplitude.com/sdk/v2/vardata?v=0",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "bytes": 288,
+    "snippet": "{\"busca_voz_app_smiles\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"0_1788353799871_164046872\",\"segmentName\":\"All Other Users\"}},\"header_smiles_institucional\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"0_1788353799871_164046872\",\"segmentName\":\"All Other Users\"}}}",
+    "time": "2026-09-02T09:56:46.225828"
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation?place=home_0&channel=web&id=b293f2a4-bb7f-4342-9699-03ace621ee66&trace_id=3a17b1be-a665-4d56-863a-1dc2403ffba4&request_id=9e39b709-375e-46c3-a71d-c6176cc5f9d8",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 12087,
+    "snippet": "{\"config\":{\"cards_scroll_by\":4,\"enable_save_variant\":false,\"show_cta_card_btn\":false,\"params\":{\"tagsEnabled\":true}},\"recommendations\":[{\"header\":{\"has_icon\":\"false\"},\"title\":\"<p>Ofertas Imperdíveis: Aproveite os benefícios com nossas promoções!</p>\",\"description\":\"\",\"cards\":[{\"id\":\"rcs_card_promotion_generic\",\"score\":\"1\",\"image\":{\"image\":\"/documents/20124/9701003/HOT152_BANNER_PROMO_NOVO_V2.png/dbf646b6-5382-757e-fc03-50466a65a7ce?t=1720795939983\",\"channel\":\"[\\\"web\\\"]\",\"resolution\":\"[\\\"web\\\"]\"},\"label\":{\"color\":\"#FFFFFF\",\"text\":\"<p>/documents/20124/10941617/RESERVAR.png/525c17fc-c053-f931-5161-3becfc937de2?t=1727958340316</p>\"},\"title\":{\"color\":\"#FFFFFF\",\"text\":\"<p>Reserve estadias em uma plataforma completa!</p>\"},\"description\":{\"color\":\"#FFFFFF\",\"text\":\"<p><p>Encontre hotel para sua viag",
+    "time": "2026-09-02T09:56:46.253694"
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation?place=home_0&channel=web&id=2a48f8c2-247d-4f4a-8466-848a1809b437&trace_id=3a17b1be-a665-4d56-863a-1dc2403ffba4&request_id=4b5c430a-1505-4683-982a-4d15267dc820",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 9816,
+    "snippet": "{\"config\":{\"cards_scroll_by\":5,\"enable_save_variant\":false,\"show_cta_card_btn\":false,\"params\":{}},\"recommendations\":[{\"header\":{\"prefix\":\"Transferência\",\"has_icon\":\"true\",\"suffix\":\"de Pontos\"},\"title\":\"Viva experiências incríveis convertendo seus pontos em milhas\",\"description\":\"<p>Os pontos do seu cartão de crédito podem ser transformados em milhas na sua conta Smiles. <strong>Conheça nossos 25 bancos</strong> e programas parceiros.</p>\",\"cta\":\"\",\"more_info\":{\"label\":\"Saiba como transferir\",\"link\":\"https://www.smiles.com.br/transferir-pontos-cartao\",\"channel\":\"[\\\"Web\\\"]\"},\"params\":[],\"fixed_card\":{\"card_id\":\"card_bancos_parceiros\",\"score\":\"1\",\"image\":[{\"image\":{\"url\":\"/documents/20124/4610380/icon-plus.png/f4748668-6b87-8081-4cb2-a88b20e58589?t=1683298006170\"},\"channel\":\"[\\\"Web\\\"]\",\"resol",
+    "time": "2026-09-02T09:56:46.255801"
+  },
+  {
+    "url": "https://recsys-engine-prd.smiles.com.br/v2/recommendation?place=home_0&channel=web&id=dd55b8f4-862f-4aed-9d8c-f2ef4a680375&trace_id=3a17b1be-a665-4d56-863a-1dc2403ffba4&request_id=2dd4432d-78e2-4590-8288-cfdbca29c5dc",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 14916,
+    "snippet": "{\"config\":{\"cards_scroll_by\":4,\"enable_save_variant\":false,\"show_cta_card_btn\":false,\"params\":{}},\"recommendations\":[{\"header\":{\"prefix\":\"Shopping\",\"has_icon\":\"true\",\"suffix\":\"Smiles\"},\"title\":\"<p>Veja os produtos que selecionamos para você:</p>\",\"description\":\"\",\"notes\":\"\",\"notes_icon\":\"\",\"notes_description\":\"\",\"notes_button\":\"\",\"more_info\":{\"label\":\"Ver todos os produtos\",\"link\":\"https://shoppingsmiles.com.br/home?utm_source=home_smiles&utm_medium=vitrine&utm_campaign=shopping\",\"channel\":\"[\\\"web\\\"]\"},\"footer_text\":\"\",\"cards\":[{\"id\":\"rcs_card_shopping_gop_redemption\",\"score\":\"103\",\"header_1\":\"\",\"header_2\":\"\",\"icon\":\"\",\"icon_2\":\"\",\"image\":{\"image\":{\"imageExternalUrl\":\"https://imgs.via.com.br/55072183/1xg.jpg?imwidth=292\"}},\"text_1\":\"Smartphone Samsung Galaxy S26+ 5G Tela 6.7\\\" 256GB Câmera",
+    "time": "2026-09-02T09:56:46.257513"
+  },
+  {
+    "url": "https://edge.fullstory.com/s/settings/o-22R5SZ-na1/v1/web",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 98268,
+    "snippet": "{\"AjaxWatches\":[{\"URLRegex\":\".*smiles\\\\.com\\\\.br*\",\"RecordReq\":1,\"RecordRsp\":1,\"ReqWhitelist\":\"\",\"RspWhitelist\":\"\",\"ReqAllowlist\":\"\",\"RspAllowlist\":\"\",\"ReqBody\":false,\"RspBody\":false}],\"BehaviorSignalSettings\":{\"ElementBlocks\":null},\"Domains\":{\"OnlyKnownDomains\":false},\"ElementBlocks\":[{\"Selector\":\"input[type=password]\",\"Consent\":false,\"Type\":1,\"GroupId\":0},{\"Selector\":\"input[type=hidden]\",\"Consent\":false,\"Type\":1,\"GroupId\":0},{\"Selector\":\"[autocomplete^=cc-]\",\"Consent\":false,\"Type\":1,\"GroupId\":0},{\"Selector\":\"input\",\"Consent\":false,\"Type\":2,\"GroupId\":1},{\"Selector\":\"textarea\",\"Consent\":false,\"Type\":2,\"GroupId\":1},{\"Selector\":\"select\",\"Consent\":false,\"Type\":2,\"GroupId\":1},{\"Selector\":\"[contenteditable]\",\"Consent\":false,\"Type\":2,\"GroupId\":1},{\"Selector\":\"input[type=radio]\",\"Consent\":false,\"",
+    "time": "2026-09-02T09:56:46.374636"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803426&cv=11&tid=G-L25DPPG37X&fst=1788353803426&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.374929"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803324&cv=11&tid=G-L25DPPG37X&fst=1788353803324&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.375059"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803375&cv=11&tid=G-L25DPPG37X&fst=1788353803375&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.375181"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803455&cv=11&tid=G-L25DPPG37X&fst=1788353803455&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.375268"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803514&cv=11&tid=G-L25DPPG37X&fst=1788353803514&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.375349"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803689&cv=11&tid=G-L25DPPG37X&fst=1788353803689&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.383028"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803646&cv=11&tid=G-L25DPPG37X&fst=1788353803646&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.383988"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353803598&cv=11&tid=G-L25DPPG37X&fst=1788353803598&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.385619"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353804033&cv=11&tid=G-L25DPPG37X&fst=1788353804033&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.386521"
+  },
+  {
+    "url": "https://www.google.com/measurement/1p-conversion/?random=1664935867&cv=11&tid=G-L25DPPG37X&fst=1788353803171&fmt=8&en=session_start&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.386820"
+  },
+  {
+    "url": "https://www.google.com/measurement/conversion?random=1788353804789&cv=11&tid=G-L25DPPG37X&fst=1788353804789&fmt=8&en=view_item_list&gtm=45je68v1h1v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118131808~118897920~118897930~120213116~120385423&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&gacid=1076510604.1788353800&frm=0",
+    "status": 200,
+    "content_type": "",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:46.387893"
+  },
+  {
+    "url": "https://us01campaign.zoom.us/v1/live-sdk-version/fast?apikey=JfpAW4M4QeOlk4JVuajQfg",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 321,
+    "snippet": "{\"result\":{\"id\":\"CogRHSd_Q5e4TTkI6OmQmw\",\"videoSdkVersion\":\"v2\",\"videoSdkBuildVersion\":\"latest\",\"chatSdkVersion\":\"v2\",\"chatSdkBuildVersion\":\"latest\",\"enableZCCLiveSDKGrayscale\":true,\"frontendConfig\":{\"enableGetAuthCredentialsFromWindow\":\"true\"},\"campaignSDKVersion\":\"9875\",\"enableCrossStorageOrigin\":false},\"status\":true}",
+    "time": "2026-09-02T09:56:46.663479"
+  },
+  {
+    "url": "https://zoom.us/user/anonymous/telemetry",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 339,
+    "snippet": "{\"collectionUrl\":\"us.telemetry.zoom.us\",\"proxyCollectionUrl\":\"us.telemetry.zoomconnector.com\",\"accountEnableNSNToggle\":true,\"userEnableNSNToggle\":true,\"telemetryEvent\":{\"cdnUrl\":\"https://file-paa.zoom.us/GySuUuirRSSc9SIB6M_CCQ/MS4zLvDGgXVuxJjsLPPiD_nQGqsnZ98XBI7c-phfY_RJu6AY/telemetry_ids_20260902101044.json\",\"version\":\"20260902101044\"}}",
+    "time": "2026-09-02T09:56:46.663588"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/page",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 1506,
+    "snippet": "{\"Consented\":false,\"CookieDomain\":\"smiles.com.br\",\"PrivacyHash\":\"\",\"UserUUID\":\"e80d6009-970f-41fc-817f-0eee08b6d3de\",\"SessionUUID\":\"a285e33a-1605-4c2c-9d74-c6317d31284e\",\"PageUUID\":\"9730ab75-18af-4d38-a6dd-037e8f2ae835\",\"UserIntId\":\"0\",\"SessionIntId\":\"0\",\"PageIntId\":\"0\",\"EmbedToken\":\"\",\"PageStart\":1788353806588,\"IsNewSession\":false,\"Flags\":{\"AjaxFetch\":true,\"AjaxWatcher\":true,\"CaptureAnimations\":true,\"ClientSideRageClick\":true,\"ConsoleWatcher\":true,\"FetchChildIntegrations\":true,\"GetCurrentSession\":true,\"ResourceUploading\":true,\"UseBufferedPO\":true,\"UseClientSideId\":true,\"UseCompression\":true,\"UseDwellTime\":true,\"UseLZEncoding\":true,\"UseStatelessConsent\":true,\"UseStaticSettings\":true,\"UseTreeWalker\":true},\"GCLBSubdomain\":\"rs\",\"Blocks\":[],\"Watches\":[],\"AjaxFetchEnabled\":true,\"AjaxWatcherEnab",
+    "time": "2026-09-02T09:56:46.964142"
+  },
+  {
+    "url": "https://us01campaign.zoom.us/v1/zcc/campaign/language/list?apikey=JfpAW4M4QeOlk4JVuajQfg",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 1461,
+    "snippet": "{\"result\":[{\"name\":\"Arabic (MSA)\",\"languageCode\":\"ar-SA\"},{\"name\":\"Arabic (U.A.E.)\",\"languageCode\":\"ar-AE\"},{\"name\":\"Catalan (Spain)\",\"languageCode\":\"ca-ES\"},{\"name\":\"Chinese (Simplified)\",\"languageCode\":\"zh-CN\"},{\"name\":\"Chinese (Traditional)\",\"languageCode\":\"zh-TW\"},{\"name\":\"Danish\",\"languageCode\":\"da-DK\"},{\"name\":\"Dutch\",\"languageCode\":\"nl-NL\"},{\"name\":\"English (Australia)\",\"languageCode\":\"en-AU\"},{\"name\":\"English (India)\",\"languageCode\":\"en-IN\"},{\"name\":\"English (New Zealand)\",\"languageCode\":\"en-NZ\"},{\"name\":\"English (Singapore)\",\"languageCode\":\"en-SG\"},{\"name\":\"English (UK)\",\"languageCode\":\"en-GB\"},{\"name\":\"English (US)\",\"languageCode\":\"en-US\"},{\"name\":\"French (Canada)\",\"languageCode\":\"fr-CA\"},{\"name\":\"French (France)\",\"languageCode\":\"fr-FR\"},{\"name\":\"German\",\"languageCode\":\"de-DE\"},{",
+    "time": "2026-09-02T09:56:47.153065"
+  },
+  {
+    "url": "https://sr-client-cfg.amplitude.com/config/ef9f1f5d78d898503e815a9c4b2e450c?config_group=browser",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 99,
+    "snippet": "",
+    "time": "2026-09-02T09:56:47.154708"
+  },
+  {
+    "url": "https://us01campaign.zoom.us/v1/zcc/campaign/styleByApiKey?url=https%3A%2F%2Fwww.smiles.com.br%2Fhome&mode=campaign&apiKeyType2=JfpAW4M4QeOlk4JVuajQfg",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 8460,
+    "snippet": "{\"result\":[{\"id\":\"qcp2V6dxR3qIqsgOJwl9Uw\",\"campaignParentId\":\"S82ev8chSbCp3d2FrwDrgA\",\"campaignName\":\"Watson Super\",\"multiChannel\":[\"CHAT\",\"PHONE\"],\"startTime\":\"2026-05-14 03:00:00\",\"endTime\":\"2032-12-31 15:00:00\",\"chatEntryId\":\"WZdZ7x2pSRadZ7yO6T0zZA\",\"videoEntryId\":\"\",\"botId\":\"\",\"chatFlowId\":\"PWmLnvE7Sri5P3bkOlY5DA\",\"videoFlowId\":\"\",\"botFlowId\":\"\",\"chatFlowType\":1,\"invitationName\":\"GAL Icone\",\"invitationId\":\"FWJ9UfkETSWK2kupN7nhVQ\",\"invitationStyle\":\"{\\\"name\\\":\\\"GAL Icone\\\",\\\"borderWidth\\\":0,\\\"borderRadius\\\":20,\\\"buttonSize\\\":56,\\\"fontFamily\\\":\\\"HelveticaNeueThin\\\",\\\"text\\\":\\\"\\\",\\\"btnBgColor\\\":\\\"#FF7020\\\",\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"selected\\\":false,\\\"position\\\":{\\\"x\\\":2,\\\"y\\\":2},\\\"type\\\":\\\"sticky\\\",\\\"embedMethod\\\":\\\"embed\\\",\\\"positionId\\\":\\\"\\\",\\\"code\\\":\\\"\\\",\\\"selectorType\\\":\\\"id\\\",\\\"sel",
+    "time": "2026-09-02T09:56:47.155789"
+  },
+  {
+    "url": "https://us01cciapi.zoom.us/v1/livesdk/info?apikey=JfpAW4M4QeOlk4JVuajQfg&sdkVersion=9875&zrZak=&isKiosk=false&instanceId=HtIMGewIj01vxaZOgos2a",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 377,
+    "snippet": "{\"status\":true,\"result\":{\"sdkVersion\":\"9875\",\"liveChatSdkNacosConfig\":{},\"gateway\":{\"cciWebPath\":\"https://us01cci.zoom.us\",\"cciApiPath\":\"https://us01cciapi.zoom.us\",\"zvaApiPath\":\"https://us01apizva.zoom.us\",\"cciClusterId\":\"us01\",\"enableUseGateway\":true},\"liveSdkFeature\":{\"enableSPAEvents\":true,\"enableV3ChatSDK\":false,\"disableFileUploadByDefault\":false,\"enableShadow\":false}}}",
+    "time": "2026-09-02T09:56:47.190028"
+  },
+  {
+    "url": "https://sr-client-cfg.amplitude.com/config/ef9f1f5d78d898503e815a9c4b2e450c?config_group=browser",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 99,
+    "snippet": "",
+    "time": "2026-09-02T09:56:47.486875"
+  },
+  {
+    "url": "https://us01apizva.zoom.us/v1/websdk/version?apikey=JfpAW4M4QeOlk4JVuajQfg&instanceId=HtIMGewIj01vxaZOgos2a",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 94,
+    "snippet": "",
+    "time": "2026-09-02T09:56:47.540302"
+  },
+  {
+    "url": "https://us01ccistatic.zoom.us/us01cci/web-sdk/assets/locale/chat/pt-BR.json?v=9875",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 23656,
+    "snippet": "{\n  \"channelMenu.chat\": \"Chat\",\n  \"channelMenu.video\": \"Reunir-se\",\n  \"channelMenu.call\": \"chamada\",\n  \"channelMenu.sms\": \"SMS\",\n  \"chat.engagement.textInput.writeAMessage\": \"Escrever uma mensagem\",\n  \"chat.engagement.botTitle\": \"Bot\",\n  \"chat.header.unmuteChat\": \"Ativar áudio\",\n  \"chat.header.muteChat\": \"Silenciar áudio\",\n  \"chat.header.downloadTranscript\": \"Baixar transcrição\",\n  \"chat.header.emailTranscript\": \"Enviar transcrição por e-mail\",\n  \"chat.header.endChat\": \"Encerrar chat\",\n  \"chat.history.title\": \"Histórico de bate-papo\",\n  \"chat.history.back\": \"Voltar\",\n  \"chat.history.return\": \"Voltar ao bate-papo\",\n  \"chat.history.empty\": \"Ainda não há histórico de conversas.\",\n  \"chat.history.loading\": \"Carregando histórico de conversas...\",\n  \"chat.history.loadingMore\": \"Carregando mais..",
+    "time": "2026-09-02T09:56:47.757463"
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/IjtPa/WE1SkIZ",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:56:48.109114"
+  },
+  {
+    "url": "https://us01ccistatic.zoom.us/us01cci/web-sdk/assets/locale/chat/pt-BR.json?v=9875",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 23656,
+    "snippet": "{\n  \"channelMenu.chat\": \"Chat\",\n  \"channelMenu.video\": \"Reunir-se\",\n  \"channelMenu.call\": \"chamada\",\n  \"channelMenu.sms\": \"SMS\",\n  \"chat.engagement.textInput.writeAMessage\": \"Escrever uma mensagem\",\n  \"chat.engagement.botTitle\": \"Bot\",\n  \"chat.header.unmuteChat\": \"Ativar áudio\",\n  \"chat.header.muteChat\": \"Silenciar áudio\",\n  \"chat.header.downloadTranscript\": \"Baixar transcrição\",\n  \"chat.header.emailTranscript\": \"Enviar transcrição por e-mail\",\n  \"chat.header.endChat\": \"Encerrar chat\",\n  \"chat.history.title\": \"Histórico de bate-papo\",\n  \"chat.history.back\": \"Voltar\",\n  \"chat.history.return\": \"Voltar ao bate-papo\",\n  \"chat.history.empty\": \"Ainda não há histórico de conversas.\",\n  \"chat.history.loading\": \"Carregando histórico de conversas...\",\n  \"chat.history.loadingMore\": \"Carregando mais..",
+    "time": "2026-09-02T09:56:48.944019"
+  },
+  {
+    "url": "https://file-paa.zoom.us/HEMD2EtJQ2O8DK1Rq7C1cg/MS4zLjJlsslVbFE6YXKmCNo3zSA0lxHAdq3VgZKVT4OocnZE/ZkqDnwRqSdiVdV7DxyL7Nw.json?response-cache-control=max-age%3D60&v=1778517430",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 91,
+    "snippet": "",
+    "time": "2026-09-02T09:56:49.010757"
+  },
+  {
+    "url": "blob:https://www.smiles.com.br/609e11a4-a6c6-40f4-9277-9407532d4844",
+    "status": 200,
+    "content_type": "application/javascript",
+    "bytes": 1357,
+    "snippet": "",
+    "time": "2026-09-02T09:56:49.028665"
+  },
+  {
+    "url": "https://api2.amplitude.com/2/httpapi",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 93,
+    "snippet": "",
+    "time": "2026-09-02T09:56:51.107057"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=1&ClientTime=1788353810845&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=0&LastActivity=2780&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:56:51.258982"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=2&ClientTime=1788353812071&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353811360&LastActivity=3991&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:56:52.357997"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=3&ClientTime=1788353817200&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353812533&LastActivity=8990&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:56:58.049881"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=4&ClientTime=1788353822190&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353817713&LastActivity=13985&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:03.006508"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=5&ClientTime=1788353828777&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353822663&LastActivity=20605&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:09.003542"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=6&ClientTime=1788353832068&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353829230&LastActivity=24001&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:13.181251"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=7&ClientTime=1788353837273&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353832519&LastActivity=7&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:17.472865"
+  },
+  {
+    "url": "https://static.smiler.com.br/bs-theme/assets/logos/smiles/lg-smiles-symbol-orange.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "bytes": 688,
+    "snippet": "",
+    "time": "2026-09-02T09:57:18.452279"
+  },
+  {
+    "url": "https://file-paa.zoom.us/HEMD2EtJQ2O8DK1Rq7C1cg/MS4zLjJlsslVbFE6YXKmCNo3zSA0lxHAdq3VgZKVT4OocnZE/ZkqDnwRqSdiVdV7DxyL7Nw.json?response-cache-control=max-age%3D60&v=1778517430",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 91,
+    "snippet": "",
+    "time": "2026-09-02T09:57:18.780418"
+  },
+  {
+    "url": "https://airports-blue.smiles.com.br/v1/airports?q=(description:*GRU*)&size=50",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 412,
+    "snippet": "[{\"country\":\"Brasil\",\"altitude\":\"2459\",\"code\":\"GRU\",\"city\":\"São Paulo\",\"congenere\":\"true\",\"timezone\":\"America/Sao_Paulo\",\"latitude\":\"-23.43\",\"active\":\"true\",\"description\":\"Sao Paulo, Brasil, Guarulhos (GRU) [Sao Paulo] \",\"g3\":\"true\",\"mac\":\"SAO\",\"iata\":\"Brasil\",\"zone\":\"América do Sul\",\"name\":\"Guarulhos\",\"location\":{\"lon\":\"-46.47\",\"lat\":\"-23.43\"},\"state\":\"São Paulo\",\"international\":\"true\",\"longitude\":\"-46.47\"}]",
+    "time": "2026-09-02T09:57:19.565532"
+  },
+  {
+    "url": "https://www.smiles.com.br/jd35BMeQ/IKyxyj0/ECRf6Cm/nm/XciQVmDiD7/EzFnQxRXaw/IjtPa/WE1SkIZ",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 0,
+    "snippet": "",
+    "time": "2026-09-02T09:57:20.337394"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=8&ClientTime=1788353842663&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353837720&LastActivity=2265&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:22.856100"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=9&ClientTime=1788353847035&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353843109&LastActivity=1325&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:27.257864"
+  },
+  {
+    "url": "https://airports-blue.smiles.com.br/v1/airports?q=(description:*BKK*)&size=50",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 410,
+    "snippet": "[{\"country\":\"Tailândia\",\"altitude\":\"5\",\"code\":\"BKK\",\"city\":\"Bangkok\",\"congenere\":\"true\",\"timezone\":\"Asia/Bangkok\",\"latitude\":\"13.681108\",\"active\":\"true\",\"description\":\"Bangkok, Tailandia, Bangkok Suvarnabhumi (BKK) [Bangkok] \",\"g3\":\"false\",\"iata\":\"Ásia\",\"zone\":\"Ásia\",\"name\":\"Bangkok Suvarnabhumi\",\"location\":{\"lon\":\"100.747283\",\"lat\":\"13.681108\"},\"state\":null,\"international\":\"true\",\"longitude\":\"100.747283\"}]",
+    "time": "2026-09-02T09:57:27.437967"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=10&ClientTime=1788353852030&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353847486&LastActivity=1248&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:32.310071"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=11&ClientTime=1788353857063&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353852471&LastActivity=140&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:37.293744"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=12&ClientTime=1788353862037&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353857514&LastActivity=999&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:43.115013"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=13&ClientTime=1788353867034&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353862479&LastActivity=3320&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:47.253380"
+  },
+  {
+    "url": "https://file-paa.zoom.us/HEMD2EtJQ2O8DK1Rq7C1cg/MS4zLjJlsslVbFE6YXKmCNo3zSA0lxHAdq3VgZKVT4OocnZE/ZkqDnwRqSdiVdV7DxyL7Nw.json?response-cache-control=max-age%3D60&v=1778517430",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 91,
+    "snippet": "",
+    "time": "2026-09-02T09:57:48.794549"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=14&ClientTime=1788353872036&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353867482&LastActivity=8320&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:52.260511"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=15&ClientTime=1788353877036&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353872484&LastActivity=13322&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:57:57.270387"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=16&ClientTime=1788353887022&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353877491&LastActivity=23313&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:58:07.234282"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=17&ClientTime=1788353892024&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353887467&LastActivity=28315&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:58:12.228125"
+  },
+  {
+    "url": "https://file-paa.zoom.us/HEMD2EtJQ2O8DK1Rq7C1cg/MS4zLjJlsslVbFE6YXKmCNo3zSA0lxHAdq3VgZKVT4OocnZE/ZkqDnwRqSdiVdV7DxyL7Nw.json?response-cache-control=max-age%3D60&v=1778517430",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 91,
+    "snippet": "",
+    "time": "2026-09-02T09:58:18.770602"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=18&ClientTime=1788353902025&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353892480&LastActivity=38312&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:58:22.249210"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=19&ClientTime=1788353907025&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353902472&LastActivity=43313&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:58:27.225219"
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=e80d6009-970f-41fc-817f-0eee08b6d3de&SessionId=a285e33a-1605-4c2c-9d74-c6317d31284e&PageId=9730ab75-18af-4d38-a6dd-037e8f2ae835&Seq=20&ClientTime=1788353917146&CompiledVersion=0e1579cd20b53c026d6d9155efffa82de5471b88&PageStart=1788353806604&PrevBundleTime=1788353907471&LastActivity=1600&IsNewSession=true&ContentEncoding=gzip",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 29,
+    "snippet": "",
+    "time": "2026-09-02T09:58:37.352880"
+  }
+]
