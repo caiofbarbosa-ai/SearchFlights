@@ -12,7 +12,7 @@ import urllib.request
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-API_KEY = "aJqPU7xNHl9qN3NVZnPaJ208aPo2Bh2p2ZV844tw"
+API_KEY = "SMILES_X_API_KEY_REDACTED"
 BASE = "https://api-air-flightsearch-blue.smiles.com.br"
 
 PARAMS = {

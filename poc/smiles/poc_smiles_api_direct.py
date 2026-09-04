@@ -17,8 +17,8 @@ import urllib.request
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-CLIENT_ID = "2gpRUWTOBFgi2uypotR3gBUhCtVuYs2G"
-CLIENT_SECRET = "U2_qer1iuZBhdIS7IlUXlvkdesl98Yjv38OmW5eu__XlXz-3aWLhAFPVNcig3V3e"
+CLIENT_ID = "AUTH0_CLIENT_ID_REDACTED"
+CLIENT_SECRET = "AUTH0_CLIENT_SECRET_REDACTED"
 AUDIENCE = "https://smiles.api"
 
 TOKEN_URL = "https://apigw-blue.smiles.com.br/b2b/partner/oauth/token/"

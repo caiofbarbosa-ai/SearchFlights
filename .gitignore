@@ -1,0 +1,24 @@
+# ===== SEGREDOS (nunca commitar) =====
+.env
+
+# ===== Runtime =====
+logs/
+profiles/
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Payloads de debug da POC (grandes/conteúdo dinâmico) =====
+poc/reports/captura_rede/
+poc/reports/*payload*.json
+
+# ===== SO / IDE =====
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ===== Ambientes virtuais =====
+venv/
+.venv/
