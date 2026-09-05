@@ -30,6 +30,17 @@ def create_execution(execution_date: date) -> str:
     return data.data[0]["id"]
 
 
+def open_execution(execution_date: date) -> str:
+    """Uma linha por dia: varreduras parciais (--only rss) fazem merge na
+    execução existente do dia em vez de criar linha duplicada."""
+    client = get_client()
+    data = client.table("daily_executions").select("id").eq(
+        "execution_date", execution_date.isoformat()).limit(1).execute()
+    if data.data:
+        return data.data[0]["id"]
+    return create_execution(execution_date)
+
+
 def finish_execution(execution_id: str, statuses: dict, overall: str,
                      error_details: dict | None = None) -> None:
     payload = {

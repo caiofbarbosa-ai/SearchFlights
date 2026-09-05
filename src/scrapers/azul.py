@@ -12,6 +12,17 @@ from src.config import settings
 from src.models import FlightQuote, Status
 from src.scrapers.chrome_cdp import RealChrome
 
+
+async def _dismiss_overlays_local(page):
+    for text in ("Aceitar todos", "Aceitar", "Accept All", "OK", "Entendi"):
+        try:
+            btn = page.locator(f"button:has-text('{text}')").first
+            if await btn.is_visible(timeout=500):
+                await btn.click()
+                await asyncio.sleep(0.4)
+        except Exception:
+            continue
+
 PORTAL = "https://azulpelomundo.voeazul.com.br/"
 POINTS_RE = re.compile(r"(\d{1,3}(?:\.\d{3})+)\s*pontos", re.IGNORECASE)
 COMBO_RE = re.compile(
@@ -85,28 +96,37 @@ async def _search_origin(page, origin: str) -> FlightQuote:
         return_date=settings.return_date, passengers=settings.adults,
         status=Status.UNKNOWN_ERROR)
 
-    await page.goto(PORTAL, timeout=60_000)
+    for attempt in range(2):  # goto 90s + 1 retry (SPA lenta/rede)
+        try:
+            await page.goto(PORTAL, timeout=90_000)
+            break
+        except Exception:
+            if attempt == 0:
+                await asyncio.sleep(10)
+                continue
+            quote.status = Status.TIMEOUT
+            return quote
     try:
         await page.wait_for_load_state("networkidle", timeout=20_000)
     except Exception:
         pass
     await asyncio.sleep(4)
 
-    # widget é SPA lazy: poll + 1 reload
+    # widget é SPA lazy: espera de verdade (wait_for; is_visible não espera)
     for attempt in range(2):
-        for _ in range(15):
-            if await page.locator("#autocompleteFlightOrigin").first \
-                    .is_visible():
-                break
-            await asyncio.sleep(2)
-        else:
+        try:
+            await page.locator("#autocompleteFlightOrigin").first \
+                .wait_for(state="visible", timeout=40_000)
+            break
+        except Exception:
             if attempt == 0:
+                print(f"    [WARN] widget não veio; reload...")
                 await page.reload(timeout=60_000)
                 await asyncio.sleep(4)
+                await _dismiss_overlays_local(page)
                 continue
             quote.status = Status.PARSER_ERROR
             return quote
-        break
 
     for text in ("Aceitar todos", "Aceitar", "Accept All", "OK"):
         try:

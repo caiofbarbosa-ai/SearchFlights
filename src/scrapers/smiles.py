@@ -6,10 +6,13 @@ Chrome real + CDP (Akamai nega Playwright embutido); URL direta
 import asyncio
 import re
 from datetime import date, datetime, timedelta, timezone
+from pathlib import Path
 
 from src.config import settings
 from src.models import FlightQuote, Status
 from src.scrapers.chrome_cdp import RealChrome
+
+REPORTS = Path(__file__).resolve().parents[2] / "poc" / "reports"
 
 MILES_RE = re.compile(r"(\d{1,3}(?:\.\d{3})+)\s*milhas por passageiro")
 CARD_JS = """() => {
@@ -63,8 +66,8 @@ async def _search_origin(page, origin: str) -> FlightQuote:
         status=Status.UNKNOWN_ERROR)
 
     await page.goto(build_url(origin), timeout=90_000)
-    for text in ("Rejeitar Tudo", "Aceitar todos Cookies", "Outro dia",
-                 "Reject All", "Accept All Cookies"):
+    for text in ("Rejeitar todos", "Rejeitar Tudo", "Aceitar todos Cookies",
+                 "Outro dia", "Reject All", "Accept All Cookies"):
         try:
             btn = page.locator(f"button:has-text('{text}')").first
             if await btn.is_visible(timeout=800):
@@ -72,6 +75,38 @@ async def _search_origin(page, origin: str) -> FlightQuote:
                 await asyncio.sleep(0.5)
         except Exception:
             continue
+
+    # SPA: aguarda um estado CONHECIDO (shell/spinner/resultados); reload 1x
+    known = False
+    known_markers = ("alterar busca", "escolha sua passagem", "aguarde",
+                     "milhas por passageiro", "nenhum voo", "não há voos")
+    for attempt in range(2):
+        for _ in range(15):  # 45s
+            body = await page.evaluate(
+                "() => document.body ? document.body.innerText : ''")
+            low = body.lower()
+            if any(m in low for m in known_markers):
+                known = True
+                break
+            await asyncio.sleep(3)
+        if known:
+            break
+        if attempt == 0:
+            if not body.strip():
+                print(f"    [WARN] {origin}: página vazia, goto completo...")
+                await page.goto(build_url(origin), timeout=90_000)
+            else:
+                print(f"    [WARN] {origin}: estado desconhecido, reload...")
+                await page.reload(timeout=90_000)
+            await asyncio.sleep(4)
+            for text in ("Rejeitar Tudo", "Aceitar todos Cookies"):
+                try:
+                    btn = page.locator(f"button:has-text('{text}')").first
+                    if await btn.is_visible(timeout=600):
+                        await btn.click()
+                        await asyncio.sleep(0.4)
+                except Exception:
+                    continue
 
     body = ""
     resolved = False
@@ -124,6 +159,14 @@ async def _search_origin(page, origin: str) -> FlightQuote:
         quote.status = Status.BLOCKED
     else:
         quote.status = Status.PARSER_ERROR
+        # evidência para diagnosticar estados desconhecidos
+        try:
+            await page.screenshot(
+                path=str(REPORTS / f"smiles_erro_{origin}.png"), full_page=True)
+            quote.raw_sample = {"body_head": body[:400],
+                                "estado_renderizado": known}
+        except Exception:
+            pass
     return quote
 
 

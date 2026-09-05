@@ -274,6 +274,14 @@ Source → Scraper → Normalized Data → Business Logic → Persistence → No
 
 **Future:** Variante B (runner self-hosted do GitHub para histórico/log na UI) é migração de gatilho apenas — zero mudança de código.
 
+### 13. Sequential Source Execution (2026-09-05)
+
+**Decision:** As fontes executam SEQUENCIALMENTE (um browser por vez), substituindo o paralelismo com threads da Decisão/original 10.3. Isolamento de erro por fonte mantido.
+
+**Rationale (evidência 04-05/09):** Azul falhava por timeout EXCLUSIVAMENTE em execuções paralelas (3 Chrome pesados simultâneos) e funcionava isolado — mesma versão de código. Smiles herda o mesmo risco de contenção. Ciclo total sequencial ~15-30 min, dentro do limite de 60 min da tarefa.
+
+**Trade-off:** ciclo mais longo que o paralelo (~10 min). Aceito: confiabilidade > velocidade para monitoramento diário.
+
 ### Trade-off: Single route configuration
 **Impact:** Low - Not generalizable to other routes
 **Reasoning:** Reduces MVP complexity; can parameterize if MVP succeeds

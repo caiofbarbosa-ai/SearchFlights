@@ -188,7 +188,7 @@
 
 - [x] 10.1 Create main.py orchestration module
 - [x] 10.2 Implement daily_execution record creation
-- [x] 10.3 Implement parallel source execution with error isolation
+- [x] 10.3 Implement parallel source execution with error isolation — REVISADO 2026-09-05 (Decisão 13): execução SEQUENCIAL — paralelismo causava timeouts do Azul por contenção (evidência 04-05/09); isolamento por fonte mantido
 - [x] 10.4 Add individual source status tracking
 - [x] 10.5 Implement results aggregation
 - [x] 10.6 Add database persistence of all results
@@ -210,7 +210,7 @@
 - [x] 12.2 Test RSS feed parsing and keyword filtering — 03/09: 4 feeds reais configurados (melhoresdestinos, melhorescartoes, passageirodeprimeira, pontospravoar; Smiles não tem RSS público); 70 entradas lidas, filtro case-insensitive validado ("milhas" casa dezenas; 0 matérias C6 no momento — captura automática quando publicarem)
 - [x] 12.3 Test database operations (insert, deduplication) — com o projeto Supabase real: insert execution/quote + dedup ON CONFLICT (1ª=1 nova, 2ª=0 novas)
 - [x] 12.4 Test Google Flights scraper with all three origins — 03/09: COM patchright, GRU persistiu R$ 13.678 (= 13.677 do usuário, ±1 arredondamento); descoberta crítica: Google degrada tarifas p/ sessões Playwright (adendo no findings). CGH/VCP SUCCESS (16.432/16.432)
-- [ ] 12.5 Test Smiles scraper (miles-only and hybrid) — PARCIAL (03/09): Smiles DESBLOQUEADO após ~14h de silêncio (GRU NO_AVAILABILITY = estado real); CGH/VCP degradados com spacing de 60s → spacing aumentado p/ 10 min; validação final no ciclo agendado
+- [ ] 12.5 Test Smiles scraper (miles-only and hybrid) — PARCIAL (04/09): flag Akamai persiste >24h e é RENOVADO a cada tentativa (4 buscas hoje = GRU BLOCKED/blank, VCP PARSER_ERROR com evidência capturada). Correções do dia: wording do banner ('Rejeitar todos'), goto completo em página vazia, screenshot+body_head de evidência, merge de execuções parciais. Validação: PRIMEIRO dia sem tocar no Smiles (ciclo agendado D+1 ou D+2)
 - [x] 12.6 Test Azul scraper (points-only and hybrid) — via python -m src.main --only azul (datas de controle): GRU 239.000 pts, CGH NO_AVAILABILITY (legítimo), VCP 286.000 pts — persistido no Supabase; híbrido sob 120k = None na rota (valores típicos >120k, regra testada)
 - [ ] 12.7 Test error states (blocked, timeout, parse error)
 - [x] 12.8 Test "no availability" vs "error" distinction — Azul CGH NO_AVAILABILITY vs erros reais; Google CALENDAR_NOT_OPEN (POC); ambos persistidos como estados distintos

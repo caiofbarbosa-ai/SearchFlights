@@ -13,7 +13,6 @@ import argparse
 import asyncio
 import logging
 import sys
-from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime
 from pathlib import Path
 
@@ -69,23 +68,21 @@ def _run_source(source: str) -> ExecutionResult:
 
 
 def _worst(results: list[ExecutionResult]) -> str:
-    """Status por fonte para daily_executions (o pior status entre as origens)."""
+    """Status por fonte — APENAS as fontes executadas nesta corrida
+    (execuções parciais não fabricam status das fontes ausentes)."""
     out = {}
-    for source in ("google", "smiles", "azul"):
-        r = next((r for r in results if r.source == source), None)
-        if r is None:
-            out[f"{source}_status"] = Status.UNKNOWN_ERROR
+    for r in results:
+        if r.source == "rss":
+            out["rss_status"] = r.status
             continue
         if r.error or not r.quotes:
-            out[f"{source}_status"] = r.status if not r.quotes \
-                else min((q.status for q in r.quotes),
-                         key=lambda s: s != Status.SUCCESS)
+            out[f"{r.source}_status"] = r.status if not r.quotes \
+                else next((q.status for q in r.quotes
+                           if q.status != Status.SUCCESS), Status.SUCCESS)
         else:
             # pior status das origens (NO_AVAILABILITY/CALENDAR_NOT_OPEN são ok)
             bad = [q.status for q in r.quotes if q.status not in OK_STATUSES]
-            out[f"{source}_status"] = bad[0] if bad else Status.SUCCESS
-    rss = next((r for r in results if r.source == "rss"), None)
-    out["rss_status"] = rss.status if rss else Status.UNKNOWN_ERROR
+            out[f"{r.source}_status"] = bad[0] if bad else Status.SUCCESS
     return out
 
 
@@ -108,15 +105,19 @@ def main() -> int:
 
     execution_id = None
     try:
-        execution_id = repository.create_execution(execution_date)
-        log.info("execução registrada: %s", execution_id)
+        execution_id = repository.open_execution(execution_date)
+        log.info("execução do dia: %s", execution_id)
     except Exception as exc:
         log.error("Supabase indisponível (%s) — seguindo sem persistência", exc)
 
-    # 10.3: paralelo com isolamento — cada fonte em sua própria thread
-    with ThreadPoolExecutor(max_workers=len(sources)) as pool:
-        futures = {s: pool.submit(_run_source, s) for s in sources}
-        results = [f.result() for f in futures.values()]
+    # 10.3 (revisado 2026-09-05): execução SEQUENCIAL com isolamento por fonte.
+    # Paralelismo causava contenção (3 Chrome pesados simultâneos no notebook):
+    # Azul falhava por timeout EXCLUSIVAMENTE em runs paralelas e funcionava
+    # isolado (evidência 04-05/09). Isolamento de erro mantido por fonte.
+    results: list[ExecutionResult] = []
+    for source in sources:
+        log.info(">>> fonte: %s", source)
+        results.append(_run_source(source))
 
     quotes = [q for r in results for q in r.quotes]
     promotions = [p for r in results for p in r.promotions]
