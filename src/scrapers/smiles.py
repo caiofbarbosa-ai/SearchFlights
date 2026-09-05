@@ -4,6 +4,7 @@ Chrome real + CDP (Akamai nega Playwright embutido); URL direta
 "milhas por passageiro"; rate-limit: 1 busca/origem/dia."""
 
 import asyncio
+import json
 import re
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -18,25 +19,30 @@ MILES_RE = re.compile(r"(\d{1,3}(?:\.\d{3})+)\s*milhas", re.IGNORECASE)
 # ATENÇÃO: o texto renderizado é "milhas por VIAGANTE" (não "por passageiro")
 # — exigir o literal antigo fazia a extração nunca casar (bug 04/09)
 
-# cartões de voo: contêm "milhas" + botão "Mais detalhes" (isola o cartão
-# da faixa de datas e do cabeçalho)
+# cartões de voo: ancorados no botão "Mais detalhes" de cada card, subindo
+# até o ancestral que contém a rota (GRU) — isola a faixa de datas
 CARDS_JS = """() => {
-    const els = [...document.querySelectorAll('li, div')].filter(e =>
-        e.offsetParent && e.innerText && e.innerText.includes('milhas')
-        && e.innerText.includes('Mais detalhes'));
-    return els.sort((a, b) => a.innerText.length - b.innerText.length)
-        .slice(0, 40).map(e => e.innerText);
-}"""
-CARD_JS = """() => {
-    const els = [...document.querySelectorAll('*')].filter(e =>
-        e.children.length === 0 &&
-        /milhas por passageiro/.test(e.innerText || ''));
-    const cards = els.map(el => {
-        let c = el;
-        for (let i = 0; i < 4 && c.parentElement; i++) c = c.parentElement;
-        return (c.innerText || '').replace(/\\s*\\n+\\s*/g, ' | ').slice(0, 300);
-    });
-    return [...new Set(cards)];
+    const btns = [...document.querySelectorAll('button')]
+        .filter(b => b.offsetParent &&
+            (b.innerText || '').trim() === 'Mais detalhes');
+    const texts = [];
+    const seen = [];
+    for (const b of btns) {
+        let el = b;
+        for (let i = 0; i < 8 && el; i++) {
+            el = el.parentElement;
+            if (!el) break;
+            const t = el.innerText || '';
+            if (t.includes('milhas') && t.includes('GRU')) {
+                if (!seen.some(s => t.includes(s))) {
+                    seen.push(t);
+                    texts.push(t);
+                }
+                break;
+            }
+        }
+    }
+    return texts;
 }"""
 NO_RESULTS_MARKERS = ["não encontramos", "nao encontramos", "nenhum voo",
                       "não há voos", "nao ha voos", "infelizmente", "esgot"]
@@ -68,6 +74,224 @@ def build_url(origin: str) -> str:
 
 def _wait_timeout_s() -> int:
     return 180  # resultados demoram ~45-60s; margem p/ 2 adultos
+
+
+async def _capture_money_combo(page):
+    """Fluxo APARTADO do combo Smiles & Money (enriquecimento isolado).
+
+    GARANTIA de não impacto (Decisão 5 da change add-smiles-money-combo):
+    - NUNCA propaga exceção: toda etapa tem timeout próprio e retorna None
+      em falha, com log + evidência
+    - NÃO clica em "Confirmar" (apenas lê os valores do quadro)
+    - Alvo: maior combinação de milhas abaixo do limite configurado
+
+    Retorna (milhas, reais) ou None.
+    """
+    limit = settings.smiles_combo_max_miles
+
+    def log(m):
+        print(f"    [combo] {m}", flush=True)
+
+    async def safe_evaluate(js, arg=None):
+        try:
+            return await page.evaluate(js, arg) if arg is not None \
+                else await page.evaluate(js)
+        except Exception:
+            return None
+
+    try:
+        # 1. cards dedupados → o de MENOR milhas → "Selecionar tarifa" nele
+        clicked = await safe_evaluate("""() => {
+            const els = [...document.querySelectorAll('li, div')].filter(e =>
+                e.offsetParent && e.innerText &&
+                e.innerText.includes('milhas') &&
+                e.innerText.includes('Mais detalhes'));
+            els.sort((a, b) => a.innerText.length - b.innerText.length);
+            const cards = [];
+            for (const e of els) {
+                if (!cards.some(c => e.innerText.includes(c.innerText)))
+                    cards.push(e);
+            }
+            let best = null, bestMiles = Infinity;
+            for (const card of cards) {
+                const ms = [...card.innerText.matchAll(
+                    /(\d{1,3}(?:\.\d{3})+)\s*milhas/g)]
+                    .map(m => parseInt(m[1].replace(/\./g, '')))
+                    .filter(v => v >= 1000);
+                if (ms.length && Math.min(...ms) < bestMiles) {
+                    bestMiles = Math.min(...ms);
+                    best = card;
+                }
+            }
+            if (!best) return null;
+            const btn = [...best.querySelectorAll('button, [role=button]')]
+                .find(b => (b.innerText || '').trim()
+                    === 'Selecionar tarifa');
+            if (!btn) return null;
+            btn.click();
+            return bestMiles;
+        }""")
+        if not clicked:
+            log("card do piso não localizado — combo indisponível")
+            return None
+        floor_miles = clicked
+
+        # 2. aguarda o quadro "Pague com Smiles & Money" (15s)
+        opened = False
+        for _ in range(15):
+            await asyncio.sleep(1)
+            body = await safe_evaluate(
+                "() => document.body ? document.body.innerText : ''") or ""
+            if "Pague com Smiles & Money" in body or "Use milhas" in body:
+                opened = True
+                break
+        if not opened:
+            log("quadro de tarifas não abriu — combo indisponível")
+            return None
+
+        # 3. "Combinar" da caixa de CLIENTES (inferior direita; NÃO a de Clube)
+        clicked_combinar = False
+        for tent in range(15):  # retry 30s: o painel carrega o conteúdo async
+            for frame in page.frames:
+                try:
+                    clicked_combinar = await frame.evaluate("""() => {
+                        const vis = e => {
+                            const r = e.getBoundingClientRect();
+                            return r.width > 0 && r.height > 0;
+                        };
+                        const boxes = [...document.querySelectorAll(
+                            'div, section')]
+                            .filter(e => vis(e) && (e.innerText || '')
+                                .includes('Combinações para clientes Smiles'))
+                            .sort((a, b) => (a.innerText || '').length -
+                                             (b.innerText || '').length);
+                        const box = boxes[0];
+                        if (!box) return false;
+                        const btn = [...box.querySelectorAll('button')]
+                            .find(b => (b.innerText || '').trim()
+                                .toLowerCase() === 'combinar');
+                        if (btn) { btn.click(); return true; }
+                        return false;
+                    }""")
+                    if clicked_combinar:
+                        log(f"Combinar clicado (frame, tentativa {tent+1})")
+                        break
+                except Exception:
+                    continue
+            if clicked_combinar:
+                break
+            await asyncio.sleep(2)
+        if not clicked_combinar:
+            # diagnóstico: o que existe com "Combina"/"Smiles &" em cada frame
+            diag = []
+            for frame in page.frames:
+                try:
+                    t = await frame.evaluate("""() => {
+                        const vis = e => {
+                            const r = e.getBoundingClientRect();
+                            return r.width > 0 && r.height > 0;
+                        };
+                        return [...document.querySelectorAll('div')]
+                            .filter(e => vis(e) && ((e.innerText || '')
+                                .includes('Combina') ||
+                                (e.innerText || '').includes('Smiles &')))
+                            .map(e => (e.innerText || '')
+                                .slice(0, 80).replace(/\\n/g, ' | '));
+                    }""")
+                    if t:
+                        diag.append({"frame": frame.url[:100], "itens": t[:10]})
+                except Exception:
+                    continue
+            log(f"combo: caixa 'clientes Smiles' não encontrada. "
+                f"diag: {json.dumps(diag, ensure_ascii=False)[:600]}")
+            return None
+        if not clicked_combinar:
+            log("combo: caixa 'clientes Smiles' não encontrada")
+            return None
+
+        # 4. aguarda o quadro do slider (milhas + R$ juntos)
+        async def read_box():
+            return await safe_evaluate("""() => {
+                const s = [...document.querySelectorAll('[role=slider]')]
+                    .filter(e => e.offsetParent);
+                if (!s.length) return '';
+                let el = s[0];
+                for (let i = 0; i < 6 && el.parentElement; i++) {
+                    el = el.parentElement;
+                    const t = el.innerText || '';
+                    if (t.includes('milhas') && t.includes('R$')) return t;
+                }
+                return '';
+            }""") or ""
+
+        async def miles_of(text):
+            vals = [int(m.replace(".", "")) for m in
+                    re.findall(r"(\d{1,3}(?:\.\d{3})+)\s*milhas", text,
+                               re.IGNORECASE)
+                    if int(m.replace(".", "")) >= 1000]
+            return min(vals) if vals else None
+
+        async def reais_of(text):
+            m = re.search(r"\+\s*R\$\s?([\d.,]+)", text)
+            if not m:
+                return None
+            return float(m.group(1).replace(".", "").replace(",", "."))
+
+        box = await read_box()
+        cur = await miles_of(box) if box else None
+        log(f"slider inicial: {cur} milhas")
+
+        # 5. desce (ArrowLeft) até ficar ABAIXO do limite — o 1º valor abaixo
+        #    do limite é automaticamente o MAIOR valor válido
+        guard = 0
+        while cur is not None and cur >= limit and guard < 60:
+            await page.keyboard.press("ArrowLeft")
+            await asyncio.sleep(0.5)
+            box = await read_box()
+            cur = await miles_of(box) if box else None
+            guard += 1
+        if cur is None or cur >= limit:
+            log("combo: nenhum valor abaixo do limite no slider")
+            return None
+
+        # 6. maximiza: sobe (ArrowRight) enquanto permanecer < limite;
+        #    se estourar, volta um passo
+        while guard < 80:
+            await page.keyboard.press("ArrowRight")
+            await asyncio.sleep(0.5)
+            box = await read_box()
+            new = await miles_of(box) if box else None
+            if new is None or new >= limit:
+                await page.keyboard.press("ArrowLeft")
+                await asyncio.sleep(0.5)
+                box = await read_box()
+                cur = await miles_of(box) if box else cur
+                break
+            cur = new
+            guard += 1
+
+        box = await read_box()
+        reais = await reais_of(box) if box else None
+        if reais is None:
+            m = re.search(r"\+\s*R\$\s?([\d.,]+)", box or "")
+            reais = float(m.group(1).replace(".", "").replace(",", ".")) \
+                if m else None
+
+        # 7. fecha SEM confirmar (apenas leitura de valores)
+        await page.keyboard.press("Escape")
+        await asyncio.sleep(0.5)
+
+        log(f"combo capturado: {cur:,} milhas + R$ {reais}".replace(",", ".")
+            if reais else f"combo capturado: {cur:,} milhas")
+        return (cur, reais)
+    except Exception as exc:
+        log(f"combo falhou (exceção contida): {str(exc)[:150]}")
+        try:
+            await page.screenshot(
+                path=str(REPORTS / f"smiles_combo_erro.png"), full_page=True)
+        except Exception:
+            pass
+        return None
 
 
 async def _search_origin(page, origin: str) -> FlightQuote:
@@ -189,6 +413,20 @@ async def _search_origin(page, origin: str) -> FlightQuote:
             quote.hybrid_miles = max(hybrids)
         quote.raw_sample = {"distinct_miles": miles[:10],
                             "card": best[2][:300]}
+
+        # combo Smiles & Money: função APARTADA (enriquecimento isolado —
+        # falha aqui NUNCA invalida o só-milhas; Decisão 5 da change)
+        if settings.smiles_combo_enabled:
+            try:
+                combo = await _capture_money_combo(page)
+                if combo:
+                    quote.hybrid_miles = combo[0]
+                    quote.cash_component_brl = combo[1]
+                    quote.raw_sample["combo"] = {"miles": combo[0],
+                                                 "brl": combo[1]}
+            except Exception as exc:
+                print(f"    [WARN] {origin}: combo falhou (ignorado): "
+                      f"{str(exc)[:120]}")
     elif not resolved and "aguarde" in lower:
         quote.status = (Status.CALENDAR_NOT_OPEN
                         if settings.departure_date
@@ -222,7 +460,7 @@ def looks_like_results_shell(lower: str) -> bool:
 async def scrape() -> list[FlightQuote]:
     """Origens sequenciais com spacing (rate-limit Akamai: 1 busca/origem/dia)."""
     quotes: list[FlightQuote] = []
-    async with RealChrome(port=9301) as chrome:
+    async with RealChrome(port=9301, driver="patchright") as chrome:
         page = await chrome.page()
         for i, origin in enumerate(settings.origins):
             if i:

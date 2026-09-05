@@ -49,6 +49,13 @@ class Settings:
     # posts cobre só ~1-2 dias em blogs que publicam muito
     rss_backfill_pages: int = int(os.getenv("RSS_BACKFILL_PAGES", "12"))
 
+    # Smiles & Money: combo milhas + dinheiro capturado no card do voo mais
+    # barato (maior milhas < limite). Enabled=false = fluxo idêntico ao anterior
+    smiles_combo_enabled: bool = os.getenv(
+        "SMILES_COMBO_ENABLED", "true").lower() == "true"
+    smiles_combo_max_miles: int = int(
+        os.getenv("SMILES_COMBO_MAX_MILES", "210000"))
+
     # Seleção (design: 30h máx; híbrido sob 120k)
     max_duration_minutes: int = 30 * 60
     hybrid_max_miles: int = 120_000

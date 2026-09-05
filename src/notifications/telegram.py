@@ -58,6 +58,12 @@ def _quote_lines(quotes: list[FlightQuote]) -> list[str]:
             airline = f" — {escape(best.airline)}" if best.airline else ""
             lines.append(f"  🎫 {escape(origin)}: {best.miles:,} pontos{extra}"
                          f"{airline}".replace(",", "."))
+        combo = next((q for q in qs if q.status == Status.SUCCESS
+                      and q.hybrid_miles and q.cash_component_brl), None)
+        if combo:
+            lines.append(f"  💰 {escape(origin)}: combo {combo.hybrid_miles:,} "
+                         f"milhas + {_fmt_brl(combo.cash_component_brl)}"
+                         .replace(",", "."))
     return lines
 
 

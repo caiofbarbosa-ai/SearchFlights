@@ -18,10 +18,15 @@ class RealChrome:
     Uso:
         async with RealChrome(port=9301) as chrome:
             page = await chrome.page()
+
+    driver: "playwright" (padrão) ou "patchright" — patchright corrige os
+    vazamentos de CDP que fazem o Google degradar tarifas p/ automação
+    (evidência 2026-09-03/05).
     """
 
-    def __init__(self, port: int):
+    def __init__(self, port: int, driver: str = "playwright"):
         self.port = port
+        self.driver = driver
         self._proc: subprocess.Popen | None = None
         self._profile: Path | None = None
         self._pw = None
@@ -36,7 +41,11 @@ class RealChrome:
             "--no-default-browser-check", "--window-size=1920,1080",
             "about:blank"])
         time.sleep(4)
-        self._pw = await async_playwright().start()
+        if self.driver == "patchright":
+            from patchright.async_api import async_playwright as pw_start
+        else:
+            from playwright.async_api import async_playwright as pw_start
+        self._pw = await pw_start().start()
         self._browser = await self._pw.chromium.connect_over_cdp(
             f"http://localhost:{self.port}")
         return self

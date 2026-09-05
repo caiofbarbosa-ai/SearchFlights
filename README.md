@@ -26,6 +26,8 @@ Task Scheduler (10:00 BRT, acorda do repouso)
   descartável** (não o seu perfil) e conecta via CDP — é o único padrão que o
   Akamai aceita. As janelas do Chrome aparecem na tela por alguns minutos.
 - **Smiles rate-limit**: 1 busca/origem/dia (rajadas voltam com lista vazia).
+- **Smiles & Money**: além do só-milhas, o monitor busca o combo milhas+dinheiro
+  (≤210k milhas) no painel "Selecionar tarifa" — quando o painel renderiza.
 - **Datas-alvo fora da janela**: Google responde `CALENDAR_NOT_OPEN`/`NO_AVAILABILITY`
   (mensagem explícita); Smiles mantém spinner (classificado por timeout);
   Azul responde "não há voos disponíveis".

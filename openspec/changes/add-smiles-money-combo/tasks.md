@@ -1,31 +1,31 @@
 ## 1. Configuração
 
-- [ ] 1.1 Adicionar `SMILES_COMBO_MAX_MILES=210000` no `.env.example` e default em `src/config.py` (`smiles_combo_max_miles`)
-- [ ] 1.2 Documentar no README (seção Smiles: combo ≤210k milhas + reais)
+- [x] 1.1 Adicionar `SMILES_COMBO_MAX_MILES=210000` no `.env.example` e default em `src/config.py` (`smiles_combo_max_miles`)
+- [x] 1.2 Documentar no README (seção Smiles: combo ≤210k milhas + reais)
 
 ## 2. Fluxo de captura do combo (src/scrapers/smiles.py)
 
-- [ ] 2.0 Criar função APARTADA `_capture_money_combo(page, floor_miles)` com try/except próprio que NUNCA propaga exceção (toda etapa com timeout e retorno None em falha, com log + screenshot) e flag `SMILES_COMBO_ENABLED` no .env (default true; false = fluxo idêntico ao atual)
-- [ ] 2.1 Dentro da função apartada: localizar o card do voo mais barato (pelo número de milhas do piso) e clicar "Selecionar tarifa"
-- [ ] 2.2 Aguardar o quadro "Pague com Smiles & Money" (texto âncora) com timeout de 15s
-- [ ] 2.3 Clicar "Combinar" da caixa "Combinações para clientes Smiles a partir de" (inferior direita; NÃO a de Clube Smiles)
-- [ ] 2.4 Aguardar o quadro do slider ("Combinar do seu jeito"/Confirmar)
-- [ ] 2.5 Selecionar o maior valor de milhas < 210.000 via teclado (setas) com verificação do texto após cada passo; fallback: clique proporcional no trilho
-- [ ] 2.6 Capturar o valor em reais exibido abaixo do slider para a posição selecionada
-- [ ] 2.7 Fechar o quadro (Cancelar/Escape) SEM confirmar a compra
-- [ ] 2.8 Evidência: screenshot + texto do quadro em caso de falha de qualquer etapa (sem invalidar o só-milhas)
+- [x] 2.0 Criar função APARTADA `_capture_money_combo(page, floor_miles)` com try/except próprio que NUNCA propaga exceção (toda etapa com timeout e retorno None em falha, com log + screenshot) e flag `SMILES_COMBO_ENABLED` no .env (default true; false = fluxo idêntico ao atual)
+- [x] 2.1 Dentro da função apartada: localizar o card do voo mais barato (pelo número de milhas do piso) e clicar "Selecionar tarifa"
+- [x] 2.2 Aguardar o quadro "Pague com Smiles & Money" (texto âncora) com timeout de 15s
+- [x] 2.3 Clicar "Combinar" da caixa "Combinações para clientes Smiles a partir de" (inferior direita; NÃO a de Clube Smiles)
+- [x] 2.4 Aguardar o quadro do slider ("Combinar do seu jeito"/Confirmar)
+- [x] 2.5 Selecionar o maior valor de milhas < 210.000 via teclado (setas) com verificação do texto após cada passo; fallback: clique proporcional no trilho
+- [x] 2.6 Capturar o valor em reais exibido abaixo do slider para a posição selecionada
+- [x] 2.7 Fechar o quadro (Cancelar/Escape) SEM confirmar a compra
+- [x] 2.8 Evidência: screenshot + texto do quadro em caso de falha de qualquer etapa (sem invalidar o só-milhas)
 
 ## 3. Modelos e persistência
 
-- [ ] 3.1 Preencher `hybrid_miles` e `cash_component_brl` na quote do Smiles
-- [ ] 3.2 Registrar o card/texto do combo em `raw_sample` (evidência)
-- [ ] 3.3 Validar que status/miles do só-milhas permanecem intactos em falha do combo
+- [x] 3.1 Preencher `hybrid_miles` e `cash_component_brl` na quote do Smiles
+- [x] 3.2 Registrar o card/texto do combo em `raw_sample` (evidência)
+- [x] 3.3 Validar que status/miles do só-milhas permanecem intactos em falha do combo
 - [ ] 3.4 REGRESSÃO: executar com `SMILES_COMBO_ENABLED=false` e com falha forçada do combo — confirmar que só-milhas/status/Telegram saem idênticos ao fluxo atual (garantia de não impacto)
 
 ## 4. Telegram
 
-- [ ] 4.1 Linha do combo na seção Smiles: "🎫 GRU: 193.100 milhas + R$ 3.680 (combo ≤210k)" além do só-milhas
-- [ ] 4.2 Formato: combo exibido APÓS o só-milhas, sem substituí-lo
+- [x] 4.1 Linha do combo na seção Smiles: "🎫 GRU: 193.100 milhas + R$ 3.680 (combo ≤210k)" além do só-milhas
+- [x] 4.2 Formato: combo exibido APÓS o só-milhas, sem substituí-lo
 
 ## 5. Validação
 
