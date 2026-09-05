@@ -5,7 +5,8 @@
 
 ## 2. Fluxo de captura do combo (src/scrapers/smiles.py)
 
-- [ ] 2.1 Localizar o card do voo mais barato (pelo número de milhas do piso) e clicar "Selecionar tarifa"
+- [ ] 2.0 Criar função APARTADA `_capture_money_combo(page, floor_miles)` com try/except próprio que NUNCA propaga exceção (toda etapa com timeout e retorno None em falha, com log + screenshot) e flag `SMILES_COMBO_ENABLED` no .env (default true; false = fluxo idêntico ao atual)
+- [ ] 2.1 Dentro da função apartada: localizar o card do voo mais barato (pelo número de milhas do piso) e clicar "Selecionar tarifa"
 - [ ] 2.2 Aguardar o quadro "Pague com Smiles & Money" (texto âncora) com timeout de 15s
 - [ ] 2.3 Clicar "Combinar" da caixa "Combinações para clientes Smiles a partir de" (inferior direita; NÃO a de Clube Smiles)
 - [ ] 2.4 Aguardar o quadro do slider ("Combinar do seu jeito"/Confirmar)
@@ -19,6 +20,7 @@
 - [ ] 3.1 Preencher `hybrid_miles` e `cash_component_brl` na quote do Smiles
 - [ ] 3.2 Registrar o card/texto do combo em `raw_sample` (evidência)
 - [ ] 3.3 Validar que status/miles do só-milhas permanecem intactos em falha do combo
+- [ ] 3.4 REGRESSÃO: executar com `SMILES_COMBO_ENABLED=false` e com falha forçada do combo — confirmar que só-milhas/status/Telegram saem idênticos ao fluxo atual (garantia de não impacto)
 
 ## 4. Telegram
 

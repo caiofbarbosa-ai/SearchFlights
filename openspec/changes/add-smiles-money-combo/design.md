@@ -49,7 +49,28 @@ O scraper do Smiles (src/scrapers/smiles.py) hoje captura apenas o valor **só-m
 
 **Rationale:** o combo é um enriquecimento; quebrar a fonte por causa dele repetiria o erro histórico de declarar falha total quando um sub-fluxo falha.
 
-## Risks / Trade-offs
+### 5. Isolamento estrutural — GARANTIA de não impacto (requisito do usuário, 05/09)
+
+**Decision:** o fluxo de combo vive em uma **função apartada** (`_capture_money_combo(page, floor_miles) -> tuple | None`), chamada DEPOIS da captura e persistência do só-milhas, com **barreira própria de exceção** no ponto de chamada:
+
+```
+quote (só-milhas) já preenchida e validada
+    └─ try:
+           combo = await _capture_money_combo(page, floor)   # função isolada
+           if combo: quote.hybrid_miles, quote.cash_component_brl = combo
+       except Exception as exc:
+           log.warning("combo falhou (ignorado): %s", exc)   # log + segue
+```
+
+**Garantias:**
+1. `_capture_money_combo` NUNCA propaga exceção — toda etapa (clique, espera, slider, leitura) tem timeout próprio e retorna `None` em falha, com log + screenshot de evidência
+2. O chamador tem try/except adicional (defesa em profundidade)
+3. Os campos `miles`/`status` do só-milhas são preenchidos ANTES da chamada do combo — o combo só ADD campos (`hybrid_miles`, `cash_component_brl`), nunca modifica os existentes
+4. A funcionalidade é desligável por config (`SMILES_COMBO_ENABLED=true|false`) — desligada, o fluxo atual roda byte-a-byte idêntico ao de hoje
+
+**Rationale:** o requisito do usuário é explícito — o que já funciona hoje não pode regredir. A arquitetura de enriquecimento isolado garante que qualquer fragilidade do slider/painel custa no máximo "combo vazio + log", nunca o só-milhas ou o ciclo.
+
+### Risks / Trade-offs
 
 - **Slider é componente customizado**: o ajuste por teclado pode não ser suportado → fallback: clicar na posição do trilho proporcional ao valor-alvo (coordenadas do trilho)
 - **Combo só existe se houver assentos Smiles & Money no voo**: cards sem combo ficam sem o quadro → tratado como ausência (campos vazios)
