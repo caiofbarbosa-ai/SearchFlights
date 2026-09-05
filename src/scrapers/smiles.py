@@ -14,7 +14,19 @@ from src.scrapers.chrome_cdp import RealChrome
 
 REPORTS = Path(__file__).resolve().parents[2] / "poc" / "reports"
 
-MILES_RE = re.compile(r"(\d{1,3}(?:\.\d{3})+)\s*milhas por passageiro")
+MILES_RE = re.compile(r"(\d{1,3}(?:\.\d{3})+)\s*milhas", re.IGNORECASE)
+# ATENÇÃO: o texto renderizado é "milhas por VIAGANTE" (não "por passageiro")
+# — exigir o literal antigo fazia a extração nunca casar (bug 04/09)
+
+# cartões de voo: contêm "milhas" + botão "Mais detalhes" (isola o cartão
+# da faixa de datas e do cabeçalho)
+CARDS_JS = """() => {
+    const els = [...document.querySelectorAll('li, div')].filter(e =>
+        e.offsetParent && e.innerText && e.innerText.includes('milhas')
+        && e.innerText.includes('Mais detalhes'));
+    return els.sort((a, b) => a.innerText.length - b.innerText.length)
+        .slice(0, 40).map(e => e.innerText);
+}"""
 CARD_JS = """() => {
     const els = [...document.querySelectorAll('*')].filter(e =>
         e.children.length === 0 &&
@@ -117,35 +129,66 @@ async def _search_origin(page, origin: str) -> FlightQuote:
                 "() => document.body ? document.body.innerText : ''")
         except Exception:
             continue  # navegação em curso
-        if "milhas por passageiro" in body:
-            resolved = True
+        low = body.lower()
+        if "milhas" in low and "aguarde" not in low:
+            resolved = True  # valores em milhas renderizaram (qualquer formato)
             break
-        lower = body.lower()
-        if any(m in lower for m in NO_RESULTS_MARKERS) \
-                and "aguarde" not in lower:
+        if any(m in low for m in NO_RESULTS_MARKERS) \
+                and "aguarde" not in low:
             resolved = True
             break
 
     lower = body.lower()
+
+    # extrai CARTÕES (dedup por contenção) e escolhe o de menor milhas;
+    # companhia aérea vem do próprio cartão
+    best = None  # (milhas, airline, card_text)
+    try:
+        texts = await page.evaluate(CARDS_JS) or []
+        texts.sort(key=len)
+        cards: list[str] = []
+        for t in texts:
+            if not any(t in acc for acc in cards):
+                cards.append(t)
+        for card in cards[:25]:
+            ms = [int(x.replace(".", "")) for x in
+                  MILES_RE.findall(card) if int(x.replace(".", "")) >= 1000]
+            if not ms:
+                continue
+            names: list[str] = []
+            seen_names: set[str] = set()
+            for m in re.finditer(
+                    r"(Qatar Airways|Malaysia Airlines|LATAM|Emirates|"
+                    r"Etihad Airways|Etihad|Turkish Airlines|SWISS|KLM|"
+                    r"Air France|Lufthansa|Ethiopian|Japan Airlines|"
+                    r"American Airlines|United Airlines|United|Delta|"
+                    r"ITA Airways|Air Canada|Korean Air|Air Europa|"
+                    r"Iberia|British Airways)", card, re.IGNORECASE):
+                key = m.group(1).lower()
+                if key not in seen_names:
+                    seen_names.add(key)
+                    names.append(m.group(1))
+            cand = (min(ms), " & ".join(names)[:120] or None, card)
+            if best is None or cand[0] < best[0]:
+                best = cand
+    except Exception:
+        best = None
+
     miles = sorted({int(m.replace(".", "")) for m in MILES_RE.findall(body)
                     if int(m.replace(".", "")) >= 1000})
-    cards = []
-    if resolved and miles:
-        try:
-            cards = (await page.evaluate(CARD_JS))[:5]
-        except Exception:
-            cards = []
 
     if any(m in lower for m in ("unusual traffic", "acesso negado")):
         quote.status = Status.BLOCKED
-    elif miles and len(miles) >= 1:
+    elif best is not None:
         quote.status = Status.SUCCESS
-        quote.miles = miles[0]  # 7.9 menor só-milhas
+        quote.miles = best[0]  # 7.9 menor só-milhas (por viajante)
+        quote.airline = best[1]
         # 7.10 híbrido sob 120k: cartões trazem "ou combine milhas e dinheiro"
         hybrids = [m for m in miles if m <= settings.hybrid_max_miles]
         if hybrids:
             quote.hybrid_miles = max(hybrids)
-        quote.raw_sample = {"distinct_miles": miles[:10], "cards": cards}
+        quote.raw_sample = {"distinct_miles": miles[:10],
+                            "card": best[2][:300]}
     elif not resolved and "aguarde" in lower:
         quote.status = (Status.CALENDAR_NOT_OPEN
                         if settings.departure_date
