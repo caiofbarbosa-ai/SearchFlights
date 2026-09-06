@@ -139,6 +139,8 @@ O usuário imprimiu a página renderizada e revelou o bug: os valores aparecem c
 
 ---
 
-# UPDATE 06/09: flag clearou + ciclo de produção CORRETO
+# UPDATE 06/09 (CORRIGIDO): o rótulo CALENDAR_NOT_OPEN era FALSO — é o flag do Akamai
 
-Primeiro ciclo agendado com cadência controlada (10:00, 06/09): **sem flag Akamai** — o fluxo renderizou e classificou corretamente GRU e VCP como `CALENDAR_NOT_OPEN` (jul/2027 fora da janela de reservas do Smiles, ~322 dias). Overall do dia: SUCCESS. Confirma o desenho: silêncio entre ciclos cura o flag; 1 busca/origem/dia sustenta o estado limpo.
+O usuário tem **múltiplas evidências manuais** de que julho/2027 está aberto no Smiles há tempo (resultados renderizam em browser humano). Portanto o estado "spinner eterno → sem resultados" que classificamos como `CALENDAR_NOT_OPEN` nos ciclos automatizados de 04-06/09 era na verdade o **flag do Akamai** (bloqueio silencioso), não o calendário.
+
+**Correção pendente no classificador:** "spinner eterno + datas >300 dias" é AMBÍGUO (calendário fechado OU flag ativo) — não pode ser rotulado CALENDAR_NOT_OPEN sem discriminante. Discriminante proposto: busca CONTROLE (dez/2026, dentro da janela) na mesma sessão — se controle abre e alvo não → flag; se alvo tampoco → calendário (requer positiva).
