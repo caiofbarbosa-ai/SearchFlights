@@ -11,6 +11,11 @@ from src.models import FlightQuote, OK_STATUSES, Promotion, Status
 
 log = logging.getLogger(__name__)
 
+# Estimativa provisória do combo Smiles & Money (enquanto a captura real do
+# painel não funciona): combo com 200k milhas ≈ (só-milhas − 200.000) × R$ 0,022
+COMBO_ESTIMATE_MILES = 200_000
+COMBO_ESTIMATE_RATE_BRL_PER_MILE = 0.022
+
 API = "https://api.telegram.org/bot{token}/sendMessage"
 
 
@@ -25,7 +30,7 @@ def _fmt_brl(value: float | int | None) -> str:
     return f"R$ {value:,.0f}".replace(",", ".")
 
 
-def _quote_lines(quotes: list[FlightQuote]) -> list[str]:
+def _quote_lines(quotes: list[FlightQuote], source: str = "") -> list[str]:
     lines = []
     by_origin: dict[str, list[FlightQuote]] = {}
     for q in quotes:
@@ -64,6 +69,13 @@ def _quote_lines(quotes: list[FlightQuote]) -> list[str]:
             lines.append(f"  💰 {escape(origin)}: combo {combo.hybrid_miles:,} "
                          f"milhas + {_fmt_brl(combo.cash_component_brl)}"
                          .replace(",", "."))
+        elif source == "smiles" and best and best.miles                 and best.miles > COMBO_ESTIMATE_MILES:
+            # estimativa provisória: painel de combos não capturável em automação
+            est = (best.miles - COMBO_ESTIMATE_MILES) \
+                * COMBO_ESTIMATE_RATE_BRL_PER_MILE
+            lines.append(f"  💰 {escape(origin)}: ~combo "
+                         f"{COMBO_ESTIMATE_MILES:,} milhas + "
+                         f"{_fmt_brl(est)} (estimado)".replace(",", "."))
     return lines
 
 
@@ -78,13 +90,13 @@ def build_report(execution_date: date, quotes: list[FlightQuote],
     az = [q for q in quotes if q.source == "azul"]
 
     parts.append("\n✈️ <b>Google Flights (dinheiro)</b>")
-    parts.extend(_quote_lines(gf) or ["  — sem dados"])
+    parts.extend(_quote_lines(gf, "google") or ["  — sem dados"])
 
     parts.append("\n🎫 <b>Smiles (milhas)</b>")
-    parts.extend(_quote_lines(sm) or ["  — sem dados"])
+    parts.extend(_quote_lines(sm, "smiles") or ["  — sem dados"])
 
     parts.append("\n🔵 <b>Azul Fidelidade (pontos)</b>")
-    parts.extend(_quote_lines(az) or ["  — sem dados"])
+    parts.extend(_quote_lines(az, "azul") or ["  — sem dados"])
 
     parts.append("\n📣 <b>Promoções</b>")
     if promotions:

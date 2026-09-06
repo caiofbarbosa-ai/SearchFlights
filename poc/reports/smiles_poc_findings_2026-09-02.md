@@ -136,3 +136,9 @@ Para jul/2027, o Smiles **não fecha o spinner** (>5 min) — diferente do Googl
 # ADENDO 05/09: bug de extração resolvido — o wording era "por viagante"
 
 O usuário imprimiu a página renderizada e revelou o bug: os valores aparecem como **"X milhas por viagante"** (não "por passageiro") — o regex do extrator exigia o literal antigo e nunca casava, classificando renders PERFEITOS como BLOCKED. Correções: regex flexível ("X milhas"), extração por CARTÃO (assinatura "Mais detalhes", dedup por contenção), companhia aérea do próprio cartão. Validação: GRU (dez datas de controle) → **SUCCESS 357.800 pts** (Air France 26h50). O soft-block Akamai de rajadas permanece real (lição operacional: silêncio entre ciclos), mas o bug de wording mascarava renders saudáveis como falha.
+
+---
+
+# UPDATE 06/09: flag clearou + ciclo de produção CORRETO
+
+Primeiro ciclo agendado com cadência controlada (10:00, 06/09): **sem flag Akamai** — o fluxo renderizou e classificou corretamente GRU e VCP como `CALENDAR_NOT_OPEN` (jul/2027 fora da janela de reservas do Smiles, ~322 dias). Overall do dia: SUCCESS. Confirma o desenho: silêncio entre ciclos cura o flag; 1 busca/origem/dia sustenta o estado limpo.
