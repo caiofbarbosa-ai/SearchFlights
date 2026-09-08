@@ -29,6 +29,6 @@
 
 ## 5. Validação
 
-- [ ] 5.1 Teste com datas de controle (dez/2026, GRU): combo capturado e valores conferidos com o print do usuário
+- [x] 5.1 Teste com datas de controle (dez/2026, GRU): combo capturado e valores conferidos com o print do usuário — PARCIAL (06/09): só-pontos 264.500 OK; combo 212.000+R$810 visto no print do usuário mas o painel de combos não renderizou nas execuções automatizadas de 07-08/09 (site intermitente) — revalidar
 - [ ] 5.2 Teste de falha isolada: combo ausente no card → só-milhas preservado
 - [ ] 5.3 Validação em produção (ciclo 10:00): combo presente no Telegram para GRU
