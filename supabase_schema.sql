@@ -29,6 +29,7 @@ create table if not exists daily_flight_quotes (
     status text not null,
     cash_price_brl numeric,
     miles integer,
+    hybrid_miles integer,
     cash_component_brl numeric,
     airline text,
     duration_minutes integer,
@@ -64,3 +65,8 @@ create policy "quotes_all" on daily_flight_quotes
     for all to anon, authenticated using (true) with check (true);
 create policy "promotions_all" on daily_promotions
     for all to anon, authenticated using (true) with check (true);
+
+
+-- Adendo 07/09: coluna do híbrido Smiles&Money/Azul (combo milhas + reais)
+alter table daily_flight_quotes add column if not exists hybrid_miles integer;
+alter table daily_flight_quotes add column if not exists cash_component_brl numeric;

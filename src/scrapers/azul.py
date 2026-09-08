@@ -178,27 +178,94 @@ async def _search_origin(page, origin: str) -> FlightQuote:
             break
 
     lower = body.lower()
-    points = sorted({int(m.replace(".", "")) for m in POINTS_RE.findall(body)
-                     if int(m.replace(".", "")) >= 1000})
-    combos = [(int(p.replace(".", "")),
-               float(c.replace(".", "").replace(",", ".")))
-              for p, c in COMBO_RE.findall(body)]
-    combos = [c for c in combos if c[0] >= 1000]
+
+    # extração POR CARD (âncora "Mais detalhes" → ancestral com a rota);
+    # por card: só-pontos = "X pontos" NÃO seguido de "+ R$" (o combo é
+    # "X pontos + R$ Y" — Smiles&Money-style da Azul)
+    try:
+        card_texts = await page.evaluate("""() => {
+            const btns = [...document.querySelectorAll('button')]
+                .filter(b => b.offsetParent &&
+                    (b.innerText || '').trim() === 'Mais detalhes');
+            const out = [];
+            const seen = [];
+            for (const b of btns) {
+                let el = b;
+                // teto de 4 níveis: não subir além do card
+                for (let i = 0; i < 4 && el; i++) {
+                    el = el.parentElement;
+                    if (!el) break;
+                    const t = el.innerText || '';
+                    if (t.includes('pontos') && (t.includes('GRU') ||
+                        t.includes('BKK'))) {
+                        if (!seen.some(s => t.includes(s))) {
+                            seen.push(t);
+                            out.push(t);
+                        }
+                        break;
+                    }
+                }
+            }
+            return out;
+        }""") or []
+    except Exception:
+        card_texts = []
+    if not card_texts:
+        card_texts = [body]  # fallback: body inteiro (melhor que nada)
+
+    cards = []
+    for t in card_texts:
+        so = [int(x.replace(".", "")) for x in
+              re.findall(r"(\d{1,3}(?:\.\d{3})+)\s*pontos\b(?!\s*\+\s*R\$)", t)
+              if int(x.replace(".", "")) >= 1000]
+        m_combo = COMBO_RE.search(t)
+        names: list[str] = []
+        seen_names: set[str] = set()
+        for m in re.finditer(
+                r"(TURKISH AIRLINES|AIR FRANCE|KLM|ETHIOPIAN AIRLINES|"
+                r"ETHIOPIAN|AIR CANADA|JAPAN AIRLINES|QATAR AIRWAYS|"
+                r"EMIRATES|ETIHAD AIRWAYS|UNITED AIRLINES|DELTA AIR LINES|"
+                r"AMERICAN AIRLINES|SWISS|LUFTHANSA|AUSTRIAN|BRITISH "
+                r"AIRWAYS|IBERIA|ITA AIRWAYS|TAP AIR PORTUGAL|"
+                r"SWISS INTERNATIONAL|ANA|KOREAN AIR|AIR EUROPA|GOL|"
+                r"AZUL LINHAS AÉREAS|AZUL|LATAM)", t, re.IGNORECASE):
+            key = m.group(1).lower()
+            if key not in seen_names:
+                seen_names.add(key)
+                names.append(m.group(1))
+        cards.append({"so_pontos": min(so) if so else None,
+                      "combo": ((int(m_combo.group(1).replace(".", "")),
+                                 float(m_combo.group(2)
+                                       .replace(".", "").replace(",", ".")))
+                                if m_combo else None),
+                      "airline": " & ".join(names)[:120] or None,
+                      "text": t[:300]})
+
+    so_vals = sorted({c["so_pontos"] for c in cards if c["so_pontos"]})
+    combos = sorted({c["combo"] for c in cards if c["combo"]})
 
     if any(m in lower for m in ("comportamento incomum", "acesso foi limitado")):
         quote.status = Status.BLOCKED
     elif "não há voos disponíveis" in lower or "nenhum" in lower:
         quote.status = Status.NO_AVAILABILITY
-    elif points:
+    elif so_vals:
         quote.status = Status.SUCCESS
-        quote.miles = points[0]  # 8.7 menor só-pontos
-        # 8.8 híbrido: maior combinação de pontos sob 120k
-        valid = [c for c in combos if c[0] <= settings.hybrid_max_miles]
-        if valid:
-            quote.hybrid_miles, quote.cash_component_brl = max(
-                valid, key=lambda c: c[0])
-        quote.raw_sample = {"distinct_points": points[:10],
-                            "combos": combos[:8]}
+        quote.miles = so_vals[0]  # 8.7 menor só-pontos
+        # 8.8 combo: o de MENOR milhas (mais acessível) entre os cards
+        combo_cards = [c for c in cards if c["combo"]]
+        if combo_cards:
+            best_combo = min((c["combo"] for c in combo_cards),
+                             key=lambda c: c[0])
+            combo_card = next(c for c in combo_cards
+                              if c["combo"] == best_combo)
+            quote.hybrid_miles = combo_card["combo"][0]
+            quote.cash_component_brl = combo_card["combo"][1]
+            quote.airline = combo_card["airline"]
+        elif so_vals:
+            so_card = min((c for c in cards if c["so_pontos"]),
+                          key=lambda c: c["so_pontos"])
+            quote.airline = so_card["airline"]
+        quote.raw_sample = {"cards": cards[:8]}
     else:
         quote.status = Status.PARSER_ERROR
     return quote

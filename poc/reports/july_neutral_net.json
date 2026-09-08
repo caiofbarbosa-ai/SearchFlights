@@ -1,0 +1,1400 @@
+[
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=2&cabin=ALL&children=0&departureDate=1816138800000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnDate=1816743600000&searchType=con",
+  "size": 7671
+ },
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/import-files.js?v=0.95.2422",
+  "size": 7092
+ },
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/regenerator-runtime@0.13.5/runtime.min.js",
+  "size": 6609
+ },
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/systemjs@6.4.0/dist/system.min.js",
+  "size": 10587
+ },
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/systemjs@6.4.0/dist/extras/amd.min.js",
+  "size": 1639
+ },
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/systemjs@6.4.0/dist/extras/named-exports.min.js",
+  "size": 662
+ },
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/jquery@3.5.1/jquery.min.js",
+  "size": 89476
+ },
+ {
+  "t": "12:27:44",
+  "status": 200,
+  "url": "https://api.pushio.com/webpush/sdk/wpIndex_min.js",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/css/smls-components.min.css?v=0.95.2422",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/css/smls-header-footer.min.css?v=0.95.2422",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/css/smls-base-theme.min.css?v=0.95.2422",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/dd/rum-init-smiles-async.js?v=0.95.2422",
+  "size": 12930
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/6dDHd7/kPnz/B/e/7ByNKLvKt0jX/aSDaJzVwhJwhGhOp/FxwfRw/eSp/SZl90Ay4B",
+  "size": 565844
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf/header.js?v=0.95.2422",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://s.go-mpulse.net/boomerang/VKHNQ-4R7CE-B546X-STSHF-KSTXB",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/css/smls-flight-availability.min.css?v=0.95.2422",
+  "size": 486090
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/import.map-libs.json?v=0.95.2422",
+  "size": 831
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf/SmilesSearch.js?v=0.95.2422",
+  "size": 35181
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/6dDHd7/kPnz/B/e/7ByNKLvKt0jX/kkDaJzGuuO/ERYkRw/LmF/QagZeGHwZ?v=ba0f7d90-576e-a40c-ff43-a350c50c0215",
+  "size": 522041
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/dd/rum-init-core.js",
+  "size": 8357
+ },
+ {
+  "t": "12:27:45",
+  "status": 201,
+  "url": "https://www.smiles.com.br/6dDHd7/kPnz/B/e/7ByNKLvKt0jX/aSDaJzVwhJwhGhOp/FxwfRw/eSp/SZl90Ay4B",
+  "size": 18
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/import.map-mfe.json?v=0.95.2422",
+  "size": 2779
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+  "size": 4
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/import.map-mfe.json?v=0.95.2422",
+  "size": 2779
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/fonts/Nunito/Nunito-Regular.ttf?v=20210512",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/smiles-root-config.js?v=0.95.2422",
+  "size": 33449
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/consent/2122d8e9-b592-4e4a-adaa-910a6ab9bccd/2122d8e9-b592-4e4a-adaa-910a6ab9bccd.json",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/0.smiles-root-config.js",
+  "size": 134912
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.datadoghq-browser-agent.com/us1/v6/datadog-rum.js",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/10.smiles-root-config.js",
+  "size": 5292
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/9.smiles-root-config.js",
+  "size": 5285
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/8.smiles-root-config.js",
+  "size": 2206
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/1.smiles-root-config.js",
+  "size": 262979
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf/smls-header.json?v=2026090612",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/otBannerSdk.js",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf/smls-footer.json?v=2026090612",
+  "size": null
+ },
+ {
+  "t": "12:27:45",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MDJS8L&gtm_auth=&gtm_preview=&gtm_cookies_win=x",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 200,
+  "url": "https://c.go-mpulse.net/api/config.json?key=VKHNQ-4R7CE-B546X-STSHF-KSTXB&d=www.smiles.com.br&t=5962362&v=1.792.0&sl=0&si=44c558f4-8c99-4f27-972a-f1a688c8b645-tky8a8&plugins=AK,ConfigOverride,Continui",
+  "size": 52
+ },
+ {
+  "t": "12:27:46",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/consent/2122d8e9-b592-4e4a-adaa-910a6ab9bccd/019eda87-fcec-7152-8aff-73eb186a36b1/en.json",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFloatingRounded.json",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcPanel.json",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=ae08acf4-d60c-4dd7-9df4",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+  "size": null
+ },
+ {
+  "t": "12:27:46",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=6bca69d0-dba3-4e5b-a8fa",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/smiles-flight-availability.js",
+  "size": 13160454
+ },
+ {
+  "t": "12:27:50",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=1afb60ff-a855-48f6-9cfc",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=53cc0a3d-f69b-40d5-ad5b",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://cdn.cookielaw.org/logos/2f980304-3780-4365-af8e-169de13b4d42/019eda85-8618-7d94-9750-f5f3a9897653/1a31e559-3fc6-47e7-8ccc-24150f20a7ac/smiles-logo.png",
+  "size": -1
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=a6ba467b-7c14-47ed-8dfc",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=081b41e2-4b16-4a99-ab70",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.hotjar.com/c/hotjar-3832769.js?sv=7",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-BBTY3LETEV&cx=c&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PPDMWVG&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5LV3LVK&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KTBTRHM&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5FL7852&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.clarity.ms/tag/f4hfa25m2c?ref=gtm",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TB4D78QZ&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PJZ72FZ&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KGBD88NQ&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-L25DPPG37X&cx=c&gtm=4e6921",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://script.hotjar.com/modules.e762be2b6b709245aabb.js",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=6f4fce52-bb4c-41e7-8a7e",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-L25DPPG37X&cid=218465503.1788708469&gtm=45je6921v886685129z871476682za20gzb71476682zd71476682&rcb=19&aip=1&dma=0&gcd=13l3l3l3l1l",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://scripts.clarity.ms/0.8.69/clarity.js",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/css/img/smls-hf-icons.svg?v=1784734108",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/misc/not-found-baggage.svg",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/fonts/Nunito/Nunito-Bold.ttf?v=20210512",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/axios@0.19.2/axios.min.js",
+  "size": 13993
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/react@16.13.0/react.production.min.js",
+  "size": 12463
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/react-dom@16.13.0/react-dom.production.min.js",
+  "size": 118656
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/react-router-dom@5.2.0/react-router-dom.min.js",
+  "size": 29925
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/reactstrap@8.7.1/reactstrap.full.min.js",
+  "size": 153296
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-portal/static/libs/lottie-web@5.7.4/lottie.min.js",
+  "size": 262029
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-apps/check-env.txt?t=1788708468494",
+  "size": 4
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://d.oracleinfinity.io/infy/acs/account/30a937a3cfbd41bb5ace6c38fe013a17/js/web_smiles/odc.js?_ora.config=analytics:test",
+  "size": 44910
+ },
+ {
+  "t": "12:27:50",
+  "status": 201,
+  "url": "https://www.smiles.com.br/6dDHd7/kPnz/B/e/7ByNKLvKt0jX/aSDaJzVwhJwhGhOp/FxwfRw/eSp/SZl90Ay4B",
+  "size": 18
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://d.oracleinfinity.io/infy/acs/account/30a937a3cfbd41bb5ace6c38fe013a17/js/web_smiles/analytics-test.js",
+  "size": 3180
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+  "size": 13237
+ },
+ {
+  "t": "12:27:50",
+  "status": 204,
+  "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-L25DPPG37X&cid=218465503.1788708469&gtm=45je6921v886685129z871476682za20gzb71476682zd71476682&rcb=19&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_ex",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 204,
+  "url": "https://vc.hotjar.io/sessions/3832769?s=0.25&r=0.10609114140284548",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://cdn.amplitude.com/libs/analytics-browser-gtm-wrapper-2.33.4.min.js.br",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://edge.fullstory.com/s/fs.js",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 302,
+  "url": "https://www.google.com/measurement/conversion?random=1788708469854&cv=11&tid=G-L25DPPG37X&fst=1788708469854&fmt=8&en=session_start&gtm=45je6921v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3",
+  "size": -1
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://websdk.appsflyer.com/?st=banners&",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/fonts/Nunito/Nunito-SemiBold.ttf?v=20210512",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/fonts/Nunito/Nunito-Light.ttf?v=20210512",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf/smls-header.json",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight-select.svg?v=2",
+  "size": 4312
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/icon-date-range.svg",
+  "size": 728
+ },
+ {
+  "t": "12:27:50",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=44a24866-6097-4a95-bd54",
+  "size": null
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight.svg",
+  "size": 602
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/add.svg",
+  "size": 491
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/arrow-date-prev.svg",
+  "size": 439
+ },
+ {
+  "t": "12:27:50",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/arrow-date-next.svg",
+  "size": 454
+ },
+ {
+  "t": "12:27:51",
+  "status": 204,
+  "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6921v9187883301z871476682za20gzb71476682zd71476682&_p=1788708465637&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EA&are=1&cid=218465503.1788",
+  "size": 0
+ },
+ {
+  "t": "12:27:51",
+  "status": 404,
+  "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.29518378.woff",
+  "size": 0
+ },
+ {
+  "t": "12:27:51",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=dde03ece-c108-412b-9d36",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=dd694509-bcfa-4bff-a53e",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 204,
+  "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6921v886685129z871476682za20gzb71476682zd71476682&_p=1788708465637&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1079311604&_eu=EAAAAGAC&",
+  "size": 0
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://d.oracleinfinity.io/infy/acs/common/js/1.3.52/common.js",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://cdn.amplitude.com/libs/analytics-browser-gtm-2.33.4-min.js.gz",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://edge.fullstory.com/s/settings/o-22R5SZ-na1/v1/web",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+  "size": 4
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://www.google.com/measurement/1p-conversion/?random=633295421&cv=11&tid=G-L25DPPG37X&fst=1788708469854&fmt=8&en=session_start&gtm=45je6921v886685129z871476682za20gzb71476682zd71476682xec&gcd=13l3",
+  "size": 0
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://c.oracleinfinity.io/acs/account/30a937a3cfbd41bb5ace6c38fe013a17/js/web_smiles/analytics-test/analytics.js",
+  "size": 46542
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://airports-blue.smiles.com.br/v1/airports?q=airport&size=50",
+  "size": 21065
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=59f287fa-ae87-439c-969d",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://sr-client-cfg.amplitude.com/config/ef9f1f5d78d898503e815a9c4b2e450c?config_group=browser",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 404,
+  "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.c94f7671.ttf",
+  "size": 0
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+  "size": 4
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/assets/logos/smiles/lg-smiles-orange.svg",
+  "size": 4872
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://www.smiles.com.br/documents/d/guest/magnfying-glass-grey",
+  "size": 1244
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://www.smiles.com.br/documents/d/guest/close_icon",
+  "size": 1028
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090615",
+  "size": 1720
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-viagem-passagem-aluguel-carro.json?v=2026090615",
+  "size": 1720
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/6914ec0a1036cf09b60f9da7/users/eyJraW5kIjoidXNlcnMiLCJrZXkiOiJleUpyWlhraU9pSmtaWFkySW4wPSJ9",
+  "size": 1790
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/635fd4e0a51b7a0bf4d700d8/users/eyJraW5kIjoidXNlcnMiLCJrZXkiOiJleUpyWlhraU9pSmtaWFkySW4wPSJ9",
+  "size": 1746
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://ldrelay-blue.smiles.com.br/sdk/goals/635fd4e0a51b7a0bf4d700d8",
+  "size": 2
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090615",
+  "size": 1734
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090615",
+  "size": 2421
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090615",
+  "size": 2140
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090615",
+  "size": 2095
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-smiles.json?v=2026090615",
+  "size": 1734
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles1.json?v=2026090615",
+  "size": 2140
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-miles2.json?v=2026090615",
+  "size": 2095
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-shopping.json?v=2026090615",
+  "size": 2421
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://ldrelay-blue.smiles.com.br/sdk/goals/6914ec0a1036cf09b60f9da7",
+  "size": 2
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090615",
+  "size": 2610
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-package1.json?v=2026090615",
+  "size": 2209
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-servicos.json?v=2026090615",
+  "size": 2610
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://static.smiler.com.br/hf-contents/smiles-header-package2.json?v=2026090615",
+  "size": 1680
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://www.smiles.com.br/mfe-apps/check-env.txt",
+  "size": 4
+ },
+ {
+  "t": "12:27:51",
+  "status": 302,
+  "url": "https://c.clarity.ms/c.gif",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://dc.oracleinfinity.io/v4/account/30a937a3cfbd41bb5ace6c38fe013a17/client/id",
+  "size": null
+ },
+ {
+  "t": "12:27:51",
+  "status": 200,
+  "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+  "size": 13237
+ },
+ {
+  "t": "12:27:52",
+  "status": 302,
+  "url": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=A208B97531ED45B89CA7E787ADEF5C06&RedC=c.clarity.ms&MXFR=035886D36D9F6A3E1D80911F699F646D",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 200,
+  "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=A208B97531ED45B89CA7E787ADEF5C06&MUID=366CBCFB712964982F9EAB3770F06520",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/page",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=6b965266-af2b-4754-9795",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 200,
+  "url": "https://dc.oracleinfinity.io/30a937a3cfbd41bb5ace6c38fe013a17/dcs.gif?event=page_view&nr_smiles=null&page_path=%2Fmfe%2Femissao-passagem%2F&dcsdat=1788708471955&dcssip=www.smiles.com.br&dcsuri=%2Fmfe%",
+  "size": -1
+ },
+ {
+  "t": "12:27:52",
+  "status": 200,
+  "url": "https://ldrelay-blue.smiles.com.br/sdk/evalx/5ff64893991a4c0aa4974fc7/users/eyJrZXkiOiJCTFVFIn0%3D",
+  "size": 13237
+ },
+ {
+  "t": "12:27:52",
+  "status": 204,
+  "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6921v886685129za20gzb71476682zd71476682&_p=1788708465637&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1079311604&_eu=EEAAAGQC&ae=a&are=1&cid=21",
+  "size": 0
+ },
+ {
+  "t": "12:27:52",
+  "status": 200,
+  "url": "https://apigw-blue.smiles.com.br/b2b/partner/oauth/token/",
+  "size": 1208
+ },
+ {
+  "t": "12:27:52",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=b3981281-e7bf-4948-b1e8",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=1e813d5b-9d00-4e8c-9a16",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=c2f681a4-ee6a-48ee-b6ca",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=87e73643-7971-4076-9909",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 200,
+  "url": "https://sr-client-cfg.amplitude.com/config/ef9f1f5d78d898503e815a9c4b2e450c?config_group=browser",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=18efdce2-5c4f-4047-a801",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=d097d579-a033-4cef-b7cc",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:27:52",
+  "status": 452,
+  "url": "https://members-blue.smiles.com.br/v1/members",
+  "size": 40
+ },
+ {
+  "t": "12:27:53",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=b4d01fbb-97fa-419e-bed4",
+  "size": null
+ },
+ {
+  "t": "12:27:53",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:27:53",
+  "status": 200,
+  "url": "https://www.smiles.com.br/6dDHd7/kPnz/B/e/7ByNKLvKt0jX/kkDaJzGuuO/ERYkRw/LmF/QagZeGHwZ",
+  "size": 0
+ },
+ {
+  "t": "12:27:54",
+  "status": 202,
+  "url": "https://events.launchdarkly.com/events/bulk/6914ec0a1036cf09b60f9da7",
+  "size": null
+ },
+ {
+  "t": "12:27:54",
+  "status": 202,
+  "url": "https://events.launchdarkly.com/events/bulk/635fd4e0a51b7a0bf4d700d8",
+  "size": null
+ },
+ {
+  "t": "12:27:54",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=611cdddd-26be-4851-a1e0",
+  "size": null
+ },
+ {
+  "t": "12:27:54",
+  "status": 200,
+  "url": "https://api2.amplitude.com/2/httpapi",
+  "size": null
+ },
+ {
+  "t": "12:27:55",
+  "status": 204,
+  "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6921v9187883301za20gzb71476682zd71476682&_p=1788708465637&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEAAAAQ&ae=a&are=1&cid=218465503.1788",
+  "size": 0
+ },
+ {
+  "t": "12:27:55",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=1&C",
+  "size": null
+ },
+ {
+  "t": "12:27:55",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=1d638dfd-bd9e-4aa4-91dc",
+  "size": null
+ },
+ {
+  "t": "12:27:56",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:27:56",
+  "status": 204,
+  "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6921v886685129z871476682za20gzb71476682zd71476682&_p=1788708465637&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1079311604&_eu=EAAAAGQC&are=1&c",
+  "size": 0
+ },
+ {
+  "t": "12:27:57",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=5fa79c12-0f6e-4297-9f20",
+  "size": null
+ },
+ {
+  "t": "12:27:57",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=2&C",
+  "size": null
+ },
+ {
+  "t": "12:28:00",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:28:02",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=3&C",
+  "size": null
+ },
+ {
+  "t": "12:28:07",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=4&C",
+  "size": null
+ },
+ {
+  "t": "12:28:12",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=5&C",
+  "size": null
+ },
+ {
+  "t": "12:28:17",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=6&C",
+  "size": null
+ },
+ {
+  "t": "12:28:22",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=7&C",
+  "size": null
+ },
+ {
+  "t": "12:28:27",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=b761132d-93a4-4c42-a62e",
+  "size": null
+ },
+ {
+  "t": "12:28:27",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=8&C",
+  "size": null
+ },
+ {
+  "t": "12:28:32",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=9&C",
+  "size": null
+ },
+ {
+  "t": "12:28:37",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=10&",
+  "size": null
+ },
+ {
+  "t": "12:28:42",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=11&",
+  "size": null
+ },
+ {
+  "t": "12:28:47",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=12&",
+  "size": null
+ },
+ {
+  "t": "12:28:52",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=13&",
+  "size": null
+ },
+ {
+  "t": "12:28:57",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=14&",
+  "size": null
+ },
+ {
+  "t": "12:29:02",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:29:02",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=15&",
+  "size": null
+ },
+ {
+  "t": "12:29:07",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=16&",
+  "size": null
+ },
+ {
+  "t": "12:29:12",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=17&",
+  "size": null
+ },
+ {
+  "t": "12:29:17",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=18&",
+  "size": null
+ },
+ {
+  "t": "12:29:22",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=19&",
+  "size": null
+ },
+ {
+  "t": "12:29:27",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=20&",
+  "size": null
+ },
+ {
+  "t": "12:29:32",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=21&",
+  "size": null
+ },
+ {
+  "t": "12:29:33",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=095ad9ce-00c1-4ba7-a96f",
+  "size": null
+ },
+ {
+  "t": "12:29:37",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=22&",
+  "size": null
+ },
+ {
+  "t": "12:29:42",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=23&",
+  "size": null
+ },
+ {
+  "t": "12:29:47",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=24&",
+  "size": null
+ },
+ {
+  "t": "12:29:52",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=25&",
+  "size": null
+ },
+ {
+  "t": "12:29:57",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=26&",
+  "size": null
+ },
+ {
+  "t": "12:30:02",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=27&",
+  "size": null
+ },
+ {
+  "t": "12:30:03",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:30:08",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=28&",
+  "size": null
+ },
+ {
+  "t": "12:30:12",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=29&",
+  "size": null
+ },
+ {
+  "t": "12:30:17",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=30&",
+  "size": null
+ },
+ {
+  "t": "12:30:22",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=31&",
+  "size": null
+ },
+ {
+  "t": "12:30:27",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=32&",
+  "size": null
+ },
+ {
+  "t": "12:30:32",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=33&",
+  "size": null
+ },
+ {
+  "t": "12:30:33",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=ef05ea1b-3ed3-4cc1-a0d4",
+  "size": null
+ },
+ {
+  "t": "12:30:37",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=34&",
+  "size": null
+ },
+ {
+  "t": "12:30:42",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=35&",
+  "size": null
+ },
+ {
+  "t": "12:30:47",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=36&",
+  "size": null
+ },
+ {
+  "t": "12:30:52",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=37&",
+  "size": null
+ },
+ {
+  "t": "12:30:57",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=38&",
+  "size": null
+ },
+ {
+  "t": "12:31:02",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=39&",
+  "size": null
+ },
+ {
+  "t": "12:31:04",
+  "status": 204,
+  "url": "https://a.clarity.ms/collect",
+  "size": null
+ },
+ {
+  "t": "12:31:07",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=40&",
+  "size": null
+ },
+ {
+  "t": "12:31:12",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=41&",
+  "size": null
+ },
+ {
+  "t": "12:31:17",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=42&",
+  "size": null
+ },
+ {
+  "t": "12:31:22",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=43&",
+  "size": null
+ },
+ {
+  "t": "12:31:27",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=44&",
+  "size": null
+ },
+ {
+  "t": "12:31:32",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=45&",
+  "size": null
+ },
+ {
+  "t": "12:31:34",
+  "status": 202,
+  "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub78aea8869c4e3ed0197b9c364309c91e&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=a5192e52-59d8-4ccc-9595",
+  "size": null
+ },
+ {
+  "t": "12:31:37",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=46&",
+  "size": null
+ },
+ {
+  "t": "12:31:42",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=47&",
+  "size": null
+ },
+ {
+  "t": "12:31:47",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=48&",
+  "size": null
+ },
+ {
+  "t": "12:31:52",
+  "status": 200,
+  "url": "https://static.smiler.com.br/bs-theme/css/img/smls-nhf-submenu-icons.svg?v=1773931761",
+  "size": null
+ },
+ {
+  "t": "12:31:52",
+  "status": 200,
+  "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-22R5SZ-na1&UserId=20a87bf4-aa2f-4fcd-8642-481dcf74061a&SessionId=93ffd8e8-ed1c-4cd1-a4ea-0b6b7babaac5&PageId=d18320ea-475e-4ed7-9d2b-9be795b70de2&Seq=49&",
+  "size": null
+ }
+]
