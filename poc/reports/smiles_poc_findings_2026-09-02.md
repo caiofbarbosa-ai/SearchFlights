@@ -144,3 +144,39 @@ O usuário imprimiu a página renderizada e revelou o bug: os valores aparecem c
 O usuário tem **múltiplas evidências manuais** de que julho/2027 está aberto no Smiles há tempo (resultados renderizam em browser humano). Portanto o estado "spinner eterno → sem resultados" que classificamos como `CALENDAR_NOT_OPEN` nos ciclos automatizados de 04-06/09 era na verdade o **flag do Akamai** (bloqueio silencioso), não o calendário.
 
 **Correção pendente no classificador:** "spinner eterno + datas >300 dias" é AMBÍGUO (calendário fechado OU flag ativo) — não pode ser rotulado CALENDAR_NOT_OPEN sem discriminante. Discriminante proposto: busca CONTROLE (dez/2026, dentro da janela) na mesma sessão — se controle abre e alvo não → flag; se alvo tampoco → calendário (requer positiva).
+
+---
+
+# RESOLUÇÃO 09/09: duas causas reais encontradas — driver (patchright) E nº de passageiros
+
+A objeção do usuário ("não estou convencido; Smiles praticamente nunca funcionou; deve haver outra razão") derrubou a teoria do flag. Auditoria + experimento controlado revelaram **duas causas independentes**, sem necessidade de nenhuma teoria de bloqueio:
+
+## Causa 1 — o driver: patchright nunca renderizou no Smiles
+
+- 05-09 18:53 (commit `68ac0e9`) trocou Smiles para `driver="patchright"` — herdado do Google (onde resolve degradação de tarifas) **sem revalidar no Smiles**.
+- **Zero renders com patchright** em toda a história: tabela §3.1.1 (patchright ❌ XHR bloqueado), todos os ciclos desde 06-09, probes 07-09/09.
+- Vanilla playwright `connect_over_cdp`: 2/2 renders históricos (breakthrough 09-02, validação 05-09). O Azul usa o default vanilla (`RealChrome(port=9302)` sem driver) e funciona.
+- A/B de 09/09: mesma URL, mesmo IP, mesma hora — Chrome humano ✅ 40s × patchright ❌ spin 181s+. Nem precisa de "flag": era o cliente.
+
+## Causa 2 — 2 adultos: não renderiza nem com o driver certo
+
+Matriz 2×2 completa de 09/09 (site sã, todas as células em ~1h, JSON `smiles_adults_discriminant.json`):
+
+| driver | adultos | resultado |
+|---|---|---|
+| patchright | 1 | ❌ spin 181s (14:31) |
+| vanilla | 2 | ❌ spin 181s (15:22) |
+| **vanilla** | **1** | ✅ **render 24s, 10 cartões, AF 301.500 (15:35)** |
+| humano | 1 | ✅ render 40s (15:20) |
+
+A run de 1 adulto renderizou **na mesma sessão** que tinha girado com 2 adultos 13 min antes — controle intra-sessão, o mais forte do projeto até agora. Valores idênticos ao print manual do usuário (AF 301.500 por viajante + combos Smiles&Money).
+
+## Fix de produção (change `smiles-1-adulto`)
+
+2 linhas: `RealChrome(port=9301, driver="playwright")` + `SMILES_ADULTS=1` (busca 1 passageiro; valores exibidos são "por viajante" de qualquer forma). Google mantém patchright; Azul não muda. Gate antes do flip: 3 manhãs consecutivas de render com a config candidata em sessão limpa pré-ciclo (confiabilidade, não sorte — bar do usuário).
+
+## Lições registradas
+
+1. **Mudança de cliente anti-detecção precisa de revalidação POR SITE** — patchright resolve Google e quebra Smiles; não existe driver universalmente "mais stealth".
+2. **Rótulo por inferência vira dívida** — "CALENDAR_NOT_OPEN" (04-06/09) e "flag do Akamai" (06-09/09) foram dois rótulos errados seguidos; o que faltou foi matriz controlada com células medidas (feita em 09/09 em ~1h).
+3. O rascunho do discriminante (06/09) tinha a lógica INVERTIDA (controle abre + alvo falha ≠ flag; é falha específica do alvo). Correto: controle abre → sessão sã → problema é do alvo/dados; controle falha → sessão comprometida → BLOCKED.

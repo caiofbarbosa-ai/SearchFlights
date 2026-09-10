@@ -1,0 +1,233 @@
+{
+ "generated_at": "2026-09-10T12:15:11",
+ "outcome": "MONTOU_NA_FASE_A",
+ "box_montou_em_s": 2,
+ "colapso_em_s": null,
+ "slider": null,
+ "slider_erro": "slider não apareceu após Combinar",
+ "timeline": [],
+ "network": [
+  {
+   "t": "12:14:00",
+   "status": 200,
+   "size": 2492,
+   "url": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1816138800000&infants=0&isElegible=false&isFlexibleDateChecked=false"
+  },
+  {
+   "t": "12:14:03",
+   "status": 200,
+   "size": 7783,
+   "url": "https://www.smiles.com.br/mfe/emissao-passagem/?adults=1&cabin=ALL&children=0&departureDate=1816138800000&infants=0&isElegible=false&isFlexibleDateChecked=false"
+  },
+  {
+   "t": "12:14:03",
+   "status": 200,
+   "size": 486090,
+   "url": "https://static.smiler.com.br/bs-theme/css/smls-flight-availability.min.css?v=0.95.2422"
+  },
+  {
+   "t": "12:14:03",
+   "status": 200,
+   "size": 35181,
+   "url": "https://static.smiler.com.br/hf/SmilesSearch.js?v=0.95.2422"
+  },
+  {
+   "t": "12:14:10",
+   "status": 200,
+   "size": 13160454,
+   "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/smiles-flight-availability.js"
+  },
+  {
+   "t": "12:14:10",
+   "status": 302,
+   "size": -1,
+   "url": "https://www.google.com/measurement/conversion?random=1789053248040&cv=11&tid=G-L25DPPG37X&fst=1789053248040&fmt=8&en=session_start&gtm=45je6980v886685129z871476"
+  },
+  {
+   "t": "12:14:10",
+   "status": "FAILED",
+   "size": null,
+   "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.29518378.woff"
+  },
+  {
+   "t": "12:14:10",
+   "status": 204,
+   "size": 0,
+   "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6980v9187883301z871476682za20gzb71476682zd71476682&_p=1789053244071&gcd=13l3l3l3l1l1&npa"
+  },
+  {
+   "t": "12:14:10",
+   "status": 204,
+   "size": 0,
+   "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6980v886685129z871476682za20gzb71476682zd71476682&_p=1789053244071&_gaz=1&gcd=13l3l3l3l1l1&n"
+  },
+  {
+   "t": "12:14:10",
+   "status": 200,
+   "size": 0,
+   "url": "https://www.google.com/measurement/1p-conversion/?random=2038578100&cv=11&tid=G-L25DPPG37X&fst=1789053248040&fmt=8&en=session_start&gtm=45je6980v886685129z87147"
+  },
+  {
+   "t": "12:14:11",
+   "status": "FAILED",
+   "size": null,
+   "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.c94f7671.ttf"
+  },
+  {
+   "t": "12:14:11",
+   "status": 204,
+   "size": 0,
+   "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6980v886685129za20gzb71476682zd71476682&_p=1789053244071&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=9"
+  },
+  {
+   "t": "12:14:11",
+   "status": 200,
+   "size": -1,
+   "url": "https://dc.oracleinfinity.io/30a937a3cfbd41bb5ace6c38fe013a17/dcs.gif?event=page_view&nr_smiles=null&page_path=%2Fmfe%2Femissao-passagem%2F&dcsdat=1789053250126"
+  },
+  {
+   "t": "12:14:11",
+   "status": 200,
+   "size": 4312,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight-select.svg?v=2"
+  },
+  {
+   "t": "12:14:11",
+   "status": 200,
+   "size": 728,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/icon-date-range.svg"
+  },
+  {
+   "t": "12:14:11",
+   "status": 200,
+   "size": 602,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight.svg"
+  },
+  {
+   "t": "12:14:11",
+   "status": 200,
+   "size": 491,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/add.svg"
+  },
+  {
+   "t": "12:14:11",
+   "status": 200,
+   "size": 439,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/arrow-date-prev.svg"
+  },
+  {
+   "t": "12:14:11",
+   "status": 200,
+   "size": 454,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/arrow-date-next.svg"
+  },
+  {
+   "t": "12:14:11",
+   "status": 404,
+   "size": 0,
+   "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.29518378.woff"
+  },
+  {
+   "t": "12:14:11",
+   "status": 404,
+   "size": 0,
+   "url": "https://www.smiles.com.br/mfe-apps/flight-availability/0.32.1074/static/media/slick.c94f7671.ttf"
+  },
+  {
+   "t": "12:14:13",
+   "status": 204,
+   "size": 0,
+   "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-BBTY3LETEV&gtm=45je6980v9187883301za20gzb71476682zd71476682&_p=1789053244071&gcd=13l3l3l3l1l1&npa=0&dma=0&_"
+  },
+  {
+   "t": "12:14:14",
+   "status": 204,
+   "size": 0,
+   "url": "https://analytics.google.com/g/collect?v=2&tid=G-L25DPPG37X&gtm=45je6980v886685129z871476682za20gzb71476682zd71476682&_p=1789053244071&gcd=13l3l3l3l1l1&npa=0&dm"
+  },
+  {
+   "t": "12:14:28",
+   "status": 200,
+   "size": 223867,
+   "url": "https://api-air-flightsearch-blue.smiles.com.br/v1/airlines/search?cabin=ALL&originAirportCode=GRU&destinationAirportCode=BKK&departureDate=2027-07-21&returnDat"
+  },
+  {
+   "t": "12:14:35",
+   "status": 200,
+   "size": 422,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/icon-arrow-drop-down.svg"
+  },
+  {
+   "t": "12:14:35",
+   "status": 200,
+   "size": 2228,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/bag.svg"
+  },
+  {
+   "t": "12:14:35",
+   "status": 200,
+   "size": 2540,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/suitcase.svg"
+  },
+  {
+   "t": "12:14:35",
+   "status": 200,
+   "size": 2243,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/baggage-icon.svg"
+  },
+  {
+   "t": "12:14:35",
+   "status": 200,
+   "size": 456,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/arrow-next-list.svg"
+  },
+  {
+   "t": "12:14:35",
+   "status": 200,
+   "size": 546,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/icon-filter-list.svg"
+  },
+  {
+   "t": "12:14:36",
+   "status": 200,
+   "size": 1597,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/alert-government-approval.svg"
+  },
+  {
+   "t": "12:14:36",
+   "status": 200,
+   "size": 1305,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/notification-miles.svg"
+  },
+  {
+   "t": "12:14:36",
+   "status": 200,
+   "size": 1444,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/smile-pill-icon.svg"
+  },
+  {
+   "t": "12:14:36",
+   "status": 200,
+   "size": 588,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/flight-right.svg"
+  },
+  {
+   "t": "12:14:41",
+   "status": 200,
+   "size": 532,
+   "url": "https://api-air-flightsearch-blue.smiles.com.br/v1/airlines/pricesm?flightuid=f1fc6f17e6bbf9ef1e87&fareType=SMILES_MONEY"
+  },
+  {
+   "t": "12:14:41",
+   "status": 200,
+   "size": 211,
+   "url": "https://static.smiler.com.br/bs-theme/assets/flight-availability/sm-flex-knob.svg"
+  }
+ ],
+ "artifacts": [
+  "combo_hyp_01_render.png",
+  "combo_hyp_02_pos_clique.png",
+  "combo_hyp_03_fim_faseA.png",
+  "combo_hyp_05_box_montada.png"
+ ]
+}

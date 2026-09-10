@@ -1,0 +1,32 @@
+{
+ "generated_at": "2026-09-10T12:18:06",
+ "slider_montou": true,
+ "quadro": "Combine do seu jeito |  | Pague em até 12x sem juros no cartão de crédito (parcela mínima de R$5) |  | 16.000 milhas |  | 16.000 milhas | 254.400 milhas |  | + R$ 6.100,00 |  | R$ 6.100,00 | R$ 1.320,00 | Cancelar | Confirmar",
+ "timeline": [
+  {
+   "t": 2,
+   "use_milhas": true,
+   "box_clientes": true,
+   "seu_jeito": true,
+   "confirmar": true,
+   "role_slider": false,
+   "input_range": true,
+   "quadro": "Combine do seu jeito |  | Pague em até 12x sem juros no cartão de crédito (parcela mínima de R$5) |  | 16.000 milhas |  | 16.000 milhas | 254.400 milhas |  | + R$ 6.100,00 |  | R$ 6.100,00 | R$ 1.320,00 | Cancelar | Confirmar"
+  }
+ ],
+ "network": [
+  {
+   "t": "12:18:03",
+   "status": 200,
+   "url": "https://api-air-flightsearch-blue.smiles.com.br/v1/airlines/pricesm?flightuid=9e8d055ad6d56bbfd6c8&fareType=SMILES_MONEY",
+   "body": "{\"flightuid\":\"9e8d055ad6d56bbfd6c8\",\"fareList\":[{\"uid\":\"36a607c7b0\",\"type\":\"SMILES_MONEY\",\"miles\":16000,\"money\":6100,\"offer\":1},{\"uid\":\"f2b162a2cd\",\"type\":\"SMILES_MONEY\",\"miles\":31800,\"money\":5780,\"offer\":2},{\"uid\":\"162a2cd3df\",\"type\":\"SMILES_MONEY\",\"miles\":79600,\"money\":4820,\"offer\":3},{\"uid\":\"2a2cd3df2d\",\"type\":\"SMILES_MONEY\",\"miles\":111400,\"money\":4180,\"offer\":4},{\"uid\":\"2cd3df2d56\",\"type\":\"SMILES_MONEY\",\"miles\":159000,\"money\":3220,\"offer\":5},{\"uid\":\"cd3df2d562\",\"type\":\"SMILES_MONEY\",\"miles\":254400,\"money\":1320,\"offer\":6}]}"
+  }
+ ],
+ "artifacts": [
+  "combo_slider_01_render.png",
+  "combo_slider_02_box.png",
+  "combo_slider_03_pos_combinar.png",
+  "combo_slider_04_mudanca_2s.png",
+  "combo_slider_05_slider.png"
+ ]
+}

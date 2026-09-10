@@ -1,0 +1,45 @@
+{
+ "generated_at": "2026-09-09T15:35:38",
+ "spacing_s": 600,
+ "driver": "playwright",
+ "runs": [
+  {
+   "label": "A2_jul27_2adultos",
+   "dep": "2027-07-21",
+   "ret": "2027-07-28",
+   "adults": 2,
+   "url_params": "adults=2&cabin=ALL&children=0&departureDate=1816138800000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnD",
+   "status": "SPINNER",
+   "first_state_s": 180,
+   "distinct_miles": [],
+   "n_miles_values": 0,
+   "body_head": "Smiles | GRU | BKK | Qua, 21 jul | BKK | GRU | Qua, 28 jul | 2 pessoas adultas | Alterar busca | Acesse ou crie a sua conta |  | Junte milhas e comece a viajar |  | Acessar conta | Criar conta | Escolha sua passagem de volta | BKK | GRU | Qua, 28 jul | Taxas da viagem | Você vai visualizar as taxas de viagem depois de escolher os voos. | Aguarde enquanto buscamos os melhores voos para sua viagem |  | Smiles. A mais completa plataforma de viagens |  | Suas milhas podem fazer seus sonhos decolarem para mais de 1.600 destinos! |  | + 55 companhias aéreas |  | Alguma dúvida sobre a Smiles? |  | Atendimento Smiles | E perguntas frequentes | Te Levo de Milhas | Noss",
+   "screenshot": "smiles_adults_discr_A2_jul27_2adultos.png",
+   "ts": "2026-09-09T15:25:05"
+  },
+  {
+   "label": "A1_jul27_1adulto",
+   "dep": "2027-07-21",
+   "ret": "2027-07-28",
+   "adults": 1,
+   "url_params": "adults=1&cabin=ALL&children=0&departureDate=1816138800000&infants=0&isElegible=false&isFlexibleDateChecked=false&returnD",
+   "status": "RENDERED",
+   "first_state_s": 24,
+   "distinct_miles": [
+    301500,
+    311000,
+    333900,
+    340100,
+    342700,
+    387200,
+    413200
+   ],
+   "n_miles_values": 7,
+   "body_head": "Smiles | GRU | BKK | Qua, 21 jul | BKK | GRU | Qua, 28 jul | 1 pessoa adulta | Alterar busca | Acesse ou crie a sua conta |  | Junte milhas e comece a viajar |  | Acessar conta | Criar conta | Escolha sua passagem de ida | O valor das passagens é cobrado por viajante. | Conferir cupom de desconto |  Previous | Dom, 06 set | Seg, 07 set | Ter, 08 set | Qua, 09 set | Dom, 18 jul | 333.900 milhas | Seg, 19 jul | 311.000 milhas | Ter, 20 jul | 311.000 milhas | Qua, 21 jul | 301.500 milhas | Qui, 22 jul | 311.000 milhas | Sex, 23 jul | 311.000 milhas | Sab, 24 jul | 311.000 milhas |  Next | Ver mais datas e tarifas | Filtrar | Ordenar | Menor preço |  | AIR FRANCE•Econômica |  | GRU 14h",
+   "screenshot": "smiles_adults_discr_A1_jul27_1adulto.png",
+   "ts": "2026-09-09T15:35:37"
+  }
+ ],
+ "outcome": "DRIVER_FIX_PLUS_ADULTS",
+ "action": "driver vanilla E 1 adulto necessários — plano original (1 adulto em produção) com validação D1b de 3 manhãs"
+}

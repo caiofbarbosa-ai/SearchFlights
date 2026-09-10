@@ -30,7 +30,11 @@ async def main():
         await Stealth().apply_stealth_async(page)
 
         log("abrindo resultados (datas de controle, dez/2026)...")
-        await page.goto(build_url(), timeout=90_000)
+        # BUG 09/09: build_url() sem args caía nas datas de PRODUÇÃO
+        # (jul/27, que nunca renderiza) — o "combo não renderiza em
+        # automação" era isso. Passa as datas de controle definidas acima.
+        await page.goto(build_url(departure_date=D, return_date=R),
+                        timeout=90_000)
         for text in ("Rejeitar todos", "Aceitar todos Cookies", "Outro dia"):
             try:
                 btn = page.locator(f"button:has-text('{text}')").first

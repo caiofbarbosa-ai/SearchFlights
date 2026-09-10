@@ -58,17 +58,20 @@ def _quote_lines(quotes: list[FlightQuote], source: str = "") -> list[str]:
             lines.append(f"  💵 {escape(origin)}: {_fmt_brl(cash.cash_price_brl)}"
                          f"{suffix}{airline}")
         if best and best.miles:
-            extra = (f" (+ {_fmt_brl(best.cash_component_brl)})"
-                     if best.cash_component_brl else "")
+            # o dinheiro NUNCA entra na linha de pontos — vai na linha do combo
             airline = f" — {escape(best.airline)}" if best.airline else ""
-            lines.append(f"  🎫 {escape(origin)}: {best.miles:,} pontos{extra}"
-                         f"{airline}".replace(",", "."))
+            # Smiles exibe valores "por viajante" (busca com 1 passageiro)
+            per = " (por viajante)" if source == "smiles" else ""
+            lines.append(f"  🎫 {escape(origin)}: {best.miles:,} pontos"
+                         f"{per}{airline}".replace(",", "."))
         combo = next((q for q in qs if q.status == Status.SUCCESS
                       and q.hybrid_miles and q.cash_component_brl), None)
         if combo:
-            lines.append(f"  💰 {escape(origin)}: combo {combo.hybrid_miles:,} "
-                         f"milhas + {_fmt_brl(combo.cash_component_brl)}"
-                         .replace(",", "."))
+            c_airline = f" — {escape(combo.airline)}" if combo.airline else ""
+            lines.append(f"  💰 {escape(origin)}: combo "
+                         f"{combo.hybrid_miles:,} milhas + "
+                         f"{_fmt_brl(combo.cash_component_brl)}"
+                         f"{c_airline} (por viajante)".replace(",", "."))
         elif source == "smiles" and best and best.miles                 and best.miles > COMBO_ESTIMATE_MILES:
             # estimativa provisória: painel de combos não capturável em automação
             est = (best.miles - COMBO_ESTIMATE_MILES) \

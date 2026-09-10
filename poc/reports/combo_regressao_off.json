@@ -1,0 +1,26 @@
+{
+ "sufixo": "off",
+ "flag_combo": false,
+ "status": "SUCCESS",
+ "miles": 301500,
+ "hybrid_miles": null,
+ "cash_component_brl": null,
+ "airline": "AIR FRANCE",
+ "passengers": 1,
+ "raw_sample": {
+  "distinct_miles": [
+   301500,
+   311800,
+   334700,
+   340900,
+   342700,
+   387200,
+   414200
+  ],
+  "card": "AIR FRANCE•Econômica\n\nGRU 14h40\n\nBKK 09h15\n\nSão Paulo\n\nBangkok\n\n1 parada\n\n32h35min\n\n•\n\n1\n\n-\n\n-\n\nMais detalhes\n\nA partir de 301.500 milhas por viajante\n\nou combine milhas e dinheiro com Smiles&Money\n\nSelecionar tarifa"
+ },
+ "telegram_lines": [
+  "  🎫 GRU: 301.500 pontos (por viajante) — AIR FRANCE",
+  "  💰 GRU: ~combo 200.000 milhas + R$ 2.233 (estimado)"
+ ]
+}

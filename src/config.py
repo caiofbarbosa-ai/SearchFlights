@@ -34,6 +34,10 @@ class Settings:
     return_date: date = field(
         default_factory=lambda: _env_date("RETURN_DATE", "2027-07-28"))
     adults: int = int(os.getenv("ADULTS", "2"))
+    # Smiles consulta com 1 passageiro: a busca com 2 adultos NÃO é respondida
+    # pelo back-end (spinner eterno — matriz 09/09, findings §RESOLUÇÃO).
+    # Os valores exibidos são "por viajante" de qualquer forma.
+    smiles_adults: int = int(os.getenv("SMILES_ADULTS", "1"))
 
     # Smiles/Azul: Chrome real para CDP-attach (vazio = autodetectar)
     chrome_path: str = os.getenv("CHROME_PATH", "")

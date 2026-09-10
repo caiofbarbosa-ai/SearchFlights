@@ -253,6 +253,8 @@ async def _search_origin(page, origin: str) -> FlightQuote:
         quote.miles = so_vals[0]  # 8.7 menor só-pontos
         # 8.8 combo: o de MENOR milhas (mais acessível) entre os cards
         combo_cards = [c for c in cards if c["combo"]]
+        print(f"    [DEBUG azul] combo_cards: {len(combo_cards)} | "
+              f"primeiro: {combo_cards[0] if combo_cards else '—'}")
         if combo_cards:
             best_combo = min((c["combo"] for c in combo_cards),
                              key=lambda c: c[0])
@@ -261,6 +263,9 @@ async def _search_origin(page, origin: str) -> FlightQuote:
             quote.hybrid_miles = combo_card["combo"][0]
             quote.cash_component_brl = combo_card["combo"][1]
             quote.airline = combo_card["airline"]
+            print(f"    [DEBUG azul] atribuído: hybrid={quote.hybrid_miles} "
+                  f"cash={quote.cash_component_brl} "
+                  f"cia={quote.airline}")
         elif so_vals:
             so_card = min((c for c in cards if c["so_pontos"]),
                           key=lambda c: c["so_pontos"])
